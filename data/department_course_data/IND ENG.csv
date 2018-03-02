@@ -1,0 +1,188 @@
+code,title,units,prereqs,offered,corrupt
+IND ENG 24,Freshman Seminars,1 Unit,,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+The Berkeley Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small-seminar setting. Berkeley Seminars are offered in all campus departments, and topics vary from department to department and semester to semester.",0
+IND ENG 66,A Bivariate Introduction to IE and OR,3 Units,,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2016<br/>
+This Freshman-level Introductory course will provide an intuitive overview of the fundamental problems addressed and methods in the fields of Industrial Engineering and Operations Research including Constrained Optimization, Human Factors, Data Analytics, Queues and Chains, and Linear Programming. The course will focus on two-dimensional, i.e., bivariate, examples where the problems and methods are amenable to",0
+IND ENG 95,A. Richard Newton Lecture Series,1 Unit,,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+This lecture series serves as an entry point for undergraduate and graduate curriculum sequences in entrepreneurship and innovation. The series, established in 2005, is named in honor of A. Richard Newton, a visionary technology industry leader and late dean of the University of California Berkeley College of Engineering. The course features a selection of high-level industry speakers",0
+IND ENG 115,Industrial and Commercial Data Systems,3 Units, Upper division standing,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Design and implementation of databases, with an emphasis on industrial and commercial applications. Relational algebra, SQL, normalization. Students work in teams with local companies on a database design project. WWW design and queries.",0
+IND ENG 130,Methods of Manufacturing Improvement,3 Units," 172, Mathematics 54, or Statistics 134 (may be taken concurrently)","Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Analytical techniques for the improvement of manufacturing performance along the dimensions of productivity, quality, customer service, and throughput. Techniques for yield analysis, process control, inspection sampling, equipment efficiency analysis, cycle time reduction, and on-time delivery improvement. Applications on semiconductor manufacturing or other industrial settings.",0
+IND ENG 135,Applied Data Science with Venture Applications,3 Units," Prerequisites include the ability to write code in Python, and a probability or statistics course. This course is ideal for students who have taken CS/INFO/STAT C8","Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Fall 2017<br/>
+This highly-applied course surveys a variety of key of concepts and tools that are useful for designing and building applications that process data signals of information. The course introduces modern open source, computer programming tools, libraries, and code samples that can be used to implement data applications. The mathematical concepts highlighted in this course include filtering, prediction",0
+IND ENG 142,Introduction to Machine Learning and Data Analytics,3 Units, IEOR 165 or equivalent course in statistics. Prior exposure to optimization is helpful but not strictly necessary. Some programming experience/literacy is expected,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017<br/>
+This course introduces students to key techniques in machine learning and data analytics through a diverse set of examples using real datasets from domains such as e-commerce, healthcare, social media, sports, the Internet, and more. Through these examples, exercises in R, and a comprehensive team project, students will gain experience understanding and applying techniques such as linear regression, logistic regression",0
+IND ENG 150,Production Systems Analysis,3 Units," 160, 161, 162, 165, and Engineering 120, or senior standing in manufacturing engineering","Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Fall 2016, Fall 2015<br/>
+Quantitative models for operational and tactical decision making in production systems, including production planning, inventory control, forecasting, and scheduling.",0
+IND ENG 151,Service Operations Design and Analysis,3 Units," 161, 162, and a course in statistics","Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+This course is concerned with improving processes and designing facilities for service businesses such as banks, health care organizations, telephone call centers, restaurants, and transportation providers. Major topics in the course include design of service processes, layout and location of service facilities, demand forecasting, demand management, employee scheduling, service quality management",0
+IND ENG 153,Logistics Network Design and Supply Chain Management,3 Units," 160, 162 or senior standing","Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+We will focus primarily on both quantitative and qualitative issues which arise in the integrated design and management of the entire logistics network. Models and solution techniques for facility location and logistics network design will be considered. In addition, qualitative issues in distribution network structuring, centralized versus decentralized network control, variability",0
+IND ENG 160,Nonlinear and Discrete Optimization,3 Units, Mathematics 53 and 54,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+This course introduces unconstrained and constrained optimization with continuous and discrete domains. Convex sets and convex functions; local optimality; KKT conditions; Lagrangian duality; steepest descent and Newton's method. Modeling with integer variables; branch-and-bound method; cutting planes. Models on production/inventory planning, logistics, portfolio optimization, factor modeling",0
+IND ENG 162,Linear Programming and Network Flows,3 Units, Mathematics 53 and 54,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+This course addresses modeling and algorithms for optimization of linear constrained optimization problems. The simplex method; theorems of duality; complementary slackness. Applications in production planning and resource allocation. Graph and network problems as linear programs with integer solutions. Algorithms for selected network flow problems. Transportation and logistics problems.",0
+IND ENG 165,"Engineering Statistics, Quality Control, and Forcasting",3 Units, Industrial Engineering 172 or Statistics 134 or an equivalent course in probability theory,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+This course will introduce students to basic statistical techniques such as parameter estimation, hypothesis testing, regression analysis, analysis of variance. Applications in forecasting and quality control.<br/>
+<br/>",0
+IND ENG 166,Decision Analytics,3 Units, 172 or Statistics 134,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Introductory course on the theory and applications of decision analysis. Elective course that provides a systematic evaluation of decision-making problems under uncertainty. Emphasis on the formulation, analysis, and use of decision-making techniques in engineering, operations research and systems analysis. Includes formulation of risk problems and probabilistic risk assessments. Graphical",0
+IND ENG 170,Industrial Design and Human Factors,3 Units, Upper division standing,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+This course surveys topics related to the design of products and interfaces ranging from alarm clocks, cell phones, and dashboards to logos, presentations, and web sites. Design of such systems requires familiarity with human factors and ergonomics, including the physics and perception of color, sound, and touch, as well as familiarity with case studies and contemporary practices in",0
+IND ENG 171,Technology Firm Leadership,3 Units, Upper division standing,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+This course explores key management and leadership concepts relevant to the high-technology world. Topics include the firm's key operations, strategic issues, and managerial leadership including personal leadership and talent management. This course prepares technical and business minded students for careers focused on professional and management track careers in high technology. Students",0
+IND ENG 172,Probability and Risk Analysis for Engineers,3 Units," Students should have a solid knowledge of calculus, including multiple variable integration, such as Mathematics 1A-1B or 16A-16B, as well as programming experience in Matlab or Python","Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+This is an introductory course in probability designed to develop a good understanding of uncertain phenomena and the mathematical tools used to model and analyze it. Applications will be given in such areas as reliability theory, risk theory, inventory theory, financial models, and computer science, among others. To complement the theory, the course also covers the basics of stochastic simulation.",0
+IND ENG 173,Introduction to Stochastic Processes,3 Units," Students should have taken a probability course, such as ","Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Spring 2017<br/>
+This is an introductory course in stochastic models. It builds upon a basic course in probability theory and extends the concept of a single random variable into collections of random variables known as stochastic processes. The course focuses on discrete-time Markov chains, Poisson process, continuous-time Markov chains, and renewal theory. It also discusses applications to queueing theory, risk",1
+IND ENG 180,Senior Project,4 Units," 131, 160, 161, 162, 165, Engineering 120, and three other Industrial Engineering and Operations Research electives","Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Application of systems analysis and industrial engineering to the analysis, planning, and/or design of industrial, service, and government systems. Consideration of technical and economic aspects of equipment and process design. Students work in teams under faculty supervision. Topics vary yearly.",0
+IND ENG 185,Challenge Lab,4 Units,,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Summer 2018 Second 6 Week Session, Spring 2018, Fall 2017<br/>
+This course is meant for students in engineering and other disciplines who seek a challenging, interactive, team-based, and hands-on learning experience in entrepreneurship and technology. In this highly experiential course, students work in simulated start-up teams to create products or start-up ideas to address a broadly-defined need of an industry partner or social",0
+IND ENG 186,Product Management,3 Units,,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Too often we are enamored in our brilliant ideas, we skip the most important part: building products consumers will want and use. Precious time and effort is wasted on engineering perfect products only to launch to no users. This course teaches product management skills such as attributes of great product managers, reducing risk and cost while accelerating time to market, product life",0
+IND ENG 190A,Advanced Topics in Industrial Engineering and Operations Research,1 - 4 Units,,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Fall 2016, Spring 2016<br/>
+The 190 series cannot be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).",0
+IND ENG 190B,Advanced Topics in Industrial Engineering and Operations Research: Entrepreneurial Marketing and Finance,1 - 4 Units,,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Spring 2014, Fall 2013<br/>
+The 190 series cannot be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).",0
+IND ENG 190C,Advanced Topics in Industrial Engineering and Operations Research,1 - 4 Units,,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+The 190 series cannot be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).",0
+IND ENG 190D,Advanced Topics in Industrial Engineering and Operations Research,1 - 4 Units,,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Fall 2014, Spring 2014<br/>
+The 190 series cannot be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).",0
+IND ENG 190E,Advanced Topics in Industrial Engineering and Operations Research: Entrepreneurship &amp; Innovation,1 - 4 Units,,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2014, Fall 2013<br/>
+The 190 series cannot be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).",0
+IND ENG 190G,Advanced Topics in Industrial Engineering and Operations Research,1 - 4 Units,,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2016, Spring 2015, Spring 2014<br/>
+The 190 series cannot be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).",0
+IND ENG 191,Technology Entrepreneurship,3 Units, Junior or senior standing,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+This course explores key entrepreneurial concepts relevant to the high-technology world. Topics include the entrepreneurial perspective, start-up strategies, business idea evaluation, business plan writing, introduction to entrepreneurial finance and venture capital, managing growth, and delivering innovative products. This course prepares technical and business minded students for careers",0
+IND ENG 192,Berkeley Method of Entrepreneurship Bootcamp,2 Units,,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Summer 2018 Second 6 Week Session, Spring 2018, Fall 2017<br/>
+This course offers the opportunity to understand the Berkeley Method of Entrepreneurship (BME) in an intensive format. The BME curriculum conveys the latest approaches for training global technology entrepreneurs. This method leverages insights on strategy, tactics, culture, and psychology with an accompanying entrepreneurial infrastructure. The curriculum is structured",0
+IND ENG 195,A. Richard Newton Lecture Series,1 Unit,,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+This lecture series serves as an entry point for undergraduate and graduate curriculum sequences in entrepreneurship and innovation. The series, established in 2005, is named in honor of A. Richard Newton, a visionary technology industry leader and late dean of the University of California Berkeley College of Engineering. The course features a selection of high-level industry speakers",0
+IND ENG 197,Undergraduate Field Research in Industrial Engineering,1 - 12 Units, Completion of two semesters of coursework,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Summer 2018 10 Week Session, Summer 2017 10 Week Session, Summer 2016 10 Week Session<br/>
+Students work on a field project under the supervision of a faculty member. Course does not satisfy unit or residence requirements for bachelor's degree.",0
+IND ENG 198,Directed Group Studies for Advanced Undergraduates,1 - 4 Units, Senior standing in Engineering,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2016, Spring 2016, Fall 2015<br/>
+Group studies of selected topics. Semester course unit value and contact hours will have a one-to-one ratio.",0
+IND ENG 199,Supervised Independent Study,1 - 4 Units, Consent of instructor and major adviser,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Summer 2016 10 Week Session, Summer 2015 10 Week Session, Spring 2015<br/>
+Supervised independent study. Enrollment restrictions apply.",0
+IND ENG 220,Economics and Dynamics of Production,3 Units," 262A (may be taken concurrently), Mathematics 104 recommended","Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+Analysis of the capacity and efficiency of production systems. Development of analytical tools for improving efficiency, customer service, and profitability of production environments. Design and development of effective industrial production planning systems. Modelling principles are illustrated by reviewing actual large-scale planning systems successfully implemented for naval ship",0
+IND ENG 221,Introduction to Financial Engineering,3 Units," 162 or 262A, course in probability, or consent of instructor","Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+A course on financial concepts useful for engineers that will cover, among other topics, those of interest rates, present values, arbitrage, geometric Brownian motion, options pricing, & portfolio optimization. The Black-Scholes option-pricing formula will be derived and studied. Stochastic simulation ideas will be introduced and used to obtain the risk-neutral geometric Brownian",0
+IND ENG 222,Financial Engineering Systems I,3 Units, 221 or equivalent; 172 or Statistics 134 or a one-semester probability course,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Fall 2016, Fall 2015<br/>
+Introductory graduate level course, focusing on applications of operations research techniques, e.g., probability, statistics, and optimization, to financial engineering. The course starts with a quick review of 221, including no-arbitrage theory, complete market, risk-neutral pricing, and hedging in discrete model, as well as basic probability and statistical tools. It then covers Brownian",0
+IND ENG 223,Financial Engineering Systems II,3 Units, 222 or equivalent; 161 or 263A or equivalent,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017<br/>
+Advanced graduate course for Ph.D. students interested in pursuing a professional/research career in financial engineering. The course will start with a quick review of 222: the basics of Brownian motion, martingales, Ito's calculus, risk-neutral pricing in continuous time models. It then covers rigorously and in depth the most fundamental probability concepts for financial engineers, including stochastic integral",0
+IND ENG 224,Portfolio and Risk Analytics,3 Units," A basic understanding of statistics and optimization, as well as fluency in a programming, language is required","Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018<br/>
+The course aims to train students in hands-on statistical, optimization, and data analytics for quantitative portfolio and risk management. In addition, the course will introduce elements of financial markets and asset classes. The emphasis will be on computational methods such as variants of GARCH, Black-Litterman, conic optimization, Monte Carlo simulation for risk and optimization, factor modeling. Students",0
+IND ENG C227B,Convex Optimization and Approximation,3 Units, 227A or consent of instructor,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Convex optimization as a systematic approximation tool for hard decision problems. Approximations of combinatorial optimization problems, of stochastic programming problems, of robust optimization problems (i.e., with optimization problems with unknown but bounded data), of optimal control problems. Quality estimates of the resulting approximation. Applications in robust engineering",0
+IND ENG 231,"Introduction to Data Modeling, Statistics, and System Simulation",3 Units," 262A, 263A or equivalents and some programming experience","Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2015, Spring 2014<br/>
+This course uses simulation models for analyzing and optimizing systems where the underlying processes and/or parameters are not fully known, but data may be available, sampled, or artificially generated. Monte Carlo simulations are used in a weekly laboratory to model systems that may be too complex to approximate accurately with deterministic, stationary, or static models; and to",0
+IND ENG 240,Optimization Analytics,3 Units," Basic analysis and linear algebra, and basic computer skills and experience","Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Computing technology has advanced to the point that commonly available tools can be used to solve practical decision problems and optimize real-world systems quickly and efficiently. This course will focus on the understanding and use of such tools, to model and solve complex real-world business problems, to analyze the impact of changing data and relaxing assumptions on these decisions,",0
+IND ENG 241,"Risk Modeling, Simulation, and Data Analysis",3 Units," Basic notions of probability, statistics, and some programming and spreadsheet analysis experience","Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+This is a Masters of Engineering course, in which students will develop a fundamental understanding of how randomness and uncertainty are root causes of risk in modern enterprises. The technical material will be presented in the context of engineering team system design and operations decisions.",0
+IND ENG 242,Applications in Data Analysis,3 Units," Prerequisites include working knowledge of a programming language (preferably Python), database language (preferably SQL), a statistical package (preferably R), and an understanding of basic linear and non-­‐linear statistical models. Prior exposure to machine learning is helpful, though this will be covered in the predictive analytics and theory course","Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+This course applies foundational concepts in programming, databases, machine learning, and statistical modeling to answer questions from business and social science. The goal is for students to develop the experience and intuition to gather and build new datasets and answer substantive questions.<br/>",0
+IND ENG 250,Introduction to Production Planning and Logistics Models,3 Units, 262A and 263A taken concurrently,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+This will be an introductory first-year graduate course covering fundamental models in production planning and logistics. Models, algorithms, and analytical techniques for inventory control, production scheduling, production planning, facility location and logistics network design, vehicle routing, and demand forecasting will be discussed.",0
+IND ENG C253,Supply Chain and Logistics Management,3 Units,,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Supply chain analysis is the study of quantitative models that characterize various economic trade-offs in the supply chain. The field has made significant strides on both theoretical and practical fronts. On the theoretical front, supply chain analysis inspires new research ventures that blend operations research, game theory, and microeconomics. These ventures result in an unprecedented",0
+IND ENG 258,Control and Optimization for Power Systems,3 Units,,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017<br/>
+One of the grand challenges of this century is the modernization of electrical power networks. This graduate-level course provides a fundamental understanding of the mathematics behind the operation of power grids.",0
+IND ENG 262A,Mathematical Programming I,4 Units, Mathematics 110,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Basic graduate course in linear programming and introduction to network flows and non-linear programming. Formulation and model building. The simplex method and its variants. Duality theory. Sensitivity analysis, parametric programming, convergence (theoretical and practical). Polynomial time algorithms. Introduction to network flows models. Optimality conditions for non linear optimization",0
+IND ENG 262B,Mathematical Programming II,3 Units, Math 110 or equivalent,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Basic first year graduate course in optimization of non-linear programs. Formulation and model building. Theory of optimization for constrained and unconstrained problems. Study of algorithms for non-linear optimization with emphasis on design considerations and performance evaluation.",0
+IND ENG 263A,Applied Stochastic Process I,4 Units," Industrial Engineering 172, or Statistics 134 or Statistics 200A.  Probability background with Industrial Engineering 161 or equivalent is recommended","Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Conditional Expectation. Poisson and general point process and renewal theory. Renewal<br/>
+reward processes with application to inventory, congestion, and replacement models. <br/>
+Discrete and continuous time Markov chains; with applications to various stochastic <br/>
+systems--such as queueing systems, inventory models and reliability systems.",0
+IND ENG 263B,Applied Stochastic Process II,3 Units, 263A,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Continuous time Markov chains. The reversed chain concept in continuous time Markov chains with applications of queueing theory. Semi-Markov processes with emphasis on application. Brownian Motion. Random walks with applications. Introduction to Martinjales.",0
+IND ENG 264,Computational Optimization,3 Units, 262A,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+This course is on computational methods for the solution of large-scale optimization problems. The focus is on converting the theory of optimization into effective computational techniques. Course topics include an introduction to polyhedral theory, cutting plane methods, relaxation, decomposition and heuristic approaches for large-scale optimization problems.",0
+IND ENG 265,Learning and Optimization,3 Units, Course on optimization (Industrial Engineering 162 or equivalent); course on statistics or stochastic processes (Industrial Engineering 165 or equivalent) Industrial Engin and Oper Research 165,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+This course will cover topics related to the interplay between optimization and statistical learning. The first part of the course will cover statistical modeling procedures that can be defined as the minimizer of a suitable optimization problem. The second part of the course will discuss the formulation and numerical implementation of learning-based model predictive control (LBMPC)",0
+IND ENG 266,Network Flows and Graphs,3 Units, 262A (may be taken concurrently),"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Survey of solution techniques and problems that have formulations in terms of flows in networks. Max-flow min-cut theorem. Minimum cost flows. Multiterminal and multicommodity flows. Relationship with linear programming, transportation problems, electrical networks and critical path scheduling.",0
+IND ENG 267,Queueing Theory,3 Units, 263A,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2016, Spring 2015, Fall 2011<br/>
+The result ""L = (lambda) w"" and other conservation laws. Elementary queueing models; comparing single- and multiple-server queues. PASTA. Work. Markovian queues; product form results. Overflow models. Embedded Markov chains. Random walks and the GI/G/l queues. Work conservation; priorities. Bounds and approximations.",0
+IND ENG 268,Applied Dynamic Programming,3 Units, Mathematics 51,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Spring 2017, Fall 2013<br/>
+Dynamic programming formulation of deterministic decision process problems, analytical and computational methods of solution, application to problems of equipment replacement, resource allocation, scheduling, search and routing. Brief introduction to decision making under risk and uncertainty.",0
+IND ENG 290,Special Topics in Industrial Engineering and Operation Research,2 - 3 Units, Upper level standing or graduate student,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Lectures and appropriate assignments on fundamental or applied topics of current interest in industrial engineering and operations research.",0
+IND ENG 290G,Advanced Mathematical Programming,3 Units, 262A,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2014, Spring 2011<br/>
+Selected topics in mathematical programming. The actual subjects covered may include: Convex analysis, duality theory, complementary pivot theory, fixed point theory, optimization by vector space methods, advanced topics in nonlinear algorithms, complexity of mathematical programming algorithms (including linear programming).",0
+IND ENG 290R,Topics in Risk Theory,3 Units, 263A,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2016, Spring 2015, Spring 2014<br/>
+Seminar on selected topics from financial and technological risk theory, such as risk modeling, attitudes towards risk and utility theory, portfolio management, gambling and speculation, insurance and other risk-sharing arrangements, stochastic models of risk generation and run off, risk reserves, Bayesian forecasting and credibility approximations, influence diagrams, decision trees.",0
+IND ENG 295,A. Richard Newton Lecture Series,1 Unit,,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+This lecture series serves as an entry point for undergraduate and graduate curriculum sequences in entrepreneurship and innovation. The series, established in 2005 is named in honor of A. Richard Newton, a visionary technology industry leader and late dean of the University of California-Berkeley College of Engineering. The course features a selection of high-level industry speakers",0
+IND ENG 298,"Group Studies, Seminars, or Group Research",1 - 4 Units,,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Advanced seminars in industrial engineering and operations research.",0
+IND ENG 299,Individual Study or Research,1 - 12 Units,,"Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2016, Spring 2016, Summer 2015 10 Week Session<br/>
+Individual investigation of advanced industrial engineering problems.",0

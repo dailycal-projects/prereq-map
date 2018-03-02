@@ -1,0 +1,49 @@
+code,title,units,prereqs,offered,corrupt
+DEMOG 5,Fundamentals of Population Science,3 Units,,"Terms offered: Summer 2018 First 6 Week Session, Summer 2018 Second 6 Week Session, Fall 2011<br/>
+This course provides an accessible introduction to the social science of demography. The course is organized around cases in which population issues raise policy or ethical dilemmas (example: China's one child policy). Through these cases, students will learn how demographers use models and data to acquire knowledge about population. Throughout the course, students will also learn to read, interpret",0
+DEMOG 88,Immigration: What do the data tell us?,2 Units, Prerequisites and Restrictions (if any): Corequisite or Prerequisite: Foundations of Data Science (,"Terms offered: Fall 2017<br/>
+This course will cover the small but important part of the rich history human migration that deals with the population of the United<br/>
+States--focusing on the 20th and 21st Centuries. We will use the tools of DS8 to answer specific questions that relate to the themes<br/>
+of this course:<br/>
+<br/>
+(1) Why do people migrate?<br/>
+<br/>
+(2) Is immigration good or bad for receiving (and sending) countries?<br/>
+<br/>
+(3) How do immigrants adapt and how do societies",1
+DEMOG 98,Directed Group Study,1 - 4 Units,,"Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+Undergraduate research by small groups.",0
+DEMOG 110,Introduction to Population Analysis,3 Units,,"Terms offered: Summer 2018 First 6 Week Session, Summer 2018 Second 6 Week Session, Fall 2017<br/>
+Measures and methods of Demography. Life tables, fertility and nuptiality measures, age pyramids, population projection, measures of fertility control.",0
+DEMOG C126,"Sex, Death, and Data",4 Units, 1 or 3 or 3AC or consent of instructor,"Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Introduction to population issues and the field of demography, with emphasis on historical patterns of population growth and change during the industrial era. Topics covered include the demographic transition, resource issues, economic development, the environment, population control, family planning, birth control, family and gender, aging, intergenerational transfers, and international migration.",0
+DEMOG 160,Special Topics in Demography,3 Units,,"Terms offered: Fall 2017, Fall 2009, Spring 2007<br/>
+Special topics in demography. Topics may include the demography of specific world regions, race and ethnicity, population and policy, and population and environment and similiar specialized or new topics in the field of demography will be covered.",0
+DEMOG C175,Economic Demography,4 Units, Economics 1 or 2,"Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+A general introduction to economic demography, addressing the following kinds of questions: What are the economic consequences of immigration to the U.S.? Will industrial nations be able to afford the health and pension costs of the aging populations? How has the size of the baby boom affected its economic well being? Why has fertility been high in Third World countries? In industrial countries, why is marriage postponed, divorce high, fertility",0
+DEMOG 180,Social Networks,3 Units," Introduction to Statistics (Computer Science/Information/Statistics C8 or ""Data 8""), Pre-calculus (Mathematics 32), Python, or consent of instructor","Terms offered: Summer 2018 First 6 Week Session, Summer 2018 Second 6 Week Session, Spring 2018<br/>
+The science of social networks focuses on measuring, modeling, and understanding the different ways that people are connected to one another. We will use a broad toolkit of theories and methods drawn from the social, natural, and mathematical sciences to learn what a social network is, to understand how to work with social network data, and to illustrate some of the ways that social networks can",0
+DEMOG 198,Directed Group Study,1 - 4 Units, 60 units; good academic standing,"Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Undergraduate research by small groups. Enrollment is restricted by regulations governing 198 courses.",0
+DEMOG 199,Supervised Independent Study,1 - 4 Units, Consent of instructor,"Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Supervised independent study and research.",0
+DEMOG 210,Demographic Methods: Rates and Structures,4 Units,,"Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Population models, multiple decrement life tables, hazard functions, stable population theory, projection matrices, projection programs, population waves, dual system estimation, computer-based exercises and simulations. Required course for Demography M.A. and Ph.D. students.",0
+DEMOG 213,Practical Computer Applications for Demographic Analysis,2 Units,,"Terms offered: Fall 2016, Fall 2015, Fall 2014<br/>
+An introductory course for first year Demography graduate students in the use of the Demography laboratory. Covers Unix based tools for manipulating computer programs and data files, and the R, SPlus, and SAS statistical packages. The course introduces the proportional hazard model and methods of estimating it. The final project for this course is use of the 1995 Current Population Survey (fertility supplement) to compute Total Fertility Rates",0
+DEMOG 220,Human Fertility,4 Units,,"Terms offered: Spring 2018, Spring 2013, Fall 2011<br/>
+This course offers a critical, graduate-level introduction to the social science of reproduction, drawing especially on models and theories from demography, sociology, and anthropology. Among the topics are parity specific control and the calculus of conscious choice, below-replacement fertility, and the political economy of stratified reproduction.",0
+DEMOG 260,Special Topics in Demography Seminar,1 - 4 Units, Consent of instructor,"Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Special topics in demography, such as anthropological and evolutionary approaches, kinship and family structure, race and ethnicity, and similar specialized or new topics in the field of demography will be covered. Seminar will be offered according to student demand.",0
+DEMOG 296,Advanced Research Techniques,4 Units, 295 and consent of instructor,"Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Problems in data acquisition, analysis, and presentation of technical demographic research. Required of graduate students in the Ph.D. program in Demography.",0
+DEMOG 298,Directed Reading,1 - 12 Units, Consent of instructor,"Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Intended to provide directed reading in subject matter not covered in available course offerings.",0
+DEMOG 299,Directed Research,1 - 12 Units, Consent of instructor,"Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+Intended to provide supervision in the preparation of an original research paper or dissertation.",0
+DEMOG 301,GSI Training,1 - 6 Units, Appointment as a graduate student instructor in department,"Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Course credit for experience gained in academic teaching through employment as a graduate student instructor.",0
+DEMOG 601,Individual Study,1 - 8 Units, Graduate standing,"Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Individual study, in consultation with the graduate adviser, intended for qualified students to do necessary work to prepare themselves for language examinations, and the comprehensive examination.",0
+DEMOG 602,Individual Study for Doctoral Students,1 - 8 Units, For qualified graduate students,"Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Individual study in consultation with the major field adviser, intended to provide an opportunity for qualified students to prepare themselves for the various examinations required of candidates for the Ph.D.",0

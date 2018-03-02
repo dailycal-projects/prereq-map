@@ -1,0 +1,19 @@
+code,title,units,prereqs,offered,corrupt
+EGYPT 100A,Elementary Egyptian,5 Units,,"Offered through: Near Eastern Studies<br/>
+Terms offered: Fall 2017, Fall 2015, Fall 2013<br/>
+Introduction to Middle Egyptian grammar and texts.",0
+EGYPT 100B,Elementary Egyptian,5 Units,,"Offered through: Near Eastern Studies<br/>
+Terms offered: Spring 2018, Spring 2016, Spring 2014<br/>
+Introduction to Middle Egyptian grammar and texts.",0
+EGYPT 101A,Intermediate Egyptian,3 Units, 100A-100B,"Offered through: Near Eastern Studies<br/>
+Terms offered: Fall 2016, Fall 2014, Fall 2010<br/>
+Readings in Middle Egyptian hieroglyphic and hieratic texts.",0
+EGYPT 101B,Intermediate Egyptian,3 Units, 100A-100B,"Offered through: Near Eastern Studies<br/>
+Terms offered: Spring 2017, Spring 2015, Spring 2011<br/>
+Readings in Middle Egyptian hieroglyphic and hieratic texts.",0
+EGYPT 201A,Later Stages of Egyptian,3 Units, 101A-101B and 102A-102B,"Offered through: Near Eastern Studies<br/>
+Terms offered: Fall 2016, Fall 2011, Fall 2009<br/>
+Introduction to late Egyptian and Demotic.",0
+EGYPT 202B,Egyptian Texts,3 Units, Concurrent or previous enrollment in 201A-201B or consent of instructor,"Offered through: Near Eastern Studies<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Philological analysis of texts of a single genre and period.",0

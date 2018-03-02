@@ -1,0 +1,9 @@
+code,title,units,prereqs,offered,corrupt
+NSE C203,Nanoscale Fabrication,4 Units,,"Terms offered: Spring 2016, Spring 2015, Spring 2013<br/>
+This course discusses various top-down and bottom-up approaches to synthesizing and processing nanostructured materials. The topics include fundamentals of self assembly, nano-imprint lithography, electron beam lithography, nanowire and nanotube synthesis, quantum dot synthesis (strain patterned and colloidal), postsynthesis modification (oxidation, doping, diffusion, surface interactions, and etching techniques). In addition, techniques",0
+NSE C237,Computational Nano-mechanics,3 Units,,"Terms offered: Spring 2018, Spring 2017, Fall 2014, Spring 2013<br/>
+Basic mathematics foundations, physical models, computational formulations and algorithms that are used in nanoscale simulations and modelings. They include (1) cohesive finite element methods and discontinuous Galerkin methods; (2) meshfree methods, partition of unity methods, and the eXtended finite element methods (X-FEM); (3) quasicontinuum method; (4) molecular dynamics; (5) multiscale simulations; (6) Boltzmann method.",0
+NSE 290,Special Topics in Nanoscale Science and Engineering,3 Units, Graduate standing or consent of instructor,"Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Lectures and appropriate assignments on fundamental or applied topics of current interest in nanoscale science and engineering.",0
+NSE 298,"Group Studies, Seminars, or Group Research",1 Unit, Required for participants in Designated Emphasis,"Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Advanced studies in various subjects through special seminars on topics to be selected each year. Informal group studies of special problems, group participation in comprehensive design problems, or group research on complete problems for analysis and experimentation.",0

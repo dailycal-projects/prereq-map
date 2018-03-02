@@ -1,0 +1,223 @@
+code,title,units,prereqs,offered,corrupt
+COMPSCI C8,Foundations of Data Science,4 Units," This course may be taken on its own, but students are encouraged to take it concurrently with a data science connector course (numbered 88 in a range of departments)","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017, Summer 2017 8 Week Session<br/>
+Foundations of data science from three perspectives: inferential thinking, computational thinking, and real-world relevance. Given data arising from some real-world phenomenon, how does one analyze that data so as to understand that phenomenon? The course teaches critical concepts and skills in computer programming and statistical inference, in",0
+COMPSCI 9A,Matlab for Programmers,2 Units, Programming experience equivalent to that gained in Computer Science 10; familiarity with applications of matrix processing,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Introduction to the constructs in the Matlab programming language, aimed at students who already know how to program. Array and matrix operations, functions and function handles, control flow, plotting and image manipulation, cell arrays and structures, and the Symbolic Mathematics toolbox.",0
+COMPSCI 9C,C for Programmers,2 Units," Programming experience with pointers (or addresses in assembly language) and linked data structures equivalent to that gained in Computer Science 9B or 61A, or Engineering 7","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Self-paced course in the C programming language for students who already know how to program. Computation, input and output, flow of control, functions, arrays, and pointers, linked structures, use of dynamic storage, and implementation of abstract data types.",0
+COMPSCI 9D,Scheme and Functional Programming for Programmers,2 Units, Programming experience similar to that gained in Computer Science 10 or Engineering 7,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2016, Fall 2015, Spring 2015<br/>
+Self-paced course in functional programming, using the Scheme programming language, for students who already know how to program. Recursion; higher-order functions; list processing; implementation of rule-based querying.",0
+COMPSCI 9E,Productive Use of the UNIX Environment,2 Units, Programming experience similar to that gained in Computer Science 61A or Engineering 7; DOS or UNIX experience,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Use of UNIX utilities and scripting facilities for customizing the programming environment, organizing files (possibly in more than one computer account), implementing a personal database, reformatting text, and searching for online resources.",0
+COMPSCI 9F,C++ for Programmers,2 Units," Programming experience equivalent to that gained in Computer Science 9B or 61A, or Engineering 7","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Self-paced introduction to the constructs provided in the C++ programming language for procedural and object-oriented programming, aimed at students who already know how to program.",0
+COMPSCI 9G,JAVA for Programmers,2 Units, 9C or 9F or 61A plus experience with object-oriented programming or C-based language,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Self-paced course in Java for students who already know how to program. Applets; variables and computation; events and flow of control; classes and objects; inheritance; GUI elements; applications; arrays, strings, files, and linked structures; exceptions; threads.",0
+COMPSCI 9H,Python for Programmers,2 Units, Programming experience equivalent to that gained in Computer Science 10,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Introduction to the constructs provided in the Python programming language, aimed at students who already know how to program. Flow of control; strings, tuples, lists, and dictionaries; CGI programming; file input and output; object-oriented programming; GUI elements.",0
+COMPSCI 10,The Beauty and Joy of Computing,4 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+An introduction to the beauty and joy of computing. The history, social implications, great principles, and future of computing. Beautiful applications that have changed the world. How computing empowers discovery and progress in other fields. Relevance of computing to the student and society will be emphasized. Students will learn the joy of programming a computer using",0
+COMPSCI 36,CS Scholars Seminar: The Educational Climate in CS & CS61A technical discussions,2 Units," Prerequisite satisfied Concurrently: Participating in the CS Scholars program, and concurrently taking Computer Science 61A","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018<br/>
+Computer Science 36 is a seminar for CS Scholars who are concurrently taking CS61A: The Structure and Interpretation of Computer Programs. CS Scholars is a cohort-model program to provide support in exploring and potentially declaring a CS major for students with little to no computational background prior to coming to the university. CS 36 provides an introduction to the CS curriculum at UC Berkeley, and the",0
+COMPSCI 39,Freshman/Sophomore Seminar,1.5 - 2 Units, Priority given to freshmen and sophomores,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Spring 2017<br/>
+Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25.",0
+COMPSCI 39R,Freshman/Sophomore Seminar,1.5 - 4 Units, Priority given to freshmen and sophomores,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2016, Spring 2013<br/>
+Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25.",0
+COMPSCI 47A,Completion of Work in Computer Science 61A,1 Unit," 61B or equivalent, 9D, and consent of instructor","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Implementation of generic operations. Streams and iterators. Implementation techniques for supporting functional, object-oriented, and constraint-based programming in the Scheme programming language. Together with 9D, 47A constitutes an abbreviated, self-paced version of 61A for students who have already taken a course equivalent to 61B.",0
+COMPSCI 47B,Completion of Work in Computer Science 61B,1 Unit," A course in data structures, 9G or equivalent, and consent of instructor","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Iterators. Hashing, applied to strings and multi-dimensional structures. Heaps. Storage management. Design and implementation of a program containing hundreds of lines of code. Students with sufficient partial credit in 61B may, with consent of instructor, complete the credit in this self-paced course.",0
+COMPSCI 47C,Completion of Work in Computer Science 61C,1 Unit," Experience with assembly language including writing an interrupt handler, 9C or equivalent, and consent of instructor","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+MIPS instruction set simulation. The assembly and linking process. Caches and virtual memory. Pipelined computer organization. Students with sufficient partial credit in 61C may, with consent of instructor, complete the credit in this self-paced course.",0
+COMPSCI 61A,The Structure and Interpretation of Computer Programs,4 Units, Mathematics 1A (may be taken concurrently); programming experience equivalent to that gained in 3 or the Advanced Placement Computer Science A course,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+An introduction to programming and computer science focused on abstraction techniques as means to manage program complexity. Techniques include procedural abstraction; control abstraction using recursion, higher-order functions, generators, and streams; data abstraction using interfaces, objects, classes, and generic operators; and language abstraction using interpreters",0
+COMPSCI 61AS,The Structure and Interpretation of Computer Programs (Self-Paced),1 - 4 Units," Mathematics 1A (may be taken concurrently). Programming experience equivalent to that gained in 10 or the Advanced Placement Computer Science A course is recommended, but is not essential; students without this experience will begin at an earlier point in the online course","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2016, Fall 2015, Summer 2015 8 Week Session<br/>
+Introductory programming and computer science. Abstraction as means to control program complexity. Programming paradigms: functional, object-oriented, client/server, and declarative (logic). Control abstraction: recursion and higher order functions. Introduction to asymptotic analysis of algorithms. Data abstraction: abstract data types, type-tagged data, first class data",0
+COMPSCI 61B,Data Structures,4 Units, Computer ScienceI 61A or Computer Science 88 or Engineering 7,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Fundamental dynamic data structures, including linear lists, queues, trees, and other linked structures; arrays strings, and hash tables. Storage management. Elementary principles of software engineering. Abstract data types. Algorithms for sorting and searching. Introduction to the Java programming language.",0
+COMPSCI 61BL,Data Structures and Programming Methodology,4 Units, ,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Summer 2018 8 Week Session, Summer 2017 8 Week Session, Summer 2016 8 Week Session<br/>
+The same material as in 61B, but in a laboratory-based format.",1
+COMPSCI 61C,Great Ideas of Computer Architecture (Machine Structures),4 Units," 61A, along with either 61B or 61BL, or programming experience equivalent to that gained in 9C, 9F, or 9G","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+The internal organization and operation of digital computers. Machine architecture, support for high-level languages (logic, arithmetic, instruction sequencing) and operating systems (I/O, interrupts, memory management, process switching). Elements of computer logic design. Tradeoffs involved in fundamental architectural design decisions.",0
+COMPSCI 70,Discrete Mathematics and Probability Theory,4 Units," Sophomore mathematical maturity, and programming experience equivalent to that gained in 3 or the Advanced Placement Computer Science A course","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+Logic, infinity, and induction; applications include undecidability and stable marriage problem. Modular arithmetic and GCDs; applications include primality testing and cryptography. Polynomials; examples include error correcting codes and interpolation. Probability including sample spaces, independence, random variables, law of large numbers; examples include load balancing",0
+COMPSCI 88,Computational Structures in Data Science,2 Units," Math 1A. Also, this course is a Data Science connector course and may only be taken concurrently with or after ","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2016, Spring 2016<br/>
+Development of Computer Science topics appearing in Foundations of Data Science (C8); expands computational concepts and techniques of abstraction. Understanding the structures that underlie the programs, algorithms, and languages used in data science and elsewhere. Mastery of a particular programming language while studying general techniques for managing program complexity, e.g., functional",1
+COMPSCI 98,Directed Group Study,1 - 4 Units, Consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2016, Fall 2015, Spring 2015<br/>
+Seminars for group study of selected topics, which will vary from year to year. Intended for students in the lower division.",0
+COMPSCI C100,Principles & Techniques of Data Science,4 Units, Computer Science/Information/Statistics C8 or Engineering 7; and either Computer Science 61A or Computer Science 88. Corequisite: Mathematics 54 or Electrical Engineering 16A,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+In this course, students will explore the data science lifecycle, including question formulation, data collection and cleaning, exploratory data analysis and visualization, statistical inference and prediction​, and decision-making.​ This class will focus on quantitative critical thinking​ and key principles and techniques needed to carry out this cycle. These include languages for transforming",0
+COMPSCI 152,Computer Architecture and Engineering,4 Units, 61C,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2016, Spring 2016<br/>
+Instruction set architecture, microcoding, pipelining (simple and complex). Memory hierarchies and virtual memory. Processor parallelism: VLIW, vectors, multithreading. Multiprocessors.",0
+COMPSCI 160,User Interface Design and Development,4 Units, Computer Science 61B or 61BL,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+The design, implementation, and evaluation of user interfaces. User-centered design and task analysis. Conceptual models and interface metaphors. Usability inspection and evaluation methods. Analysis of user study data. Input methods (keyboard, pointing, touch, tangible) and input models. Visual design principles. Interface prototyping and implementation methodologies and",0
+COMPSCI 161,Computer Security,4 Units," 61C (Machine Structures), plus either 70 (Discrete Mathematics) or Mathematics 55","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Introduction to computer security. Cryptography, including encryption, authentication, hash functions, cryptographic protocols, and applications. Operating system security, access control. Network security, firewalls, viruses, and worms. Software security, defensive programming, and language-based security. Case studies from real-world systems.",0
+COMPSCI 162,Operating Systems and System Programming,4 Units," Computer Science 61B, 61C, and 70","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Basic concepts of operating systems and system programming. Utility programs, subsystems, multiple-program systems. Processes, interprocess communication, and synchronization. Memory allocation, segmentation, paging. Loading and linking, libraries. Resource allocation, scheduling, performance evaluation. File systems, storage devices, I/O systems. Protection, security, and privacy.",0
+COMPSCI 164,Programming Languages and Compilers,4 Units, 61B and 61C,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Survey of programming languages. The design of modern programming languages. Principles and techniques of scanning, parsing, semantic analysis, and code generation. Implementation of compilers, interpreters, and assemblers. Overview of run-time organization and error handling.",0
+COMPSCI 168,Introduction to the Internet: Architecture and Protocols,4 Units, Computer Science 61B and 162,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+This course is an introduction to the Internet architecture. We will focus on the concepts and fundamental design principles that have contributed to the Internet's scalability and robustness and survey the various protocols and algorithms used within this architecture. Topics include layering, addressing, intradomain routing, interdomain routing, reliable delivery, congestion control, and",0
+COMPSCI 169,Software Engineering,4 Units," Computer Science 61B and 61C, and either Computer Science 70 or Mathematics 113","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Summer 2017 8 Week Session, Fall 2016<br/>
+Ideas and techniques for designing, developing, and modifying large software systems. Function-oriented and object-oriented modular design techniques, designing for re-use and maintainability. Specification and documentation. Verification and validation. Cost and quality metrics and estimation. Project team organization and management. Students will work in teams on a substantial",0
+COMPSCI 170,Efficient Algorithms and Intractable Problems,4 Units, Computer Science 61B and 70,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Concept and basic techniques in the design and analysis of algorithms; models of computation; lower bounds; algorithms for optimum search trees, balanced trees and UNION-FIND algorithms; numerical and algebraic algorithms; combinatorial algorithms. Turing machines, how to count steps, deterministic and nondeterministic Turing machines, NP-completeness. Unsolvable and intractable probl",0
+COMPSCI 172,Computability and Complexity,4 Units, 170,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2016, Fall 2015, Spring 2015<br/>
+Finite automata, Turing machines and RAMs. Undecidable, exponential, and polynomial-time problems. Polynomial-time equivalence of all reasonable models of computation. Nondeterministic Turing machines. Theory of NP-completeness: Cook's theorem, NP-completeness of basic problems. Selected topics in language theory, complexity and randomness.",0
+COMPSCI 174,Combinatorics and Discrete Probability,4 Units, 170,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Permutations, combinations, principle of inclusion and exclusion, generating functions, Ramsey theory. Expectation and variance, Chebychev's inequality, Chernov bounds. Birthday paradox, coupon collector's problem, Markov chains and entropy computations, universal hashing, random number generation, random graphs and probabilistic existence bounds.",0
+COMPSCI 176,Algorithms for Computational Biology,4 Units," Computer Science 70 and 170. Experience programming in a language such as C, C++, Java, or Python","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Algorithms and probabilistic models that arise in various computational biology applications: suffix trees, suffix arrays, pattern matching, repeat finding, sequence alignment, phylogenetics, genome rearrangements, hidden Markov models, gene finding, motif finding, stochastic context free grammars, RNA secondary structure. There are no biology prerequisites for this course, but a strong quantitative",0
+COMPSCI 184,Foundations of Computer Graphics,4 Units," Computer Science 61B or 61BL; programming skills in C, C++, or Java; linear algebra and calculus","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Fall 2016<br/>
+Techniques of modeling objects for the purpose of computer rendering: boundary representations, constructive solids geometry, hierarchical scene descriptions. Mathematical techniques for curve and surface representation. Basic elements of a computer graphics rendering pipeline; architecture of modern graphics display devices. Geometrical transformations such as rotation, scaling, translation",0
+COMPSCI 186,Introduction to Database Systems,4 Units, 61B and 61C,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Access methods and file systems to facilitate data access. Hierarchical, network, relational, and object-oriented data models. Query languages for models. Embedding query languages in programming languages. Database services including protection, integrity control, and alternative views of data. High-level interfaces including application generators, browsers, and report writers. Introduction",0
+COMPSCI 188,Introduction to Artificial Intelligence,4 Units, Computer Science 61A; Computer Science 61B; Computer Science 70,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+Ideas and techniques underlying the design of intelligent computer systems. Topics include search, game playing, knowledge representation, inference, planning, reasoning under uncertainty, machine learning, robotics, perception, and language understanding.",0
+COMPSCI 189,Introduction to Machine Learning,4 Units, Mathematics 53 and 54; Computer Science 70 or consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+Theoretical foundations, algorithms, methodologies, and applications for machine learning. Topics may include supervised methods for regression and classication (linear models, trees, neural networks, ensemble methods, instance-based methods); generative and discriminative probabilistic models; Bayesian parametric learning; density estimation and clustering; Bayesian networks;",0
+COMPSCI C191,Quantum Information Science and Technology,3 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2017, Fall 2014, Spring 2012<br/>
+This multidisciplinary course provides an introduction to fundamental conceptual aspects of quantum mechanics from a computational and informational theoretic perspective, as well as physical implementations and technological applications of quantum information science. Basic sections of quantum algorithms, complexity, and cryptography, will be touched upon, as well as pertinent physical",0
+COMPSCI 194,Special Topics,1 - 4 Units, Consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Topics will vary semester to semester. See the Computer Science Division announcements.",0
+COMPSCI 195,Social Implications of Computer Technology,1 Unit,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Topics include electronic community; the changing nature of work; technological risks; the information economy; intellectual property; privacy; artificial intelligence and the sense of self; pornography and censorship; professional ethics. Students will lead discussions on additional topics.",0
+COMPSCI H196A,Senior Honors Thesis Research,1 - 4 Units, Open only to students in the computer science honors program,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2016, Fall 2010, Spring 2010<br/>
+Thesis work under the supervision of a faculty member. To obtain credit the student must, at the end of two semesters, submit a satisfactory thesis to the Electrical Engineering and Computer Science department archive. A total of four units must be taken. The units many be distributed between one or two semesters in any way. H196A-H196B count as graded technical elective units, but may not",0
+COMPSCI 197,Field Study,1 - 4 Units, Consent of instructor (see department adviser),"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2016, Summer 2016 10 Week Session, Fall 2015<br/>
+Students take part in organized individual field sponsored programs with off-campus companies or tutoring/mentoring relevant to specific aspects and applications of computer science on or off campus. Note Summer CPT or OPT students: written report required. Course does not count toward major requirements, but will be counted in the cumulative units toward graduation.",0
+COMPSCI 198,Directed Group Studies for Advanced Undergraduates,1 - 4 Units, 2.0 GPA or better; 60 units completed,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Group study of selected topics in Computer Sciences, usually relating to new developments.",0
+COMPSCI 199,Supervised Independent Study,1 - 4 Units, Consent of instructor and major adviser,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2016, Fall 2015, Spring 2015<br/>
+Supervised independent study. Enrollment restrictions apply.",0
+COMPSCI C249A,Introduction to Embedded Systems,4 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+This course introduces students to the basics of models, analysis tools, and control for embedded systems operating in real time. Students learn how to combine physical processes with computation. Topics include models of computation, control, analysis and verification, interfacing with the physical world, mapping to platforms, and distributed embedded systems. The course has a strong laboratory",0
+COMPSCI 250,VLSI Systems Design,4 Units, 150,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2017, Spring 2016, Fall 2014<br/>
+Unified top-down and bottom-up design of integrated circuits and systems concentrating on architectural and topological issues. VLSI architectures, systolic arrays, self-timed systems. Trends in VLSI development. Physical limits. Tradeoffs in custom-design, standard cells, gate arrays. VLSI design tools.",0
+COMPSCI 252,Graduate Computer Architecture,4 Units, 152,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Fall 2015<br/>
+Graduate survey of contemporary computer organizations covering: early systems, CPU design, instruction sets, control, processors, busses, ALU, memory, I/O interfaces, connection networks, virtual memory, pipelined computers, multiprocessors, and case studies. Term paper or project is required.",0
+COMPSCI 260A,User Interface Design and Development,4 Units," Computer Science 61B, 61BL, or consent of instructor","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+The design, implementation, and evaluation of user interfaces. User-centered design and task analysis. Conceptual models and interface metaphors. Usability inspection and evaluation methods. Analysis of user study data. Input methods (keyboard, pointing, touch, tangible) and input models. Visual design principles. Interface prototyping and implementation methodologies and tools. Students",0
+COMPSCI 260B,Human-Computer Interaction Research,3 Units," Computer Science 160 recommended, or consent of instructor","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017<br/>
+This course is a broad introduction to conducting research in Human-Computer Interaction. Students will become familiar with seminal and recent literature; learn to review and critique research papers; re-implement and evaluate important existing systems; and gain experience in conducting research. Topics include input devices, computer-supported cooperative work, crowdsourcing, design tools, evaluation methods",0
+COMPSCI 261,Security in Computer Systems,3 Units, 162,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2015, Fall 2012<br/>
+Graduate survey of modern topics in computer security, including protection, access control, distributed access security, firewalls, secure coding practices, safe languages, mobile code, and case studies from real-world systems. May also cover cryptographic protocols, privacy and anonymity, and/or other topics as time permits.",0
+COMPSCI 261N,Internet and Network Security,4 Units, Electrical Engineering 122 or equivalent; Computer Science 161 or familiarity with basic security concepts,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2016, Spring 2015, Spring 2014<br/>
+Develops a thorough grounding in Internet and network security suitable for those interested in conducting research in the area or those more broadly interested in security or networking. Potential topics include denial-of-service; capabilities; network intrusion detection/prevention; worms; forensics; scanning; traffic analysis; legal issues; web attacks; anonymity; wireless and networked",0
+COMPSCI 262A,Advanced Topics in Computer Systems,4 Units, 162 and entrance exam,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2016, Spring 2016<br/>
+Graduate survey of systems for managing computation and information, covering a breadth of topics: early systems; volatile memory management, including virtual memory and buffer management; persistent memory systems, including both file systems and transactional storage managers; storage metadata, physical vs. logical naming, schemas, process scheduling, threading and concurrency control;",0
+COMPSCI C267,Applications of Parallel Computers,3 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Models for parallel programming. Fundamental algorithms for linear algebra, sorting, FFT, etc. Survey of parallel machines and machine structures. Exiting parallel programming languages, vectorizing compilers, environments, libraries and toolboxes. Data partitioning techniques. Techniques for synchronization and load balancing. Detailed study and algorithm/program development of medium",0
+COMPSCI 268,Computer Networks,3 Units, 162,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2016, Spring 2015, Spring 2014<br/>
+Distributed systems, their notivations, applications, and organization. The network component. Network architectures. Local and long-haul networks, technologies, and topologies. Data link, network, and transport protocols. Point-to-point and broadcast networks. Routing and congestion control. Higher-level protocols. Naming. Internetworking. Examples and case studies.",0
+COMPSCI 270,Combinatorial Algorithms and Data Structures,3 Units, 170,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+Design and analysis of efficient algorithms for combinatorial problems. Network flow theory, matching theory, matroid theory; augmenting-path algorithms; branch-and-bound algorithms; data structure techniques for efficient implementation of combinatorial algorithms; analysis of data structures; applications of data structure techniques to sorting, searching, and geometric problems.",0
+COMPSCI 271,Randomness and Computation,3 Units, 170 and at least one course numbered 270-279,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2011, Fall 2008<br/>
+Computational applications of randomness and computational theories of randomness. Approximate counting and uniform generation of combinatorial objects, rapid convergence of random walks on expander graphs, explicit construction of expander graphs, randomized reductions, Kolmogorov complexity, pseudo-random number generation, semi-random sources.",0
+COMPSCI 274,Computational Geometry,3 Units, 170 or equivalent,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2017, Spring 2015, Spring 2013<br/>
+. Constructive problems in computational geometry: convex hulls, triangulations, Voronoi diagrams, arrangements of hyperplanes; relationships among these problems. Search problems: advanced data structures; subdivision search; various kinds of range searches. Models of computation; lower bounds.",0
+COMPSCI 276,Cryptography,3 Units, 170,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Graduate survey of modern topics on theory, foundations, and applications of modern cryptography. One-way functions; pseudorandomness; encryption; authentication; public-key cryptosystems; notions of security. May also cover zero-knowledge proofs, multi-party cryptographic protocols, practical applications, and/or other topics, as time permits.",0
+COMPSCI C280,Computer Vision,3 Units," Knowledge of linear algebra and calculus. Mathematics 1A-1B, 53, 54 or equivalent","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Paradigms for computational vision. Relation to human visual perception. Mathematical techniques for representing and reasoning, with curves, surfaces and volumes. Illumination and reflectance models. Color perception. Image segmentation and aggregation. Methods for bottom-up three dimensional shape recovery: Line drawing analysis, stereo, shading, motion, texture. Use of object models",0
+COMPSCI C281A,Statistical Learning Theory,3 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2016, Fall 2015, Fall 2014<br/>
+Classification regression, clustering, dimensionality, reduction, and density estimation. Mixture models, hierarchical models, factorial models, hidden Markov, and state space models, Markov properties, and recursive algorithms for general probabilistic inference nonparametric methods including decision trees, kernal methods, neural networks, and wavelets. Ensemble methods.",0
+COMPSCI C281B,Advanced Topics in Learning and Decision Making,3 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2014<br/>
+Recent topics include: Graphical models and approximate inference algorithms. Markov chain Monte Carlo, mean field and probability propagation methods. Model selection and stochastic realization. Bayesian information theoretic and structural risk minimization approaches. Markov decision processes and partially observable Markov decision processes. Reinforcement learning.",0
+COMPSCI 284A,Foundations of Computer Graphics,4 Units," Computer Science 61B or 61BL; programming skills in C, C++, or Java; linear algebra and calculus; or consent of instructor","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Fall 2016<br/>
+Techniques of modeling objects for the purpose of computer rendering: boundary representations, constructive solids geometry, hierarchical scene descriptions. Mathematical techniques for curve and surface representation. Basic elements of a computer graphics rendering pipeline; architecture of modern graphics display devices. Geometrical transformations such as rotation, scaling, translation",0
+COMPSCI 284B,Advanced Computer Graphics Algorithms and Techniques,4 Units, 184 or equivalent,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2017<br/>
+This course provides a graduate-level introduction to advanced computer graphics algorithms and techniques. Students should already be familiar with basic concepts such as transformations, scan-conversion, scene graphs, shading, and light transport. Topics covered in this course include global illumination, mesh processing, subdivision surfaces, basic differential geometry, physically based animation, inverse",0
+COMPSCI 286A,Introduction to Database Systems,4 Units, Computer Science 61B and 61C,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Access methods and file systems to facilitate data access. Hierarchical, network, relational, and object-oriented data models. Query languages for models. Embedding query languages in programming languages. Database services including protection, integrity control, and alternative views of data. High-level interfaces including application generators, browsers, and report writers. Introduction",0
+COMPSCI 289A,Introduction to Machine Learning,4 Units," Mathematics 53, 54; Computer Science 70; Computer Science 188 or consent of instructor","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+This course provides an introduction to theoretical foundations, algorithms, and methodologies for machine learning, emphasizing the role of probability and optimization and exploring a variety of real-world applications. Students are expected to have a solid foundation in calculus and linear algebra as well as exposure to the basic tools of logic and probability, and should be familiar",0
+COMPSCI 294,Special Topics,1 - 4 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Topics will vary from semester to semester. See Computer Science Division announcements.",0
+COMPSCI 297,Field Studies in Computer Science,12.0 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2016, Fall 2015, Summer 2015 10 Week Session<br/>
+Supervised experience in off-campus companies relevant to specific aspects and applications of electrical engineering and/or computer science. Written report required at the end of the semester.",0
+COMPSCI 298,"Group Studies Seminars, or Group Research",1 - 4 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Advanced study in various subjects through seminars on topics to be selected each year, informal group studies of special problems, group participation in comprehensive design problems, or group research on complete problems for analysis and experimentation.",0
+COMPSCI 299,Individual Research,1 - 12 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Summer 2017 Second 6 Week Session, Fall 2016, Summer 2016 10 Week Session<br/>
+Investigations of problems in computer science.",0
+COMPSCI 370,Introduction to Teaching Computer Science,3 Units, Prerequisite satisfied Concurrently: experience tutoring or as an academic intern; or concurrently serving as an academic intern while taking course,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018<br/>
+This is a course for aspiring teachers or those who want to instruct with expertise from evidence-based research and proven best practices. It provides pedagogical training by introducing the Big Ideas of Teaching and Learning, and illustrating how to put them into practice. The course is divided into three sections—instructing the individual; a group; and psycho-social factors that greatly affect learning at",0
+COMPSCI 375,Teaching Techniques for Computer Science,2 Units, Consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Discussion and practice of techniques for effective teaching, focusing on issues most relevant to teaching assistants in computer science courses.",0
+COMPSCI 399,Professional Preparation: Supervised Teaching of Computer Science,1 or 2 Units, Appointment as graduate student instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2016, Spring 2016, Fall 2015<br/>
+Discussion, problem review and development, guidance of computer science laboratory sections, course development, supervised practice teaching.",0

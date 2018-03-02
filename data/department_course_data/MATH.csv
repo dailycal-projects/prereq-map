@@ -1,0 +1,234 @@
+code,title,units,prereqs,offered,corrupt
+MATH 1A,Calculus,4 Units," Three and one-half years of high school math, including trigonometry and analytic geometry, plus a satisfactory grade in one of the following: CEEB MAT test, an AP test, the UC/CSU math diagnostic test, or 32. Consult the mathematics department for details. Students with AP credit should consider choosing a course more advanced than 1A","Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+This sequence is intended for majors in engineering and the physical sciences. An introduction to differential and integral calculus of functions of one variable, with applications and an introduction to transcendental functions.",0
+MATH 1B,Calculus,4 Units, 1A,"Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+Continuation of 1A. Techniques of integration; applications of integration. Infinite sequences and series. First-order ordinary differential equations. Second-order ordinary differential equations; oscillation and damping; series solutions of ordinary differential equations.",0
+MATH 10A,"Methods of Mathematics: Calculus, Statistics, and Combinatorics",4 Units," Three and one-half years of high school math, including trigonometry and analytic geometry","Terms offered: Summer 2018 8 Week Session, Fall 2017, Summer 2017 8 Week Session<br/>
+This sequence is intended for majors in the life sciences. Introduction to differential and integral calculus of functions of one variable. Representation of data, elementary probability theory, statistical models, and testing.",0
+MATH 10B,"Methods of Mathematics: Calculus, Statistics, and Combinatorics",4 Units, Continuation of 10A,"Terms offered: Summer 2018 8 Week Session, Spring 2018, Summer 2017 8 Week Session<br/>
+Elementary combinatorics and discrete probability theory. Introduction to graphs, matrix algebra, linear equations, difference equations, and differential equations.",0
+MATH 16A,Analytic Geometry and Calculus,3 Units," Three years of high school math, including trigonometry, plus a satisfactory grade in one of the following: CEEB MAT test, an AP test, the UC/CSU math diagnostic exam, or 32. Consult the mathematics department for details","Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+This sequence is intended for majors in the life and social sciences. Calculus of one variable; derivatives, definite integrals and applications, maxima and minima, and applications of the exponential and logarithmic functions.",0
+MATH 16B,Analytic Geometry and Calculus,3 Units, 16A,"Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+Continuation of 16A. Application of integration of economics and life sciences. Differential equations. Functions of many variables. Partial derivatives, constrained and unconstrained optimization.",0
+MATH 24,Freshman Seminars,1 Unit,,"Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+The Berkeley Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small-seminar setting. Berkeley Seminars are offered in all campus departments, and topics vary from department to department and semester to semester.",0
+MATH 32,Precalculus,4 Units," Three years of high school mathematics, plus satisfactory score on one of the following: CEEB MAT test, math SAT, or UC/CSU diagnostic examination","Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+Polynomial and rational functions, exponential and logarithmic functions, trigonometry and trigonometric functions. Complex numbers, fundamental theorem of algebra, mathematical induction, binomial theorem, series, and sequences.",0
+MATH 39A,Freshman/Sophomore Seminar,2 - 4 Units, Priority given to freshmen and sophomores,"Terms offered: Spring 2018, Spring 2010, Spring 2009<br/>
+Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester.",0
+MATH 49,Supplementary Work in Lower Division Mathematics,1 - 3 Units, Some units in a lower division Mathematics class,"Terms offered: Spring 2017, Spring 2016, Fall 2015<br/>
+Students with partial credit in lower division mathematics courses may, with consent of instructor, complete the credit under this heading.",0
+MATH 53,Multivariable Calculus,4 Units, Mathematics 1B,"Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+Parametric equations and polar coordinates. Vectors in 2- and 3-dimensional Euclidean spaces. Partial derivatives. Multiple integrals. Vector calculus. Theorems of Green, Gauss, and Stokes.",0
+MATH H53,Honors Multivariable Calculus,4 Units, 1B,"Terms offered: Spring 2018, Spring 2017, Fall 2015<br/>
+Honors version of 53. Parametric equations and polar coordinates. Vectors in 2- and 3-dimensional Euclidean spaces. Partial derivatives. Multiple integrals. Vector calculus. Theorems of Green, Gauss, and Stokes.",0
+MATH W53,Multivariable Calculus,4 Units, Mathematics 1B or equivalent,"Terms offered: Summer 2018 8 Week Session, Summer 2017 8 Week Session, Summer 2016 8 Week Session<br/>
+Parametric equations and polar coordinates. Vectors in 2- and 3-dimensional Euclidean spaces. Partial derivatives. Multiple integrals. Vector calculus. Theorems of Green, Gauss, and Stokes.",0
+MATH 54,Linear Algebra and Differential Equations,4 Units, 1B or 10B. Mathematics 10B,"Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+Basic linear algebra; matrix arithmetic and determinants. Vector spaces; inner product spaces. Eigenvalues and eigenvectors; orthogonality, symmetric matrices. Linear second-order differential equations; first-order systems with constant coefficients. Fourier series, application to partial differential equations.",0
+MATH H54,Honors Linear Algebra and Differential Equations,4 Units, 1B,"Terms offered: Fall 2017, Fall 2016, Spring 2016<br/>
+Honors version of 54. Basic linear algebra: matrix arithmetic and determinants. Vectors spaces; inner product spaces. Eigenvalues and eigenvectors; linear transformations. Homogeneous ordinary differential equations; first-order differential equations with constant coefficients. Fourier series and partial differential equations.",0
+MATH 55,Discrete Mathematics,4 Units, Mathematical maturity appropriate to a sophomore math class. 1A-1B recommended,"Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+Logic, mathematical induction sets, relations, and functions. Introduction to graphs, elementary number theory, combinatorics, algebraic structures, and discrete probability theory.",0
+MATH 91,Special Topics in Mathematics,4 Units,,"Terms offered: Spring 2016, Fall 2012, Spring 2012<br/>
+Topics to be covered and the method of instruction to be used will be announced at the beginning of each semester that such courses are offered. See department bulletins.",0
+MATH 96,College Algebra,2 Units,,"Terms offered: Summer 2017 8 Week Session, Summer 2015 10 Week Session, Summer 2014 10 Week Session<br/>
+Elements of college algebra. Designed for students who do not meet the prerequisites for 32. Offered through the Student Learning Center.",0
+MATH 98,Supervised Group Study,1 - 4 Units,,"Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Directed Group Study, topics vary with instructor.",0
+MATH 98BC,Berkeley Connect,1 Unit,,"Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Berkeley Connect is a mentoring program, offered through various academic departments, that helps students build intellectual community. Over the course of a semester, enrolled students participate in regular small-group discussions facilitated by a graduate student mentor (following a faculty-directed curriculum), meet with their graduate student mentor for one-on-one academic advising, attend lectures and panel discussions featuring department",0
+MATH 99,Supervised Independent Study,1 - 4 Units, Restricted to freshmen and sophomores only. Consent of instructor,"Terms offered: Spring 2017, Spring 2016, Fall 2015<br/>
+Supervised independent study by academically superior, lower division students. 3.3 GPA required and prior consent of instructor who is to supervise the study. A written proposal must be submitted to the department chair for pre-approval.",0
+MATH C103,Introduction to Mathematical Economics,4 Units, Math 53 and 54,"Terms offered: Spring 2018, Spring 2017, Fall 2016<br/>
+Selected topics illustrating the application of mathematics to economic theory. This course is intended for upper-division students in Mathematics, Statistics, the Physical Sciences, and Engineering, and for economics majors with adequate mathematical preparation. No economic background is required.",0
+MATH 104,Introduction to Analysis,4 Units, 53 and 54,"Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+The real number system. Sequences, limits, and continuous functions in R and R. The concept of a metric space. Uniform convergence, interchange of limit operations. Infinite series. Mean value theorem and applications. The Riemann integral.",0
+MATH H104,Honors Introduction to Analysis,4 Units, 53 and 54,"Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Honors section corresponding to 104. Recommended for students who enjoy mathematics and are good at it. Greater emphasis on theory and challenging problems.",0
+MATH 105,Second Course in Analysis,4 Units, 104,"Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Differential calculus in Rn: the derivative as a linear map; the chain rule; inverse and implicit function theorems. Lebesgue integration on the line; comparison of Lebesgue and Riemann integrals. Convergence theorems. Fourier series, L2 theory. Fubini's theorem, change of variable.",0
+MATH 110,Linear Algebra,4 Units, 54 or a course with equivalent linear algebra content,"Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+Matrices, vector spaces, linear transformations, inner products, determinants. Eigenvectors. QR factorization. Quadratic forms and Rayleigh's principle. Jordan canonical form, applications. Linear functionals.",0
+MATH H110,Honors Linear Algebra,4 Units, 54 or a course with equivalent linear algebra content,"Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Honors section corresponding to course 110 for exceptional students with strong mathematical inclination and motivation. Emphasis is on rigor, depth, and hard problems.",0
+MATH 113,Introduction to Abstract Algebra,4 Units, 54 or a course with equivalent linear algebra content,"Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+Sets and relations. The integers, congruences, and the Fundamental Theorem of Arithmetic. Groups and their factor groups. Commutative rings, ideals, and quotient fields. The theory of polynomials: Euclidean algorithm and unique factorizations. The Fundamental Theorem of Algebra. Fields and field extensions.",0
+MATH H113,Honors Introduction to Abstract Algebra,4 Units, 54 or a course with equivalent linear algebra content,"Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Honors section corresponding to 113. Recommended for students who enjoy mathematics and are willing to work hard in order to understand the beauty of mathematics and its hidden patterns and structures. Greater emphasis on theory and challenging problems.",0
+MATH 114,Second Course in Abstract Algebra,4 Units," 110 and 113, or consent of instructor","Terms offered: Spring 2018, Spring 2017, Fall 2015<br/>
+Further topics on groups, rings, and fields not covered in Math 113. Possible topics include the Sylow Theorems and their applications to group theory; classical groups; abelian groups and modules over a principal ideal domain; algebraic field extensions; splitting fields and Galois theory; construction and classification of finite fields.",0
+MATH 115,Introduction to Number Theory,4 Units, 53 and 54,"Terms offered: Summer 2018 8 Week Session, Spring 2018, Summer 2017 8 Week Session<br/>
+Divisibility, congruences, numerical functions, theory of primes. Topics selected: Diophantine analysis, continued fractions, partitions, quadratic fields, asymptotic distributions, additive problems.",0
+MATH 118,"Fourier Analysis, Wavelets, and Signal Processing",4 Units, 53 and 54,"Terms offered: Fall 2017, Spring 2017, Spring 2016<br/>
+Introduction to signal processing including Fourier analysis and wavelets. Theory, algorithms, and applications to one-dimensional signals and multidimensional images.",0
+MATH 121A,Mathematical Tools for the Physical Sciences,4 Units, 53 and 54,"Terms offered: Fall 2017, Fall 2016, Spring 2016<br/>
+Intended for students in the physical sciences who are not planning to take more advanced mathematics courses. Rapid review of series and partial differentiation, complex variables and analytic functions, integral transforms, calculus of variations.",0
+MATH 121B,Mathematical Tools for the Physical Sciences,4 Units, 53 and 54,"Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Intended for students in the physical sciences who are not planning to take more advanced mathematics courses. Special functions, series solutions of ordinary differential equations, partial differential equations arising in mathematical physics, probability theory.",0
+MATH 123,Ordinary Differential Equations,4 Units, 104,"Terms offered: Fall 2017, Fall 2016, Spring 2016<br/>
+Existence and uniqueness of solutions, linear systems, regular singular points. Other topics selected from analytic systems, autonomous systems, Sturm-Liouville Theory.",0
+MATH 125A,Mathematical Logic,4 Units, Math 113 or consent of instructor,"Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Sentential and quantificational logic. Formal grammar, semantical interpretation, formal deduction, and their interrelation. Applications to formalized mathematical theories. Selected topics from model theory or proof theory.",0
+MATH 126,Introduction to Partial Differential Equations,4 Units, 53 and 54,"Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+Waves and diffusion, initial value problems for hyperbolic and parabolic equations, boundary value problems for elliptic equations, Green's functions, maximum principles, a priori bounds, Fourier transform.",0
+MATH 127,Mathematical and Computational Methods in Molecular Biology,4 Units," 53, 54, and 55; Statistics 20 recommended","Terms offered: Fall 2017, Fall 2016, Spring 2016<br/>
+Introduction to mathematical and computational problems arising in the context of molecular biology. Theory and applications of combinatorics, probability, statistics, geometry, and topology to problems ranging from sequence determination to structure analysis.",0
+MATH 128A,Numerical Analysis,4 Units, 53 and 54,"Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+Programming for numerical calculations, round-off error, approximation and interpolation, numerical quadrature, and solution of ordinary differential equations. Practice on the computer.",0
+MATH 128B,Numerical Analysis,4 Units, 110 and 128A,"Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Iterative solution of systems of nonlinear equations, evaluation of eigenvalues and eigenvectors of matrices, applications to simple partial differential equations. Practice on the computer.",0
+MATH 130,The Classical Geometries,4 Units, 110 and 113,"Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+A critical examination of Euclid's Elements; ruler and compass constructions; connections with Galois theory; Hilbert's axioms for geometry, theory of areas, introduction of coordinates, non-Euclidean geometry, regular solids, projective geometry.",0
+MATH 135,Introduction to the Theory of Sets,4 Units, 113 and 104,"Terms offered: Fall 2017, Spring 2017, Spring 2016<br/>
+Set-theoretical paradoxes and means of avoiding them. Sets, relations, functions, order and well-order. Proof by transfinite induction and definitions by transfinite recursion. Cardinal and ordinal numbers and their arithmetic. Construction of the real numbers. Axiom of choice and its consequences.",0
+MATH 136,Incompleteness and Undecidability,4 Units," 53, 54, and 55","Terms offered: Spring 2018, Spring 2017, Fall 2015<br/>
+Functions computable by algorithm, Turing machines, Church's thesis. Unsolvability of the halting problem, Rice's theorem. Recursively enumerable sets, creative sets, many-one reductions. Self-referential programs. Godel's incompleteness theorems, undecidability of validity, decidable and undecidable theories.",0
+MATH 140,Metric Differential Geometry,4 Units, 104,"Terms offered: Fall 2017, Spring 2017, Fall 2015<br/>
+Frenet formulas, isoperimetric inequality, local theory of surfaces in Euclidean space, first and second fundamental forms. Gaussian and mean curvature, isometries, geodesics, parallelism, the Gauss-Bonnet-Von Dyck Theorem.",0
+MATH 141,Elementary Differential Topology,4 Units, 104 or equivalent and linear algebra,"Terms offered: Fall 2017, Fall 2016, Spring 2016<br/>
+Manifolds in n-dimensional Euclidean space and smooth maps, Sard's Theorem, classification of compact one-manifolds, transversality and intersection modulo 2.",0
+MATH 142,Elementary Algebraic Topology,4 Units, 104 and 113,"Terms offered: Spring 2018, Spring 2017, Fall 2015<br/>
+The topology of one and two dimensional spaces: manifolds and triangulation, classification of surfaces, Euler characteristic, fundamental groups, plus further topics at the discretion of the instructor.",0
+MATH 143,Elementary Algebraic Geometry,4 Units, 113,"Terms offered: Spring 2018, Fall 2016, Fall 2015<br/>
+Introduction to basic commutative algebra, algebraic geometry, and computational techniques. Main focus on curves, surfaces and Grassmannian varieties.",0
+MATH 151,Mathematics of the Secondary School Curriculum I,4 Units," 1A-1B, 53, or equivalent","Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+Theory of rational numbers based on the number line, the Euclidean algorithm and fractions in lowest terms. The concepts of congruence and similarity, equation of a line, functions, and quadratic functions.",0
+MATH 152,Mathematics of the Secondary School Curriculum II,4 Units," 151; 54, 113, or equivalent","Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Complex numbers and Fundamental Theorem of Algebra, roots and factorizations of polynomials, Euclidean geometry and axiomatic systems, basic trigonometry.",0
+MATH 153,Mathematics of the Secondary School Curriculum III,4 Units," 151, 152","Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+The real line and least upper bound, limit and decimal expansion of a number, differentiation and integration, Fundamental Theorem of Calculus, characterizations of sine, cosine, exp, and log.",0
+MATH 160,History of Mathematics,4 Units," 53, 54, and 113","Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+History of algebra, geometry, analytic geometry, and calculus from ancient times through the seventeenth century and selected topics from more recent mathematical history.",0
+MATH 170,Mathematical Methods for Optimization,4 Units, 53 and 54,"Terms offered: Spring 2018, Spring 2017, Fall 2015<br/>
+Linear programming and a selection of topics from among the following: matrix games, integer programming, semidefinite programming, nonlinear programming, convex analysis and geometry, polyhedral geometry, the calculus of variations, and control theory.",0
+MATH 172,Combinatorics,4 Units, 55,"Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Basic combinatorial principles, graphs, partially ordered sets, generating functions, asymptotic methods, combinatorics of permutations and partitions, designs and codes. Additional topics at the discretion of the instructor.",0
+MATH 185,Introduction to Complex Analysis,4 Units, 104,"Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+Analytic functions of a complex variable. Cauchy's integral theorem, power series, Laurent series, singularities of analytic functions, the residue theorem with application to definite integrals. Some additional topics such as conformal mapping.",0
+MATH H185,Honors Introduction to Complex Analysis,4 Units, 104,"Terms offered: Spring 2018, Spring 2016, Spring 2015<br/>
+Honors section corresponding to Math 185 for exceptional students with strong mathematical inclination and motivation. Emphasis is on rigor, depth, and hard problems.",0
+MATH 191,Experimental Courses in Mathematics,1 - 4 Units, Consent of instructor,"Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+The topics to be covered and the method of instruction to be used will be announced at the beginning of each semester that such courses are offered. See departmental bulletins.",0
+MATH 196,Honors Thesis,4 Units, Admission to the Honors Program; an overall GPA of 3.3 and a GPA of 3.5 in the major,"Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+Independent study of an advanced topic leading to an honors thesis.",0
+MATH 197,Field Study,1 - 4 Units, Upper division standing. Written proposal signed by faculty sponsor and approved by department chair,"Terms offered: Spring 2016, Spring 2015, Spring 2014<br/>
+For Math/Applied math majors. Supervised experience relevant to specific aspects of their mathematical emphasis of study in off-campus organizations. Regular individual meetings with faculty sponsor and written reports required. Units will be awarded on the basis of three hours/week/unit.",0
+MATH 198,Directed Group Study,1 - 4 Units, Must have completed 60 units and be in good standing,"Terms offered: Spring 2017, Fall 2016, Spring 2016<br/>
+Topics will vary with instructor.",0
+MATH 198BC,Berkeley Connect,1 Unit,,"Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Berkeley Connect is a mentoring program, offered through various academic departments, that helps students build intellectual community. Over the course of a semester, enrolled students participate in regular small-group discussions facilitated by a graduate student mentor (following a faculty-directed curriculum), meet with their graduate student mentor for one-on-one academic advising, attend lectures and panel discussions featuring department",0
+MATH 199,Supervised Independent Study and Research,1 - 4 Units, The standard college regulations for all 199 courses,"Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>",0
+MATH 202A,Introduction to Topology and Analysis,4 Units, 104,"Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Metric spaces and general topological spaces. Compactness and connectedness. Characterization of compact metric spaces. Theorems of Tychonoff, Urysohn, Tietze. Complete spaces and the Baire category theorem. Function spaces; Arzela-Ascoli and Stone-Weierstrass theorems. Partitions of unity. Locally compact spaces; one-point compactification. Introduction to measure and integration. Sigma algebras of sets. Measures and outer measures. Lebesgue measure",0
+MATH 202B,Introduction to Topology and Analysis,4 Units, 202A and 110,"Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Measure and integration. Product measures and Fubini-type theorems. Signed measures; Hahn and Jordan decompositions. Radon-Nikodym theorem. Integration on the line and in Rn. Differentiation of the integral. Hausdorff measures. Fourier transform. Introduction to linear topological spaces, Banach spaces and Hilbert spaces. Banach-Steinhaus theorem; closed graph theorem. Hahn-Banach theorem. Duality; the dual of LP. Measures on locally compact",0
+MATH 204,Ordinary Differential Equations,4 Units, 104,"Terms offered: Fall 2016, Spring 2016, Fall 2014<br/>
+Rigorous theory of ordinary differential equations. Fundamental existence theorems for initial and boundary value problems, variational equilibria, periodic coefficients and Floquet Theory, Green's functions, eigenvalue problems, Sturm-Liouville theory, phase plane analysis, Poincare-Bendixon Theorem, bifurcation, chaos.",0
+MATH 205,Theory of Functions of a Complex Variable,4 Units, 185,"Terms offered: Spring 2018, Spring 2017, Fall 2015<br/>
+Normal families. Riemann Mapping Theorem. Picard's theorem and related theorems. Multiple-valued analytic functions and Riemann surfaces. Further topics selected by the instructor may include: harmonic functions, elliptic and algebraic functions, boundary behavior of analytic functions and HP spaces, the Riemann zeta functions, prime number theorem.",0
+MATH 206,Banach Algebras and Spectral Theory,4 Units, 202A-202B,"Terms offered: Fall 2016, Fall 2015, Fall 2014<br/>
+Banach algebras. Spectrum of a Banach algebra element. Gelfand theory of commutative Banach algebras. Analytic functional calculus. Hilbert space operators. C*-algebras of operators. Commutative C*-algebras. Spectral theorem for bounded self-adjoint and normal operators (both forms: the spectral integral and the ""multiplication operator"" formulation). Riesz theory of compact operators. Hilbert-Schmidt operators. Fredholm operators. The",0
+MATH 208,C*-algebras,4 Units, 206,"Terms offered: Spring 2018, Spring 2015, Spring 2013<br/>
+Basic theory of C*-algebras. Positivity, spectrum, GNS construction. Group C*-algebras and connection with group representations. Additional topics, for example, C*-dynamical systems, K-theory.",0
+MATH 209,Von Neumann Algebras,4 Units, 206,"Terms offered: Spring 2017, Spring 2014, Spring 2012<br/>
+Basic theory of von Neumann algebras. Density theorems, topologies and normal maps, traces, comparison of projections, type classification, examples of factors. Additional topics, for example, Tomita Takasaki theory, subfactors, group actions, and noncommutative probability.",0
+MATH 212,Several Complex Variables,4 Units, 185 and 202A-202B or their equivalents,"Terms offered: Spring 2016, Fall 2014, Spring 2012<br/>
+Power series developments, domains of holomorphy, Hartogs' phenomenon, pseudo convexity and plurisubharmonicity. The remainder of the course may treat either sheaf cohomology and Stein manifolds, or the theory of analytic subvarieties and spaces.",0
+MATH 214,Differentiable Manifolds,4 Units, 202A,"Terms offered: Fall 2017, Spring 2017, Fall 2015<br/>
+Smooth manifolds and maps, tangent and normal bundles. Sard's theorem and transversality, Whitney embedding theorem. Morse functions, differential forms, Stokes' theorem, Frobenius theorem. Basic degree theory. Flows, Lie derivative, Lie groups and algebras. Additional topics selected by instructor.",0
+MATH 215A,Algebraic Topology,4 Units, 113 and point-set topology (e.g. 202A),"Terms offered: Fall 2017, Spring 2017, Fall 2015<br/>
+Fundamental group and covering spaces, simplicial and singular homology theory with applications, cohomology theory, duality theorem. Homotopy theory, fibrations, relations between homotopy and homology, obstruction theory, and topics from spectral sequences, cohomology operations, and characteristic classes. Sequence begins fall.",0
+MATH 215B,Algebraic Topology,4 Units," 215A, 214 recommended (can be taken concurrently)","Terms offered: Spring 2016, Spring 2015, Spring 2014<br/>
+Fundamental group and covering spaces, simplicial and singular homology theory with applications, cohomology theory, duality theorem. Homotopy theory, fibrations, relations between homotopy and homology, obstruction theory, and topics from spectral sequences, cohomology operations, and characteristic classes. Sequence begins fall.",0
+MATH C218A,Probability Theory,4 Units,,"Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+The course is designed as a sequence with Statistics C205B/Mathematics C218B with the following combined syllabus. Measure theory concepts needed for probability. Expection, distributions. Laws of large numbers and central limit theorems for independent random variables. Characteristic function methods. Conditional expectations, martingales and martingale convergence theorems. Markov chains. Stationary processes. Brownian motion.",0
+MATH C218B,Probability Theory,4 Units,,"Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+The course is designed as a sequence with with Statistics C205A/Mathematics C218A with the following combined syllabus. Measure theory concepts needed for probability. Expection, distributions. Laws of large numbers and central limit theorems for independent random variables. Characteristic function methods. Conditional expectations, martingales and martingale convergence theorems. Markov chains. Stationary processes. Brownian motion.",0
+MATH 219,Dynamical Systems,4 Units, 214,"Terms offered: Spring 2018, Fall 2016, Spring 2015<br/>
+Diffeomorphisms and flows on manifolds. Ergodic theory. Stable manifolds, generic properties, structural stability. Additional topics selected by the instructor.",0
+MATH 221,Advanced Matrix Computations,4 Units, Consent of instructor,"Terms offered: Spring 2018, Fall 2016, Spring 2016<br/>
+Direct solution of linear systems, including large sparse systems: error bounds, iteration methods, least square approximation, eigenvalues and eigenvectors of matrices, nonlinear equations, and minimization of functions.",0
+MATH 222A,Partial Differential Equations,4 Units, 105 or 202A,"Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+The theory of boundary value and initial value problems for partial differential equations, with emphasis on nonlinear equations. Laplace's equation, heat equation, wave equation, nonlinear first-order equations, conservation laws, Hamilton-Jacobi equations, Fourier transform, Sobolev spaces.",0
+MATH 222B,Partial Differential Equations,4 Units, 105 or 202A,"Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+The theory of boundary value and initial value problems for partial differential equations, with emphasis on nonlinear equations. Second-order elliptic equations, parabolic and hyperbolic equations, calculus of variations methods, additional topics selected by instructor.",0
+MATH C223A,Advanced Topics in Probability and Stochastic Process,3 Units, Statistics C205A-C205B or consent of instructor,"Terms offered: Fall 2016, Fall 2015, Fall 2014, Fall 2013<br/>
+The topics of this course change each semester, and multiple sections may be offered. Advanced topics in probability offered according to students demand and faculty availability.",0
+MATH C223B,Advanced Topics in Probability and Stochastic Processes,3 Units,,"Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+The topics of this course change each semester, and multiple sections may be offered. Advanced topics in probability offered according to students demand and faculty availability.",0
+MATH 224A,Mathematical Methods for the Physical Sciences,4 Units, Graduate status or consent of instructor,"Terms offered: Fall 2016, Fall 2014, Fall 2013<br/>
+Introduction to the theory of distributions. Fourier and Laplace transforms. Partial differential equations. Green's function. Operator theory, with applications to eigenfunction expansions, perturbation theory and linear and non-linear waves. Sequence begins fall.",0
+MATH 225A,Metamathematics,4 Units, 125B and 135,"Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Metamathematics of predicate logic. Completeness and compactness theorems. Interpolation theorem, definability, theory of models. Metamathematics of number theory, recursive functions, applications to truth and provability. Undecidable theories. Sequence begins fall.",0
+MATH 225B,Metamathematics,4 Units, 125B and 135,"Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Metamathematics of predicate logic. Completeness and compactness theorems. Interpolation theorem, definability, theory of models. Metamathematics of number theory, recursive functions, applications to truth and provability. Undecidable theories. Sequence begins fall.",0
+MATH 228A,Numerical Solution of Differential Equations,4 Units, 128A,"Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Ordinary differential equations: Runge-Kutta and predictor-corrector methods; stability theory, Richardson extrapolation, stiff equations, boundary value problems. Partial differential equations: stability, accuracy and convergence, Von Neumann and CFL conditions, finite difference solutions of hyperbolic and parabolic equations. Finite differences and finite element solution of elliptic equations.",0
+MATH 228B,Numerical Solution of Differential Equations,4 Units, 128A,"Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Ordinary differential equations: Runge-Kutta and predictor-corrector methods; stability theory, Richardson extrapolation, stiff equations, boundary value problems. Partial differential equations: stability, accuracy and convergence, Von Neumann and CFL conditions, finite difference solutions of hyperbolic and parabolic equations. Finite differences and finite element solution of elliptic equations.",0
+MATH 240,Riemannian Geometry,4 Units, 214,"Terms offered: Fall 2016, Fall 2015, Fall 2014<br/>
+Riemannian metric and Levi-Civita connection, geodesics and completeness, curvature, first and second variations of arc length. Additional topics such as the theorems of Myers, Synge, and Cartan-Hadamard, the second fundamental form, convexity and rigidity of hypersurfaces in Euclidean space, homogeneous manifolds, the Gauss-Bonnet theorem, and characteristic classes.",0
+MATH 241,Complex Manifolds,4 Units, 214 and 215A,"Terms offered: Fall 2017, Fall 2014, Spring 2013<br/>
+Riemann surfaces, divisors and line bundles on Riemann surfaces, sheaves and the Dolbeault theorem on Riemann surfaces, the classical Riemann-Roch theorem, theorem of Abel-Jacobi. Complex manifolds, Kahler metrics. Summary of Hodge theory, groups of line bundles, additional topics such as Kodaira's vanishing theorem, Lefschetz hyperplane theorem.",0
+MATH 242,Symplectic Geometry,4 Units, 214,"Terms offered: Fall 2017, Fall 2015, Spring 2014<br/>
+Basic topics: symplectic linear algebra, symplectic manifolds, Darboux theorem, cotangent bundles, variational problems and Legendre transform, hamiltonian systems, Lagrangian submanifolds, Poisson brackets, symmetry groups and momentum mappings, coadjoint orbits, Kahler manifolds.",0
+MATH 245A,General Theory of Algebraic Structures,4 Units, Math 113,"Terms offered: Fall 2017, Fall 2015, Spring 2014<br/>
+Structures defined by operations and/or relations, and their homomorphisms. Classes of structures determined by identities. Constructions such as free objects, objects presented by generators and relations, ultraproducts, direct limits. Applications of general results to groups, rings, lattices, etc. Course may emphasize study of congruence- and subalgebra-lattices, or category-theory and adjoint functors, or other aspects.",0
+MATH 249,Algebraic Combinatorics,4 Units, 250A or consent of instructor,"Terms offered: Fall 2017, Fall 2016, Spring 2015<br/>
+(I) Enumeration, generating functions and exponential structures, (II) Posets and lattices, (III) Geometric combinatorics, (IV) Symmetric functions, Young tableaux, and connections with representation theory. Further study of applications of the core material and/or additional topics, chosen by instructor.",0
+MATH 250A,"Groups, Rings, and Fields",4 Units, 114 or consent of instructor,"Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Group theory, including the Jordan-Holder theorem and the Sylow theorems. Basic theory of rings and their ideals. Unique factorization domains and principal ideal domains. Modules. Chain conditions. Fields, including fundamental theorem of Galois theory, theory of finite fields, and transcendence degree.",0
+MATH 250B,Multilinear Algebra and Further Topics,4 Units, 250A,"Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Tensor algebras and exterior algebras, with application to linear transformations. Commutative ideal theory, localization. Elementary specialization and valuation theory. Related topics in algebra.",0
+MATH 251,Ring Theory,4 Units, 250A,"Terms offered: Fall 2016, Spring 2013, Fall 2009<br/>
+Topics such as: Noetherian rings, rings with descending chain condition, theory of the radical, homological methods.",0
+MATH 253,Homological Algebra,4 Units, 250A,"Terms offered: Fall 2016, Fall 2014, Summer 2014 10 Week Session<br/>
+Modules over a ring, homomorphisms and tensor products of modules, functors and derived functors, homological dimension of rings and modules.",0
+MATH 254A,Number Theory,4 Units, 250A for 254A; 254A for 254B,"Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Valuations, units, and ideals in number fields, ramification theory, quadratic and cyclotomic fields, topics from class field theory, zeta-functions and L-series, distribution of primes, modular forms, quadratic forms, diophantine equations, P-adic analysis, and transcendental numbers. Sequence begins fall.",0
+MATH 254B,Number Theory,4 Units, 254A,"Terms offered: Spring 2018, Spring 2017, Spring 2015<br/>
+Valuations, units, and ideals in number fields, ramification theory, quadratic and cyclotomic fields, topics from class field theory, zeta-functions and L-series, distribution of primes, modular forms, quadratic forms, diophantine equations, P-adic analysis, and transcendental numbers. Sequence begins fall.",0
+MATH 256A,Algebraic Geometry,4 Units, 250A-250B for 256A; 256A for 256B,"Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Affine and projective algebraic varieties. Theory of schemes and morphisms of schemes. Smoothness and differentials in algebraic geometry. Coherent sheaves and their cohomology. Riemann-Roch theorem and selected applications. Sequence begins fall.",0
+MATH 256B,Algebraic Geometry,4 Units, 256A,"Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Affine and projective algebraic varieties. Theory of schemes and morphisms of schemes. Smoothness and differentials in algebraic geometry. Coherent sheaves and their cohomology. Riemann-Roch theorem and selected applications. Sequence begins fall.",0
+MATH 257,Group Theory,4 Units, 250A,"Terms offered: Spring 2018, Spring 2014, Fall 2011<br/>
+Topics such as: generators and relations, infinite discrete groups, groups of Lie type, permutation groups, character theory, solvable groups, simple groups, transfer and cohomological methods.",0
+MATH 258,Harmonic Analysis,4 Units," 206 or a basic knowledge of real, complex, and linear analysis","Terms offered: Fall 2016, Spring 2015, Spring 2012<br/>
+Basic properties of Fourier series, convergence and summability, conjugate functions, Hardy spaces, boundary behavior of analytic and harmonic functions. Additional topics at the discretion of the instructor.",0
+MATH 261A,Lie Groups,4 Units, 214,"Terms offered: Spring 2017, Fall 2015, Fall 2013<br/>
+Lie groups and Lie algebras, fundamental theorems of Lie, general structure theory; compact, nilpotent, solvable, semi-simple Lie groups; classification theory and representation theory of semi-simple Lie algebras and Lie groups, further topics such as symmetric spaces, Lie transformation groups, etc., if time permits. In view of its simplicity and its wide range of applications, it is preferable to cover compact Lie groups and their representations",0
+MATH 261B,Lie Groups,4 Units, 214,"Terms offered: Fall 2017, Spring 2016, Spring 2014<br/>
+Lie groups and Lie algebras, fundamental theorems of Lie, general structure theory; compact, nilpotent, solvable, semi-simple Lie groups; classification theory and representation theory of semi-simple Lie algebras and Lie groups, further topics such as symmetric spaces, Lie transformation groups, etc., if time permits. In view of its simplicity and its wide range of applications, it is preferable to cover compact Lie groups and their representations",0
+MATH 270,Hot Topics Course in Mathematics,2 Units,,"Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+This course will give introductions to current research developments. Every semester we will pick a different topic and go through the relevant literature. Each student will be expected to give one presentation.",0
+MATH 273,Topics in Numerical Analysis,4 Units, Consent of instructor,"Terms offered: Spring 2016, Spring 2014<br/>
+Advanced topics chosen by the instructor. The content of this course changes, as in the case of seminars.",0
+MATH 274,Topics in Algebra,4 Units, Consent of instructor,"Terms offered: Spring 2018, Spring 2017, Fall 2016<br/>
+Advanced topics chosen by the instructor. The content of this course changes, as in the case of seminars.",0
+MATH 275,Topics in Applied Mathematics,4 Units, Consent of instructor,"Terms offered: Spring 2017, Spring 2014, Fall 2013<br/>
+Advanced topics chosen by the instructor. The content of this course changes, as in the case of seminars.",0
+MATH 276,Topics in Topology,4 Units, Consent of instructor,"Terms offered: Fall 2017, Spring 2016, Spring 2015<br/>
+Advanced topics chosen by the instructor. The content of this course changes, as in the case of seminars.",0
+MATH 277,Topics in Differential Geometry,4 Units, Consent of instructor,"Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Advanced topics chosen by the instructor. The content of this course changes, as in the case of seminars.",0
+MATH 278,Topics in Analysis,4 Units, Consent of instructor,"Terms offered: Spring 2018, Fall 2015, Spring 2015<br/>
+Advanced topics chosen by the instructor. The content of this course changes, as in the case of seminars.",0
+MATH 279,Topics in Partial Differential Equations,4 Units, Consent of instructor,"Terms offered: Fall 2017, Spring 2017, Spring 2016<br/>
+Advanced topics chosen by the instructor. The content of this course changes, as in the case of seminars.",0
+MATH 290,Seminars,1 - 6 Units,,"Terms offered: Spring 2017, Spring 2015, Fall 2014<br/>
+Topics in foundations of mathematics, theory of numbers, numerical calculations, analysis, geometry, topology, algebra, and their applications, by means of lectures and informal conferences; work based largely on original memoirs.",0
+MATH 295,Individual Research,1 - 12 Units,,"Terms offered: Summer 2016 10 Week Session, Spring 2016, Fall 2015<br/>
+Intended for candidates for the Ph.D. degree.",0
+MATH 299,Reading Course for Graduate Students,1 - 6 Units,,"Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Investigation of special problems under the direction of members of the department.",0
+MATH 301,Undergraduate Mathematics Instruction,1 - 2 Units," Permission of SLC instructor, as well as sophomore standing and at least a B average in two semesters of calculus. Apply at Student Learning Center","Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+May be taken for one unit by special permission of instructor. Tutoring at the Student Learning Center or for the Professional Development Program.",0
+MATH 303,Professional Preparation: Supervised Teaching of Mathematics,2 - 4 Units," 300, graduate standing and appointment as a Graduate Student Instructor","Terms offered: Spring 2017, Spring 2016, Fall 2015<br/>
+Meeting with supervising faculty and with discussion sections. Experience in teaching under the supervision of Mathematics faculty.",0
+MATH 375,Teaching Workshop,4 Units," 300, graduate standing and appointment as a Graduate Student Instructor","Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Mandatory for all graduate student instructors teaching for the first time in the Mathematics Department. The course consists of practice teaching, alternatives to standard classroom methods, guided group and self-analysis of videotapes, reciprocal classroom visitations, and an individual project.",0
+MATH 602,Individual Study for Doctoral Students,1 - 8 Units, For qualified graduate students,"Terms offered: Fall 2016, Fall 2015, Spring 2015<br/>
+Individual study in consultation with the major field adviser intended to provide an opportunity for qualified students to prepare themselves for the various examinations required for candidates for the Ph.D. Course does not satisfy unit or residence requirements for doctoral degree.",0

@@ -1,0 +1,10 @@
+code,title,units,prereqs,offered,corrupt
+MFE 230E,Empirical Methods in Finance,2 or 3 Units, Business Administration 230A-230B,"Offered through: Business Administration<br/>
+Terms offered: Spring 2018, Spring 2015, Spring 2007<br/>
+This course reviews probability and statistical techniques commonly used in quantitative finance. It includes a review of normal, lognormal, CEV distribution, estimation and nonparametric techniques commonly used in finance (MLE, GMM, GARCH). Students will be introduced to financial databases and estimation application software to estimate volatilities and correlations and their stability.",0
+MFE 230Q,Stochastic Calculus with Asset Pricing Applications,2 Units,,"Offered through: Business Administration<br/>
+Terms offered: Spring 2018, Spring 2015, Spring 2007<br/>
+The course introduces the students to techniques from stochastic analysis employed in mathematical finance. Topics include: stochastic processes, brownian motion, stochastic integral, differentials and Ito's formula; martingales.",0
+MFE 230S,Behavioral Finance,1 or 2 Units, 230D,"Offered through: Business Administration<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2015<br/>
+Over the last 25 years, psychologists have come to better understand the processes by which people make judgements and decisions. They have identified common judgement and decision heuristics and the biases associated with these. An understanding of one's own decision biases and those of others is an important tool for managers. Behavioral Decision Theory has also contributed to our understanding",0

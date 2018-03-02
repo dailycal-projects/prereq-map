@@ -1,0 +1,302 @@
+code,title,units,prereqs,offered,corrupt
+EL ENG 16A,Designing Information Devices and Systems I,4 Units," Math 1A, Math 1B or equivalent (may be taken concurrently), CS 61A or equivalent (encouraged to be taken concurrently)","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+This course and its follow-on course EE16B focus on the fundamentals of designing modern information devices and systems that interface with the real world. Together, this course sequence provides a comprehensive foundation for core EECS topics in signal processing, learning, control, and circuit design while introducing key linear-algebraic concepts motivated by application",0
+EL ENG 16B,Designing Information Devices and Systems II,4 Units," Electrical Engineering 16A, Designing Information Devices and Systems I","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+This course is a follow-on to Electrical Engineering 16A, and focuses on the fundamentals of designing and building modern information devices and systems that interface with the real world. The course sequence provides a comprehensive introduction to core EECS topics in circuit design, signals, and systems in an application-driven context. The courses are delivered assuming",0
+EL ENG 24,Freshman Seminar,1 Unit,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Spring 2017, Spring 2016<br/>
+The Freshman Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman seminars are offered in all campus departments, and topics may vary from department to department and semester to semester.",0
+EL ENG 39,Freshman/Sophomore Seminar,2 - 4 Units, Priority given to freshmen and sophomores,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2011<br/>
+Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25.",0
+EL ENG 49,Electronics for the Internet of Things,4 Units," Engineering 7 or Computer Science 10 or equivalent background in computer programming (including Computer Science 61A, Data Science 8) Math 1a or equivalent background in Calculus","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018<br/>
+Electronics has become pervasive in our lives as a powerful technology with applications in a wide range of fields including healthcare, environmental monitoring, robotics, or entertainment. This course teaches how to build electronic circuits that interact with the environment through sensors and actuators and how to communicate wirelessly with the internet to cooperate with other devices and with humans. In",0
+EL ENG 84,Sophomore Seminar,1 or 2 Units, At discretion of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Spring 2016, Fall 2015<br/>
+Sophomore seminars are small interactive courses offered by faculty members in departments all across the campus. Sophomore seminars offer opportunity for close, regular intellectual contact between faculty members and students in the crucial second year. The topics vary from department to department and semester to semester. Enrollment limited to 15 sophomores.",0
+EL ENG 97,Field Study,1 - 4 Units, Consent of instructor (see department adviser),"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2016, Fall 2015, Spring 2015<br/>
+Students take part in organized individual field sponsored programs with off-campus companies or tutoring/mentoring relevant to specific aspects and applications of computer science on or off campus. Note Summer CPT or OPT students: written report required. Course does not count toward major requirements, but will be counted in the cumulative units toward graduation.",0
+EL ENG 98,Directed Group Study for Undergraduates,1 - 4 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2016, Spring 2016, Fall 2015<br/>
+Group study of selected topics in electrical engineering, usually relating to new developments.",0
+EL ENG 99,Individual Study and Research for Undergraduates,1 - 4 Units, Freshman or sophomore standing and consent of instructor. Minimum GPA of 3.4 required,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2016, Fall 2015, Spring 2015<br/>
+Supervised independent study and research for students with fewer than 60 units completed.",0
+EL ENG 105,Microelectronic Devices and Circuits,4 Units, EE 16A & B,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+This course covers the fundamental circuit and device concepts needed to understand analog integrated circuits. After an overview of the basic properties of semiconductors, the p-n junction and MOS capacitors are described and the MOSFET is modeled as a large-signal device. Two port small-signal amplifiers and their realization using single stage and multistage CMOS building blocks are",0
+EL ENG C106A,Introduction to Robotics,4 Units," EE 120 or equivalent, consent of instructor","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+An introduction to the kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course covers forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics, and control. It presents elementary principles on proximity, tactile, and force sensing, vision sensors, camera calibration, stereo construction, and motion",0
+EL ENG C106B,Robotic Manipulation and Interaction,4 Units, Electrical Engineering C106A/Bioengineering C125 or consent of the instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2017, Spring 2016<br/>
+This course is a sequel to Electrical Engineering C106A/Bioengineering C125, which covers kinematics, dynamics and control of a single robot. This course will cover dynamics and control of groups of robotic manipulators coordinating with each other and interacting with the environment. Concepts will include an introduction to grasping and the constrained manipulation, contacts and force control for",0
+EL ENG 113,Power Electronics,4 Units, 105 or consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Power conversion circuits and techniques. Characterization and design of magnetic devices including transformers, reactors, and electromagnetic machinery. Characteristics of bipolar and MOS power semiconductor devices. Applications to motor control, switching power supplies, lighting, power systems, and other areas as appropriate.",0
+EL ENG 117,Electromagnetic Fields and Waves,4 Units," Electrical Engineering 16B, Mathematics 53, 54, Physics 7B, or equivalent that covers AC circuits and electromagnetics up to Maxwell's equations","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Review of static electric and magnetic fields and applications; Maxwell's equations; transmission lines; propagation and reflection of plane waves; introduction to guided waves, microwave networks, and radiation and antennas. Minilabs on statics, transmission lines, and waves.",0
+EL ENG 118,Introduction to Optical Engineering,3 Units," Math 53, and EE 16AB or Math 54","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Fundamental principles of optical systems. Geometrical optics and aberration theory. Stops and apertures, prisms, and mirrors. Diffraction and interference. Optical materials and coatings. Radiometry and photometry. Basic optical devices and the human eye. The design of optical systems. Lasers, fiber optics, and holography.",0
+EL ENG 120,Signals and Systems,4 Units, EE 16A and 16B,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Continuous and discrete-time transform analysis techniques with illustrative applications. Linear and time-invariant systems, transfer functions. Fourier series, Fourier transform, Laplace and Z-transforms. Sampling and reconstruction. Solution of differential and difference equations using transforms. Frequency response, Bode plots, stability analysis. Illustrated by analysis of communication",0
+EL ENG 121,Introduction to Digital Communication Systems,4 Units, EE 16 A & B; CS 70,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2016, Fall 2014, Fall 2013<br/>
+Introduction to the basic principles of the design and analysis of modern digital communication systems. Topics include source coding, channel coding, baseband and passband modulation techniques, receiver design, and channel equalization. Applications to design of digital telephone modems, compact disks, and digital wireless communication systems. Concepts illustrated by a sequence of MATLAB",0
+EL ENG 122,Introduction to Communication Networks,4 Units, Computer Science 70. Computer Science 70,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+This course focuses on the fundamentals of the wired and wireless communication networks. The course covers both the architectural principles for making these networks scalable and robust, as well as the key techniques essential for analyzing and designing them. The topics include graph theory, Markov chains, queuing, optimization techniques, the physical and link layers, switching,",0
+EL ENG 123,Digital Signal Processing,4 Units, 120,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Discrete time signals and systems: Fourier and Z transforms, DFT, 2-dimensional versions. Digital signal processing topics: flow graphs, realizations, FFT, chirp-Z algorithms, Hilbert transform relations, quantization effects, linear prediction. Digital filter design methods: windowing, frequency sampling, S-to-Z methods, frequency-transformation methods, optimization methods, 2-dimensional",0
+EL ENG 126,Probability and Random Processes,4 Units, EE 16A and 16B,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2017, Fall 2016, Spring 2016<br/>
+This course covers the fundamentals of probability and random processes useful in fields such as networks, communication, signal processing, and control. Sample space, events, probability law. Conditional probability. Independence. Random variables. Distribution, density functions. Random vectors. Law of large numbers. Central limit theorem. Estimation and detection. Markov chains.",0
+EL ENG C128,Feedback Control Systems,4 Units, EE 16A and either ME 132 or EE 120,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Analysis and synthesis of linear feedback control systems in transform and time domains. Control system design by root locus, frequency response, and state space methods. Applications to electro-mechanical and mechatronics systems.",0
+EL ENG 130,Integrated-Circuit Devices,4 Units, EE 16A and 16B,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Overview of electronic properties of semiconductor. Metal-semiconductor contacts, pn junctions, bipolar transistors, and MOS field-effect transistors. Properties that are significant to device operation for integrated circuits. Silicon device fabrication technology.",0
+EL ENG 134,Fundamentals of Photovoltaic Devices,4 Units, EE 16A and 16B,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+This course is designed to give an introduction to, and overview of, the fundamentals of photovoltaic devices. Students will learn how solar cells work, understand the concepts and models of solar cell device physics, and formulate and solve relevant physical problems related to photovoltaic devices. Monocrystalline, thin film and third generation solar cells will be discussed and analyzed.",0
+EL ENG 137A,Introduction to Electric Power Systems,4 Units, 16A & 16B or consent of instructor; Physics 7B,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Overview of conventional electric power conversion and delivery, emphasizing a systemic understanding of the electric grid with primary focus at the transmission level, aimed toward recognizing needs and opportunities for technological innovation. Topics include aspects of a.c. system design, electric generators, components of transmission and distribution systems, power flow analysis, system",0
+EL ENG 137B,Introduction to Electric Power Systems,4 Units, Electrical Engineering 137A or consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Overview of recent and potential future evolution of electric power systems with focus on new and emerging technologies for power conversion and delivery, primarily at the distribution level. Topics include power electronics applications, solar and wind generation, distribution system design and operation, electric energy storage, information management and communications, demand response",0
+EL ENG 140,Linear Integrated Circuits,4 Units, Electrical Engineering 105,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Single and multiple stage transistor amplifiers. Operational amplifiers. Feedback amplifiers, 2-port formulation, source, load, and feedback network loading. Frequency response of cascaded amplifiers, gain-bandwidth exchange, compensation, dominant pole techniques, root locus. Supply and temperature independent biasing and references. Selected applications of analog circuits such as analog-to-digital",0
+EL ENG 142,Integrated Circuits for Communications,4 Units, EE 16A & B; EE 105,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Spring 2016, Spring 2015<br/>
+Analysis and design of electronic circuits for communication systems, with an emphasis on integrated circuits for wireless communication systems. Analysis of noise and distortion in amplifiers with application to radio receiver design. Power amplifier design with application to wireless radio transmitters. Radio-frequency mixers, oscillators, phase-locked loops, modulators, and demodu",0
+EL ENG 143,Microfabrication Technology,4 Units, Physics 7B or equivalent,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Integrated circuit device fabrication and surface micromachining technology. Thermal oxidation, ion implantation, impurity diffusion, film deposition, expitaxy, lithography, etching, contacts and interconnections, and process integration issues. Device design and mask layout, relation between physical structure and electrical/mechanical performance. MOS transistors and poly-Si surface",0
+EL ENG C145B,Medical Imaging Signals and Systems,4 Units, Electrical Engineering 16A and 16B,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Biomedical imaging is a clinically important application of engineering, applied mathematics, physics, and medicine. In this course, we apply linear systems theory and basic physics to analyze X-ray imaging, computerized tomography, nuclear medicine, and MRI. We cover the basic physics and instrumentation that characterizes medical image as an ideal perfect-resolution image blurred by an impulse",0
+EL ENG 147,Introduction to Microelectromechanical Systems (MEMS),3 Units, Electrical Engineering 16A and 16B,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+This course will teach fundamentals of micromachining and microfabrication techniques, including planar thin-film process technologies, photolithographic techniques, deposition and etching techniques, and the other technologies that are central to MEMS fabrication. It will pay special attention to teaching of fundamentals necessary for the design and analysis of devices and systems in mechanical",0
+EL ENG 192,Mechatronic Design Laboratory,4 Units," EE120, EE16A+EE16B, CS61ABC","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Design project course, focusing on application of theoretical principles in electrical engineering to control of a small-scale system, such as a mobile robot. Small teams of students will design and construct a mechatronic system incorporating sensors, actuators, and intelligence.",0
+EL ENG 194,Special Topics,1 - 4 Units, Consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Fall 2015<br/>
+Topics will vary semester to semester. See the Electrical Engineering announcements.",0
+EL ENG H196A,Senior Honors Thesis Research,1 - 4 Units, Open only to students in the Electrical Engineering and Computer Science honors program,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2016, Fall 2015, Spring 2015<br/>
+Thesis work under the supervision of a faculty member. A minimum of four units must be taken; the units may be distributed between one and two semesters in any way. To obtain credit a satisfactory thesis must be submitted at the end of the two semesters to the Electrical and Engineering and Computer Science Department archive. Students who complete four units and a thesis in one semester",0
+EL ENG H196B,Senior Honors Thesis Research,1 - 4 Units, Open only to students in the Electrical Engineering and Computer Science honors program,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2016, Spring 2015, Spring 2014<br/>
+Thesis work under the supervision of a faculty member. A minimum of four units must be taken; the units may be distributed between one and two semesters in any way. To obtain credit a satisfactory thesis must be submitted at the end of the two semesters to the Electrical and Engineering and Computer Science Department archive. Students who complete four units and a thesis in one semester",0
+EL ENG 197,Field Study,1 - 4 Units, Consent of instructor (see department adviser),"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2016, Fall 2015<br/>
+Students take part in organized individual field sponsored programs with off-campus companies or tutoring/mentoring relevant to specific aspects and applications of computer science on or off campus. Note Summer CPT or OPT students: written report required. Course does not count toward major requirements, but will be counted in the cumulative units toward graduation.",0
+EL ENG 198,Directed Group Study for Advanced Undergraduates,1 - 4 Units, 2.0 GPA or better; 60 units completed,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Fall 2016<br/>
+Group study of selected topics in electrical engineering, usually relating to new developments.",0
+EL ENG 199,Supervised Independent Study,1 - 4 Units, Consent of instructor and major adviser,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Fall 2016<br/>
+Supervised independent study. Enrollment restrictions apply.",0
+EL ENG 206A,Introduction to Robotics,4 Units," 120 or equivalent, or consent of instructor","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+An introduction to the kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course will cover forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics and control-position, and force control. Proximity, tactile, and force sensing. Network modeling, stability, and fidelity in teleoperation and medical",0
+EL ENG 206B,Robotic Manipulation and Interaction,4 Units, Electrical Engineering 206A/Bioengineering C125 or consent of the<BR/>instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017<br/>
+This course is a sequel to EECS 125/225, which covers kinematics,<br/>
+dynamics and control of a single robot. This course will cover dynamics and control of groups of robotic<br/>
+manipulators coordinating with each other and interacting with the environment. Concepts will include<br/>
+an introduction to grasping and the constrained manipulation, contacts and force control for interaction<br/>
+with",0
+EL ENG 213A,Power Electronics,4 Units, EE105 or consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017<br/>
+Power conversion circuits and techniques. Characterization and design of magnetic devices including transformers, inductors, and electromagnetic actuators. Characteristics of power semiconductor devices, including power diodes, SCRs, MOSFETs, IGBTs, and emerging wide bandgap devices. Applications to renewable energy systems, high-efficiency lighting, power management in mobile electronics, and electric",0
+EL ENG C213,X-rays and Extreme Ultraviolet Radiation,3 Units," Physics 110, 137, and Mathematics 53, 54 or equivalent","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Spring 2009<br/>
+This course explores modern developments in the physics and applications of x-rays and extreme ultraviolet (EUV) radiation. It begins with a review of electromagnetic radiation at short wavelengths including dipole radiation, scattering and refractive index, using a semi-classical atomic model. Subject matter includes the generation of x-rays with synchrotron radiation, high harmonic generation",0
+EL ENG 218A,Introduction to Optical Engineering,3 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Fundamental principles of optical systems. Geometrical optics and aberration theory. Stops and apertures, prisms, and mirrors. Diffraction and interference. Optical materials and coatings. Radiometry and photometry. Basic optical devices and the human eye. The design of optical systems. Lasers, fiber optics, and holography.",0
+EL ENG 219A,Numerical Simulation and Modeling,4 Units, Consent of instructor; a course in linear algebra and on circuits is very useful,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2015, Fall 2014<br/>
+Numerical simulation and modeling are enabling technologies that pervade science and engineering. This course provides a detailed introduction to the fundamental principles of these technologies and their translation to engineering practice. The course emphasizes hands-on programming in MATLAB and application to several domains, including circuits, nanotechnology, and biology.",0
+EL ENG 219B,Logic Synthesis,4 Units, Consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2016, Spring 2015, Spring 2011<br/>
+The course covers the fundamental techniques for the design and analysis of digital circuits. The goal is to provide a detailed understanding of basic logic synthesis and analysis algorithms, and to enable students to apply this knowledge in the design of digital systems and EDA tools. The course will present combinational circuit optimization (two-level and multi-level synthesis), sequential",0
+EL ENG C220A,Advanced Control Systems I,3 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Input-output and state space representation of linear continuous and discrete time dynamic systems. Controllability, observability, and stability. Modeling and identification. Design and analysis of single and multi-variable feedback control systems in transform and time domain. State observer. Feedforward/preview control. Application to engineering systems.",0
+EL ENG C220B,Experiential Advanced Control Design I,3 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Experience-based learning in the design of SISO and MIMO feedback controllers for linear systems. The student will master skills needed to apply linear control design and analysis tools to classical and modern control problems. In particular, the participant will be exposed to and develop expertise in two key control design technologies: frequency-domain control synthesis and time-domain optimization-based",0
+EL ENG C220C,Experiential Advanced Control Design II,3 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017<br/>
+Experience-based learning in the design, analysis, and verification of automatic control systems. The course emphasizes the use of computer-aided design techniques through case studies and design tasks. The student will master skills needed to apply advanced model-based control analysis, design, and estimation to a variety of industrial applications. The role of these specific design methodologies",0
+EL ENG 221A,Linear System Theory,4 Units, 120; Mathematics 110 recommended,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Basic system concepts; state-space and I/O representation. Properties of linear systems. Controllability, observability, minimality, state and output-feedback. Stability. Observers. Characteristic polynomial. Nyquist test.",0
+EL ENG 222,"Nonlinear Systems--Analysis, Stability and Control",3 Units, 221A (may be taken concurrently),"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+Basic graduate course in non-linear systems. Second Order systems. Numerical solution methods, the describing function method, linearization. Stability - direct and indirect methods of Lyapunov. Applications to the Lure problem - Popov, circle criterion. Input-Output stability. Additional topics include: bifurcations of dynamical systems, introduction to the ""geometric"" theory",0
+EL ENG C222,Nonlinear Systems,3 Units," Math 54, or equivalent (undergraduate level Ordinary Differential Equations and Linear Algebra)","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018<br/>
+Basic graduate course in nonlinear systems. Nonlinear phenomena, planar systems, bifurcations, center manifolds, existence and uniqueness theorems. Lyapunov’s direct and indirect methods, Lyapunov-based feedback stabilization. Input-to-state and input-output stability, and dissipativity theory. Computation techniques for nonlinear system analysis and design. Feedback linearization and sliding mode control me",0
+EL ENG 223,Stochastic Systems: Estimation and Control,3 Units, 226A (which students are encouraged to take concurrently),"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2015, Fall 2011<br/>
+Parameter and state estimation. System identification. Nonlinear filtering. Stochastic control. Adaptive control.",0
+EL ENG 225A,Digital Signal Processing,3 Units, 123 and 126 or solid background in stochastic processes,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+Advanced techniques in signal processing. Stochastic signal processing, parametric statistical signal models, and adaptive filterings. Application to spectral estimation, speech and audio coding, adaptive equalization, noise cancellation, echo cancellation, and linear prediction.",0
+EL ENG 225B,Digital Image Processing,3 Units, 123,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2014, Fall 2013<br/>
+2-D sequences and systems, separable systems, projection slice thm, reconstruction from projections and partial Fourier information, Z transform, different equations, recursive computability, 2D DFT and FFT, 2D FIR filter design; human eye, perception, psychophysical vision properties, photometry and colorimetry, optics and image systems; image enhancement, image restoration, geometrical",0
+EL ENG C225E,Principles of Magnetic Resonance Imaging,4 Units, Either Electrical Engineering 120 or Bioengineering C165/Electrical Engineering C145B or consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016, Spring 2015<br/>
+Fundamentals of MRI including signal-to-noise ratio, resolution, and contrast as dictated by physics, pulse sequences, and instrumentation. Image reconstruction via 2D FFT methods. Fast imaging reconstruction via convolution-back projection and gridding methods and FFTs. Hardware for modern MRI scanners including main field, gradient fields, RF coils, and shim supplies.",0
+EL ENG 226A,Random Processes in Systems,4 Units, 120 and Statistics 200A or equivalent,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Probability, random variables and their convergence, random processes. Filtering of wide sense stationary processes, spectral density, Wiener and Kalman filters. Markov processes and Markov chains. Gaussian, birth and death, poisson and shot noise processes. Elementary queueing analysis. Detection of signals in Gaussian and shot noise, elementary parameter estimation.",0
+EL ENG 226B,Applications of Stochastic Process Theory,2 Units, 226A,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2017, Spring 2013, Spring 1997<br/>
+Advanced topics such as: Martingale theory, stochastic calculus, random fields, queueing networks, stochastic control.",0
+EL ENG 227BT,Convex Optimization,4 Units, Mathematics 54 and Statistics 2 or equivalents,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Convex optimization is a class of nonlinear optimization problems where the objective to be minimized, and the constraints, are both convex. The course covers some convex optimization theory and algorithms, and describes various applications arising in engineering design, machine learning and statistics, finance, and operations research. The course includes laboratory assignments, which consist",0
+EL ENG C227C,Convex Optimization and Approximation,3 Units, 227A or consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Convex optimization as a systematic approximation tool for hard decision problems. Approximations of combinatorial optimization problems, of stochastic programming problems, of robust optimization problems (i.e., with optimization problems with unknown but bounded data), of optimal control problems. Quality estimates of the resulting approximation. Applications in robust engineering",0
+EL ENG 229A,Information Theory and Coding,3 Units," 226 recommended, Statistics 200A or equivalent","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Fundamental bounds of Shannon theory and their application. Source and channel coding theorems. Galois field theory, algebraic error-correction codes. Private and public-key cryptographic systems.",0
+EL ENG 229B,Error Control Coding,3 Units, 126 or equivalent (some familiarity with basic probability). Prior exposure to information theory not necessary,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2016, Fall 2013, Fall 2012<br/>
+Error control codes are an integral part of most communication and recording systems where they are primarily used to provide resiliency to noise. In this course, we will cover the basics of error control coding for reliable digital transmission and storage. We will discuss the major classes of codes that are important in practice, including Reed Muller codes, cyclic codes, Reed Solomon",0
+EL ENG 230A,Integrated-Circuit Devices,4 Units, 40 or 100,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Overview of electronic properties of semiconductors. Metal-semiconductor contacts, pn junctions, bipolar transistors, and MOS field-effect transistors. Properties that are significant to device operation for integrated circuits. Silicon device fabrication technology.",0
+EL ENG 230B,Solid State Devices,4 Units, 130 or equivalent,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Physical principles and operational characteristics of semiconductor devices. Emphasis is on MOS field-effect transistors and their behaviors dictated by present and probable future technologies. Metal-oxide-semiconductor systems, short-channel and high field effects, device modeling, and impact on analog, digital circuits.",0
+EL ENG 230C,Solid State Electronics,3 Units, 131; Physics 137B,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2014<br/>
+Crystal structure and symmetries. Energy-band theory. Cyclotron resonance. Tensor effective mass. Statistics of electronic state population. Recombination theory. Carrier transport theory. Interface properties. Optical processes and properties.",0
+EL ENG W230A,Integrated-Circuit Devices,4 Units, MAS-IC students only,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Overview of electronic properties of semiconductors. Metal-semiconductor contacts, pn junctions, bipolar transistors, and MOS field-effect transistors. Properties that are significant to device operation for integrated circuits. Silicon device fabrication technology.",0
+EL ENG 232,Lightwave Devices,4 Units, Electrical Engineering 130 or equivalent; Physics 137A and Electrical Engineering 117 recommended,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+This course is designed to give an introduction and overview of the fundamentals of optoelectronic devices. Topics such as optical gain and absorption spectra, quantization effects, strained quantum wells, optical waveguiding and coupling, and hetero p-n junction will be covered. This course will focus on basic physics and design principles of semiconductor diode lasers, light emitting",0
+EL ENG C235,Nanoscale Fabrication,4 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2016, Spring 2015, Spring 2013<br/>
+This course discusses various top-down and bottom-up approaches to synthesizing and processing nanostructured materials. The topics include fundamentals of self assembly, nano-imprint lithography, electron beam lithography, nanowire and nanotube synthesis, quantum dot synthesis (strain patterned and colloidal), postsynthesis modification (oxidation, doping, diffusion, surface interactions",0
+EL ENG 236A,Quantum and Optical Electronics,3 Units," 117A, Physics 137A or equivalent","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2015, Fall 2013<br/>
+Interaction of radiation with atomic and semiconductor systems, density matrix treatment, semiclassical laser theory (Lamb's), laser resonators, specific laser systems, laser dynamics, Q-switching and mode-locking, noise in lasers and optical amplifiers. Nonlinear optics, phase-conjugation, electrooptics, acoustooptics and magnetooptics, coherent optics, stimulated Raman and Brillouin sca",0
+EL ENG 240A,Analog Integrated Circuits,4 Units, Electrical Engineering 105,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Single and multiple stage transistor amplifiers. Operational amplifiers. Feedback amplifiers, 2-port formulation, source, load, and feedback network loading. Frequency response of cascaded amplifiers, gain-bandwidth exchange, compensation, dominant pole techniques, root locus. Supply and temperature independent biasing and references. Selected applications of analog circuits such as analog-to-digital",0
+EL ENG 240B,Advanced Analog Integrated Circuits,4 Units, EE140/EE240A or equivalent,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Analysis and optimized design of monolithic operational amplifiers and wide-band amplifiers; methods of achieving wide-band amplification, gain-bandwidth considerations; analysis of noise in integrated circuits and low noise design. Precision passive elements, analog switches, amplifiers and comparators, voltage reference in NMOS and CMOS circuits, Serial, successive-approximation, and",0
+EL ENG 240C,Analysis and Design of VLSI Analog-Digital Interface Integrated Circuits,3 Units, Electrical Engineering 140,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2015, Fall 2014<br/>
+Architectural and circuit level design and analysis of integrated analog-to-digital and digital-to-analog interfaces in CMOS and BiCMOS VLSI technology. Analog-digital converters, digital-analog converters, sample/hold amplifiers, continuous and switched-capacitor filters. RF integrated electronics including synthesizers, LNA's, and baseband processing. Low power mixed signal design. Data",0
+EL ENG W240A,Analog Integrated Circuits,4 Units, MAS-IC students only,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Single and multiple stage transistor amplifiers. Operational amplifiers. Feedback amplifiers, 2-port formulation, source, load, and feedback network loading. Frequency response of cascaded amplifiers, gain-bandwidth exchange, compensation, dominant pole techniques, root locus. Supply and temperature independent biasing and references. Selected applications of analog circuits such as",0
+EL ENG W240C,Analysis and Design of VLSI Analog-Digital Interface Integrated Circuits,3 Units, EE W240A; MAS-IC students only,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2017, Spring 2016<br/>
+Architectural and circuit level design and analysis of integrated analog-to-digital and digital-to-analog interfaces in modern CMOS and BiCMOS VLSI technology. Analog-digital converters, digital-analog converters, sample/hold amplifiers, continuous and switched-capacitor filters. Low power mixed signal design techniques. Data communications systems including interface circuity. CAD tools for analog",0
+EL ENG 241B,Advanced Digital Integrated Circuits,3 Units, 141,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Analysis and design of MOS and bipolar large-scale integrated circuits at the circuit level. Fabrication processes, device characteristics, parasitic effects static and dynamic digital circuits for logic and memory functions. Calculation of speed and power consumption from layout and fabrication parameters. ROM, RAM, EEPROM circuit design. Use of SPICE and other computer aids.",0
+EL ENG W241B,Advanced Digital Integrated Circuits,3 Units, EE W241A; MAS-IC students only,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+Analysis and design of MOS and bipolar large-scale integrated circuits at the circuit level. Fabrication processes, device characteristics, parasitic effects static and dynamic digital circuits for logic and memory functions. Calculation of speed and power consumption from layout and fabrication parameters. ROM, RAM, EEPROM circuit design. Use of SPICE and other computer aids.",0
+EL ENG 242A,Integrated Circuits for Communications,4 Units, 20N and 140 or equivalent,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Spring 2016, Spring 2015<br/>
+Analysis and design of electronic circuits for communication systems, with an emphasis on integrated circuits for wireless communication systems. Analysis of noise and distortion in amplifiers with application to radio receiver design. Power amplifier design with application to wireless radio transmitters. Radio-frequency mixers, oscillators, phase-locked loops, modulators, and demodu",0
+EL ENG W242A,Integrated Circuits for Communications,4 Units, EE W240A; MAS-IC students only,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Analysis and design of electronic circuits for communication systems, with an emphasis on integrated circuits for wireless communication systems. Analysis of noise and distortion in amplifiers with application to radio receiver design. Power amplifier design with application to wireless radio transmitters. Radio-frequency mixers, oscillators, phase-locked loops, modulators, and demo",0
+EL ENG W242B,Advanced Integrated Circuits for Communications,3 Units," EE W240A, EE W242A; MAS-IC students only","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2017, Spring 2016<br/>
+Analysis, evaluation, and design of present-day integrated circuits for communications application, particularly those for which nonlinear response must be included. MOS, bipolar and BICMOS circuits, audio and video power amplifiers, optimum performance of near-sinusoidal oscillators and frequency-translation circuits. Phase-locked loop ICs, analog multipliers and voltage-controlled oscillators;",0
+EL ENG 244,"Fundamental Algorithms for Systems Modeling, Analysis, and Optimization",4 Units, Graduate standing,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2016, Fall 2015, Fall 2014<br/>
+The modeling, analysis, and optimization of complex systems requires a range of algorithms and design software. This course reviews the fundamental techniques underlying the design methodology for complex systems, using integrated circuit design as example. Topics include design flows, discrete and continuous models and algorithms, and strategies for implementing algorithms efficiently and",0
+EL ENG 247A,Introduction to Microelectromechanical Systems (MEMS),3 Units, Electrical Engineering 40 or 100 or consent of instructor required,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+This course will teach fundamentals of micromachining and microfabrication techniques, including planar thin-film process technologies, photolithographic techniques, deposition and etching techniques, and the other technologies that are central to MEMS fabrication. It will pay special attention to teaching of fundamentals necessary for the design and analysis of devices and systems in mechanical",0
+EL ENG C247B,Introduction to MEMS Design,4 Units, Graduate standing in engineering or science; undergraduates with consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Physics, fabrication, and design of micro-electromechanical systems (MEMS). Micro and nanofabrication processes, including silicon surface and bulk micromachining and non-silicon micromachining. Integration strategies and assembly processes. Microsensor and microactuator devices: electrostatic, piezoresistive, piezoelectric, thermal, magnetic transduction. Electronic position-sensing",0
+EL ENG C249A,Introduction to Embedded Systems,4 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+This course introduces students to the basics of models, analysis tools, and control for embedded systems operating in real time. Students learn how to combine physical processes with computation. Topics include models of computation, control, analysis and verification, interfacing with the physical world, mapping to platforms, and distributed embedded systems. The course has a strong laboratory",0
+EL ENG C249B,"Embedded System Design: Modeling, Analysis, and Synthesis",4 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2016, Spring 2015, Fall 2013<br/>
+Principles of embedded system design. Focus on design methodologies and foundations. Platform-based design and communication-based design and their relationship with design time, re-use, and performance. Models of computation and their use in design capture, manipulation, verification, and synthesis. Mapping into architecture and systems platforms. Performance estimation. Scheduling and",0
+EL ENG C261,Medical Imaging Signals and Systems,4 Units, El Eng 20N and Engineering 7 or equivalent. Knowledge of Matlab or linear algebra assumed,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Biomedical imaging is a clinically important application of engineering, applied mathematics, physics, and medicine. In this course, we apply linear systems theory and basic physics to analyze X-ray imaging, computerized tomography, nuclear medicine, and MRI. We cover the basic physics and instrumentation that characterizes medical image as an ideal perfect-resolution image blurred by an impulse",0
+EL ENG 290A,Advanced Topics in Electrical Engineering: Advanced Topics in Computer-Aided Design,1 - 3 Units, Consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2016, Spring 2015, Fall 2014<br/>
+The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester.",0
+EL ENG 290B,Advanced Topics in Electrical Engineering: Advanced Topics in Solid State Devices,1 - 3 Units, Consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Spring 2016<br/>
+The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester.",0
+EL ENG 290C,Advanced Topics in Electrical Engineering: Advanced Topics in Circuit Design,1 - 3 Units, Consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2017, Fall 2015<br/>
+The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester.",0
+EL ENG 290G,"Advanced Topics in Electrical Engineering: Advanced Topics in Mems, Microsensors, and Microactuators",1 - 3 Units, Consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Spring 2002<br/>
+The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester.",0
+EL ENG 290N,Advanced Topics in Electrical Engineering: Advanced Topics in System Theory,1 - 3 Units, Consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2015, Fall 2014<br/>
+The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester.",0
+EL ENG 290O,Advanced Topics in Electrical Engineering: Advanced Topics in Control,1 - 3 Units, Consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2015, Spring 2014<br/>
+The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester.",0
+EL ENG 290P,Advanced Topics in Electrical Engineering: Advanced Topics in Bioelectronics,1 - 3 Units, Consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Fall 2016<br/>
+The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester.",0
+EL ENG 290Q,Advanced Topics in Electrical Engineering: Advanced Topics in Communication Networks,1 - 3 Units, Consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2017, Spring 2016, Fall 2014<br/>
+The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester.",0
+EL ENG 290S,Advanced Topics in Electrical Engineering: Advanced Topics in Communications and Information Theory,1 - 3 Units, Consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2016, Fall 2009, Spring 2009<br/>
+The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester.",0
+EL ENG 290T,Advanced Topics in Electrical Engineering: Advanced Topics in Signal Processing,1 - 3 Units, Consent of instructor,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Fall 2016, Spring 2014<br/>
+The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester.",0
+EL ENG C291,Control and Optimization of Distributed Parameters Systems,3 Units," Engineering 77, Mathematics 54 (or equivalent), or consent of instructor","Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2017, Spring 2016, Spring 2015, Spring 2014<br/>
+Distributed systems and PDE models of physical phenomena (propagation of waves, network traffic, water distribution, fluid mechanics, electromagnetism, blood vessels, beams, road pavement, structures, etc.). Fundamental solution methods for PDEs: separation of variables, self-similar solutions, characteristics, numerical methods, spectral methods. Stability analysis. Adjoint-based",0
+EL ENG C291E,Hybrid Systems and Intelligent Control,3 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Spring 2016, Spring 2014<br/>
+Analysis of hybrid systems formed by the interaction of continuous time dynamics and discrete-event controllers. Discrete-event systems models and language descriptions. Finite-state machines and automata. Model verification and control of hybrid systems. Signal-to-symbol conversion and logic controllers. Adaptive, neural, and fuzzy-control systems. Applications to robotics and Intelligent",0
+EL ENG 298,"Group Studies, Seminars, or Group Research",1 - 4 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Advanced study in various subjects through special seminars on topics to be selected each year, informal group studies of special problems, group participation in comprehensive design problems, or group research on complete problems for analysis and experimentation.",0
+EL ENG 299,Individual Research,1 - 12 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Summer 2016 10 Week Session, Summer 2016 8 Week Session, Spring 2016<br/>
+Investigation of problems in electrical engineering.",0
+EL ENG 375,Teaching Techniques for Electrical Engineering,2 Units, Teaching assistant or graduate student,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Discussion of effective teaching techniques. Use of educational objectives, alternative forms of instruction, and proven techniques to enhance student learning. This course is intended to orient new student instructors to more effectively teach courses offered by the Department of Electrical Engineering and Computer Sciences at UC Berkeley.",0
+EL ENG 602,Individual Study for Doctoral Students,1 - 8 Units,,"Offered through: Electrical Engin and Computer Sci<br/>
+Terms offered: Fall 2016, Fall 2015, Fall 2014<br/>
+Individual study in consultation with the major field adviser, intended to provide an opportunity for qualified students to prepare themselves for the various examinations required of candidates for the Ph.D. (and other doctoral degrees).",0

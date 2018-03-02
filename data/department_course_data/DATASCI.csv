@@ -1,0 +1,44 @@
+code,title,units,prereqs,offered,corrupt
+DATASCI W200,Python Fundamentals for Data Science,3 Units, MIDS students only,"Offered through: Information<br/>
+Terms offered: Spring 2018, Fall 2017, Summer 2017<br/>
+This fast-paced course gives students fundamental Python knowledge necessary for advanced work in data science. Students gain frequent practice writing code, building to advanced skills focused on data science applications. We introduce a range of Python objects and control structures, then build on these with classes on object-oriented programming. A major programming project reinforces these concepts, giving",0
+DATASCI W201,Research Design and Applications for Data and Analysis,3 Units, Master of Information and Data Science students only,"Offered through: Information<br/>
+Terms offered: Spring 2018, Fall 2017, Summer 2017<br/>
+Introduces the data sciences landscape, with a particular focus on learning data science techniques to uncover and answer the questions students will encounter in industry. Lectures, readings, discussions, and assignments will teach how to apply disciplined, creative methods to ask better questions, gather data, interpret results, and convey findings to various audiences. The emphasis throughout is on making",0
+DATASCI W203,Statistics for Data Science,3 Units, Master of Information and Data Science students only. Intermediate competency in calculus is required. A college-level linear algebra course is recommended,"Offered through: Information<br/>
+Terms offered: Spring 2018, Fall 2017, Summer 2017<br/>
+This course provides students with a foundational understanding of classical statistics within the broader context of data science. Topics include exploratory analysis and descriptive statistics, probability theory and the foundations of statistical modeling, estimators, hypothesis testing, and classical linear regression. Causal inference and reproducibility issues are treated briefly. Students will learn",0
+DATASCI W205,Fundamentals of Data Engineering,3 Units," Master of Information and Data Science students only. Intermediate competency in Python, C, or Java, and competency in Linux, GitHub, and relevant Python libraries; or permission of instructor. Knowledge of database management including SQL is recommended but not required","Offered through: Information<br/>
+Terms offered: Spring 2018, Fall 2017, Summer 2017<br/>
+Storing, managing, and processing datasets are foundational processes in data science. This course introduces the fundamental knowledge and skills of data engineering that are required to be effective as a data scientist. This course focuses on the basics of data pipelines, data pipeline flows and associated business use cases, and how organizations derive value from data and data engineering. As these fundamentals",0
+DATASCI W207,Applied Machine Learning,3 Units," Master of Information and Data Science students only. Data Science W201, W203. Intermediate competency in Python, C, or Java, and competency in Linux, GitHub, and relevant Python libraries; or permission of instructor. Linear algebra is recommended","Offered through: Information<br/>
+Terms offered: Spring 2018, Fall 2017, Summer 2017<br/>
+Machine learning is a rapidly growing field at the intersection of computer science and statistics concerned with finding patterns in data. It is responsible for tremendous advances in technology, from personalized product recommendations to speech recognition in cell phones. This course provides a broad introduction to the key ideas in machine learning. The emphasis will be on intuition and practical examples",0
+DATASCI W209,Data Visualization and Communication,3 Units, Master of Information and Data Science students only. ,"Offered through: Information<br/>
+Terms offered: Spring 2018, Fall 2017, Summer 2017<br/>
+Communicating clearly and effectively about the patterns we find in data is a key skill for a successful data scientist. This course focuses on the design and implementation of complementary visual and verbal representations of patterns and analyses in order to convey findings, answer questions, drive decisions, and provide persuasive evidence supported by data. Assignments will give hands-on experience designing",1
+DATASCI W210,Capstone,3 Units," Master of Information and Data Science Students only.<BR/>Students must have completed (or are completing during the same semester) all core courses (Data Science W201, W203, W205, W207 and W209)","Offered through: Information<br/>
+Terms offered: Spring 2018, Fall 2017, Summer 2017<br/>
+The capstone course will cement skills learned throughout the MIDS program – both core data science skills and “soft skills” like problem-solving, communication, influencing, and management – preparing students for success in the field. The centerpiece is a semester-long group project in which teams of students propose and select project ideas, conduct and communicate their work, receive and provide feedback",0
+DATASCI W231,Behind the Data: Humans and Values,3 Units, MIDS and MPA students only,"Offered through: Information<br/>
+Terms offered: Spring 2018, Fall 2017, Summer 2017<br/>
+Intro to the legal, policy, and ethical implications of data, including privacy, surveillance, security, classification, discrimination, decisional-autonomy, and duties to warn or act. Examines legal, policy, and ethical issues throughout the full data-science life cycle — collection, storage, processing, analysis, and use — with case studies from criminal justice, national security, health, marketing, politics",0
+DATASCI W241,Experiments and Causal Inference,3 Units, Data Science W201 and W203,"Offered through: Information<br/>
+Terms offered: Spring 2018, Fall 2017, Summer 2017<br/>
+This course introduces students to experimentation in the social sciences. This topic has<br/>
+increased considerably in importance since 1995, as researchers have learned to think<br/>
+creatively about how to generate data in more scientific ways, and developments in information<br/>
+technology have facilitated the development of better data gathering. Key to this area of inquiry is<br/>
+the insight that correlation",0
+DATASCI W251,Scaling Up! Really Big Data,3 Units," Master of Information and Data Science students only. Students must have completed Data Science W201, W203, and W205 before enrolling in this course. They should be able to program in C, Python, or Java and/or be able to pick up a new programming language quickly. A degree of fluency is expected with the basics of operating systems (e.g., Linux and the Internet Technologies","Offered through: Information<br/>
+Terms offered: Spring 2018, Fall 2017, Summer 2017<br/>
+An overview of the contemporary toolkits for problems related to cloud computing and big data. Because the class is an advanced course, we generally assume familiarity with the concepts and spend more time on the implementation. Every lecture is followed by a hands-on assignment, where students get to experience some of the technologies covered in the lecture. By the time students complete the course, they",0
+DATASCI W261,Machine Learning at Scale,3 Units," Master of Information and Data Science students only. <BR/>Data Science W207. Intermediate programming skills in an object-oriented language (e.g., Python)","Offered through: Information<br/>
+Terms offered: Spring 2018, Fall 2017, Summer 2017<br/>
+This course teaches the underlying principles required to develop scalable machine learning pipelines for structured and unstructured data at the petabyte scale. Students will gain hands-on experience in Apache Hadoop and Apache Spark.",0
+DATASCI W266,Natural Language Processing with Deep Learning,3 Units, Master of Information and Data Science students only. Data Science W207,"Offered through: Information<br/>
+Terms offered: Spring 2018, Fall 2017, Summer 2017<br/>
+Understanding language is fundamental to human interaction. Our brains have evolved language-specific circuitry that helps us learn it very quickly; however, this also means that we have great difficulty explaining how exactly meaning arises from sounds and symbols. This course is a broad introduction to linguistic phenomena and our attempts to analyze them with machine learning. We will cover a wide range",0
+DATASCI W271,"Statistical Methods for Discrete Response, Time Series, and Panel Data",3 Units, ,"Offered through: Information<br/>
+Terms offered: Spring 2018, Fall 2017, Summer 2017<br/>
+A continuation of Data Science W203 (Exploring and Analyzing Data), this course trains data science students to apply more advanced methods from regression analysis and time series models. Central topics include linear regression, causal inference, identification strategies, and a wide-range of time series models that are frequently used by industry professionals. Throughout the course, we emphasize choosing",1

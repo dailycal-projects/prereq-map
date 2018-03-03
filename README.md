@@ -1,8 +1,8 @@
 # prereq-map
 
 #3-2-2018
- To do: fix 'corrupt' courses (tagged with '1' in the data/department_course_data), scrape course data
-
+ Data to do: fix 'corrupt' courses (tagged with '1' in the data/department_course_data), scrape course data
+ Visualization to do: use D3 to dynamically generate separate 'search result' graphs, instead of visualizing on top of the whole department graph. On click or on search, create this 'new graph' 
 | Title | prereq-map |
 |-|-|
 | Developer    | []() |

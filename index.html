@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<p> hello </p>
+<style>
+
+/* Gray lines connecting the nodes. */
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+/* The nodes have a circle of white around them for the aesthetics. */
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+</style>
+<svg width="960" height="600"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+// Selects the first element that matches selector string "svg"
+var svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
+
+// build the arrow.
+svg.append("svg:defs").selectAll("marker")
+    .data(["end"])      // Different link/path types can be defined here
+  .enter().append("svg:marker")    // This section adds in the arrows
+    .attr("id", String)
+    .attr("viewBox", "0 -5 10 10")
+    .attr("refX", 15)
+    .attr("refY", -1.5)
+    .attr("markerWidth", 6)
+    .attr("markerHeight", 6)
+    .attr("orient", "auto")
+  .append("svg:path")
+    .attr("d", "M0,-5L10,0L0,5");
+
+// Ordinal scale to map set of categories to set of colors
+// (Can use npm install d3-scale-chromatic to find color schemes that will work with d3-scale)
+var color = d3.scaleOrdinal(d3.schemeCategory20);
+
+// Creates a new force simulation
+// A force is a function that modifies node positions + velocities
+// .force("name") -> Assigns the force for specified name and returns this simulation
+var simulation = d3.forceSimulation()
+    
+    // Pushes linked nodes according to desired link distance (like a spring force)
+    // .id(function...) -> Returns a string to use named sources and targets
+    .force("link", d3.forceLink().id(function(d) { return d.id; }))
+
+    // Applies mutually on all nodes, i.e. a charge force that repels
+    // .force("charge", d3.forceManyBody())
+
+    // Like this centers along the y-axis (?)
+    // .force("xAxis",d3.forceX(width/2))
+
+    // If 'root' then the y-value is set to 10, else it's centered around middle
+    .force("y", d3.forceY(function(d) {
+      if (d.group === 1) {
+        d.fx = width / 2
+        d.fy = 50
+      } else {
+        return height / 1.5
+      }
+    }))
+
+    // Treat nodes as circles with given radius, to prevent overlapping
+    .force("collide", d3.forceCollide().radius(70))
+
+    // Positioning force to make circular
+    // .force("radial",d3.forceRadial(radius, x, y))
+
+    // Creates new centering force with specified x and y coordinates 
+    .force("center", d3.forceCenter(width / 2, height / 2));
+    
+    // // Trying to get root node so it can be fixed?
+    // .on("tick", function() {
+    //   nodes[0].x = width / 2;
+    //   nodes[0].y = height / 2;
+    // })
+
+// Get a JSON file
+d3.json("data.json", function(error, graph) {
+  if (error) throw error;
+
+  // root = json;
+
+  var link = svg.append("g")
+      .attr("class", "links")
+    .selectAll("line")
+    .data(graph.links)
+    .enter().append("line")
+      .attr("stroke-width", function(d) { return Math.sqrt(d.value); })
+    .attr("marker-end", "url(#end)");
+
+  var node = svg.append("g")
+      .attr("class", "nodes")
+    .selectAll("circle")
+    .data(graph.nodes)
+    .enter().append("circle")
+      .attr("r", 35)
+      .attr("fill", function(d) { return color(d.group); })
+      .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged));
+          // .on("end", dragended));
+
+  node.append("title")
+      .text(function(d) { return d.id; });
+
+  // Create a selection label
+  // D3 data-join to add text-elements and set label-text
+  var label = svg.selectAll("text")
+      .data(graph.nodes)
+      .enter()
+      .append("text")
+      .text(function (d) { return d.id; })
+      .style("text-anchor)", "middle")
+      .style("fill", "#000")
+      .style("font-family", "Arial")
+      .style("font-size", 12);
+
+  // for (var i = 0; i < root.nodes.length; i++) {
+  //   node.collapsing = 0;
+  //   node.collapsed = false;
+  // }
+
+  // for (var i = 0; i < root.links.length; i++) {
+  //   var link = root.links[i];
+  //   link.source = root.nodes[link.source];
+    
+  // }
+
+  simulation
+      .nodes(graph.nodes)
+      .on("tick", ticked);
+
+  simulation.force("link")
+      .links(graph.links);
+
+  // function update() {
+  //   var nodes = f
+  // }
+
+  function ticked() {
+    node
+        .attr("cx", function(d) { return d.x; })
+        .attr("cy", function(d) { return d.y; });
+
+    link
+        .attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+    
+    // Position labels by setting x and y of text element according to x and y value of graph.nodes element
+    label
+        .attr("x", function(d) { return d.x - (node.attr("r") / 1.5); })
+        .attr("y", function(d) { return d.y + 5; });
+  }
+});
+
+function dragstarted(d) {
+  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+  d.fx = d.x;
+  d.fy = d.y;
+}
+
+function dragged(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
+
+function dragended(d) {
+  if (!d3.event.active) simulation.alphaTarget(0);
+  d.fx = null;
+  d.fy = null;
+}
+
+</script>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<p> hello </p>
+<p> go bears </p>
 <style>
 
 /* Gray lines connecting the nodes. */
@@ -26,18 +26,21 @@ var svg = d3.select("svg"),
     height = +svg.attr("height");
 
 // build the arrow.
-svg.append("svg:defs").selectAll("marker")
+var arrow = svg.append("svg:defs").selectAll("marker")
     .data(["end"])      // Different link/path types can be defined here
   .enter().append("svg:marker")    // This section adds in the arrows
     .attr("id", String)
     .attr("viewBox", "0 -5 10 10")
-    .attr("refX", 15)
-    .attr("refY", -1.5)
-    .attr("markerWidth", 6)
-    .attr("markerHeight", 6)
+    .attr("refX", 19)
+    .attr("refY", 0)
+    .attr("markerWidth", 4)
+    .attr("markerHeight", 4)
+    .attr("xoverflow", "visible")
     .attr("orient", "auto")
   .append("svg:path")
-    .attr("d", "M0,-5L10,0L0,5");
+    .attr("d", "M0,-5L10,0L0,5")
+    .attr("fill", "#999")
+    .style("stroke", "none");
 
 // Ordinal scale to map set of categories to set of colors
 // (Can use npm install d3-scale-chromatic to find color schemes that will work with d3-scale)
@@ -53,7 +56,7 @@ var simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }))
 
     // Applies mutually on all nodes, i.e. a charge force that repels
-    // .force("charge", d3.forceManyBody())
+    .force("charge", d3.forceManyBody())
 
     // Like this centers along the y-axis (?)
     // .force("xAxis",d3.forceX(width/2))
@@ -71,23 +74,12 @@ var simulation = d3.forceSimulation()
     // Treat nodes as circles with given radius, to prevent overlapping
     .force("collide", d3.forceCollide().radius(70))
 
-    // Positioning force to make circular
-    // .force("radial",d3.forceRadial(radius, x, y))
-
     // Creates new centering force with specified x and y coordinates 
     .force("center", d3.forceCenter(width / 2, height / 2));
     
-    // // Trying to get root node so it can be fixed?
-    // .on("tick", function() {
-    //   nodes[0].x = width / 2;
-    //   nodes[0].y = height / 2;
-    // })
-
 // Get a JSON file
 d3.json("data.json", function(error, graph) {
   if (error) throw error;
-
-  // root = json;
 
   var link = svg.append("g")
       .attr("class", "links")
@@ -106,8 +98,10 @@ d3.json("data.json", function(error, graph) {
       .attr("fill", function(d) { return color(d.group); })
       .call(d3.drag()
           .on("start", dragstarted)
-          .on("drag", dragged));
+          .on("drag", dragged))
           // .on("end", dragended));
+      .on("mouseover", fade(0.1))
+          .on("mouseout", fade(1));
 
   node.append("title")
       .text(function(d) { return d.id; });
@@ -118,22 +112,11 @@ d3.json("data.json", function(error, graph) {
       .data(graph.nodes)
       .enter()
       .append("text")
-      .text(function (d) { return d.id; })
+      .text(function (d) { return d.name; })
       .style("text-anchor)", "middle")
       .style("fill", "#000")
       .style("font-family", "Arial")
       .style("font-size", 12);
-
-  // for (var i = 0; i < root.nodes.length; i++) {
-  //   node.collapsing = 0;
-  //   node.collapsed = false;
-  // }
-
-  // for (var i = 0; i < root.links.length; i++) {
-  //   var link = root.links[i];
-  //   link.source = root.nodes[link.source];
-    
-  // }
 
   simulation
       .nodes(graph.nodes)
@@ -141,10 +124,6 @@ d3.json("data.json", function(error, graph) {
 
   simulation.force("link")
       .links(graph.links);
-
-  // function update() {
-  //   var nodes = f
-  // }
 
   function ticked() {
     node
@@ -160,9 +139,54 @@ d3.json("data.json", function(error, graph) {
     
     // Position labels by setting x and y of text element according to x and y value of graph.nodes element
     label
-        .attr("x", function(d) { return d.x - (node.attr("r") / 1.5); })
+        .attr("x", function(d) { return d.x - (node.attr("r") - 8); })
         .attr("y", function(d) { return d.y + 5; });
   }
+
+  // Build a dictionary of nodes that are linked
+  var linkedByIndex = {};
+    graph.links.forEach(function(d) {
+        linkedByIndex[d.source.index + "," + d.target.index] = 1;
+  });
+
+  function isConnected(a, b) {
+      return linkedByIndex[a.index + "," + b.index] || linkedByIndex[b.index + "," + a.index] || a.index == b.index;
+  } 
+
+  // Fade nodes on hover
+    function fade(opacity) {
+        return function(d) {
+            // check all other nodes to see if they're connected
+            // to this one. if so, keep the opacity at 1, otherwise
+            // fade
+            node.style("stroke-opacity", function(o) {
+                thisOpacity = isConnected(d, o) ? 1 : opacity;
+                return thisOpacity;
+            });
+            node.style("fill-opacity", function(o) {
+                thisOpacity = isConnected(d, o) ? 1 : opacity;
+                return thisOpacity;
+            });
+            // also style link accordingly
+            link.style("stroke-opacity", function(o) {
+                return o.source === d || o.target === d ? 1 : opacity;
+            });
+            link.style("stroke", function(o){
+                return o.source === d || o.target === d ? o.source.colour : "#ddd";
+            });
+            // also style arrow accordingly
+            // arrow.style("stroke-opacity", function(o) {
+            //     return o.source === d || o.target === d ? 1 : opacity;
+            // });
+            arrow.style("fill", function(o){
+                return o.source === d || o.target === d ? o.source.colour : "#ddd";
+            });
+            arrow.style("fill-opacity", function(o){
+                return o.source === d || o.target === d ? o.source.colour : "#ddd";
+            });
+        };
+    }
+
 });
 
 function dragstarted(d) {

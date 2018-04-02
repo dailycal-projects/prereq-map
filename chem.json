@@ -1,0 +1,966 @@
+{
+  "nodes": [
+  {
+    "name": " Chemistry",
+    "tooltip": "High school chemistry or equivalent",
+    "group": 1,
+    "details": "",
+    "id": "chem"
+  },
+  {
+    "name": " Calculus",
+    "tooltip": "High school calculus or equivalent",
+    "group": 1,
+    "details": "",
+    "id": "calc"
+  },
+  {
+    "name": "CHEM 1A",
+    "tooltip": "General Chemistry",
+    "group": 3,
+    "details": "High school chemistry recommended",
+    "id": "chem1a"
+  },
+  {
+    "name": "CHEM 1AD",
+    "tooltip": "General Chemistry (Digital)",
+    "group": 3,
+    "details": "High school chemistry recommended",
+    "id": "chem1ad"
+  },
+  {
+    "name": "CHEM 1AL",
+    "tooltip": "General Chemistry Laboratory",
+    "group": 10,
+    "details": "1A (may be taken concurrently)",
+    "id": "chem1al"
+  },
+  {
+    "name": "CHEM 1B",
+    "tooltip": "General Chemistry",
+    "group": 4,
+    "details": "Chemistry 1A and Chemistry 1AL or equivalent, or a score of 3, 4, or 5 on the Chemistry AP test",
+    "id": "chem1b"
+  },
+  {
+    "name": "CHEM 3A",
+    "tooltip": "Chemical Structure and Reactivity",
+    "group": 3,
+    "details": "1A with a grade of C- or higher, or a score of 4 or 5 on the Chemistry AP test",
+    "id": "chem3a"
+  },
+  {
+    "name": "CHEM 3AL",
+    "tooltip": "Organic Chemistry Laboratory",
+    "group": 2,
+    "details": "1A and 1AL or equivalent with a grade of C- or higher, or a score of 4 or 5 on Chemistry AP test; 3A (may be taken concurrently)",
+    "id": "chem3al"
+  },
+  {
+    "name": "CHEM 3B",
+    "tooltip": "Chemical Structure and Reactivity",
+    "group": 3,
+    "details": "3A with a grade of C- or higher",
+    "id": "chem3b"
+  },
+  {
+    "name": "CHEM 3BL",
+    "tooltip": "Organic Chemistry Laboratory",
+    "group": 2,
+    "details": "3AL; 3B (may be taken concurrently)",
+    "id": "chem3bl"
+  },
+  {
+    "name": "CHEM N3AL",
+    "tooltip": "Organic Chemistry Laboratory",
+    "group": 2,
+    "details": "3A may be taken concurrently, or after passing 3A with a grade of C- or better",
+    "id": "chemn3al"
+  },
+  {
+    "name": "CHEM 4A",
+    "tooltip": "General Chemistry and Quantitative Analysis",
+    "group": 4,
+    "details": "High school chemistry; calculus (may be taken concurrently); high school physics is recommended",
+    "id": "chem4a"
+  },
+  {
+    "name": "CHEM 4B",
+    "tooltip": "General Chemistry and Quantitative Analysis",
+    "group": 4,
+    "details": "High school chemistry; calculus (may be taken concurrently); high school physics is recommended",
+    "id": "chem4b"
+  },
+  {
+    "name": "CHEM 12A",
+    "tooltip": "Organic Chemistry",
+    "group": 5,
+    "details": "12A: 1B or 4B with grade of C- or higher; 12B: 12A with grade of C- or higher. For students majoring in chemistry or a closely related field such as chemical engineering or molecular and cell biology",
+    "id": "chem12a"
+  },
+  {
+    "name": "CHEM 12B",
+    "tooltip": "Organic Chemistry",
+    "group": 5,
+    "details": "12A: 1B or 4B with grade of C- or higher. 12B: 12A with grade of C- or higher. For students majoring in chemistry or a closely related field such as chemical engineering or molecular and cell biology",
+    "id": "chem12b"
+  },
+  {
+    "name": "CHEM 15",
+    "tooltip": "Analytical and Bioanalytical Chemistry",
+    "group": 3,
+    "details": "1A and 1AL or equivalent",
+    "id": "chem15"
+  },
+  {
+    "name": "CHEM 24",
+    "tooltip": "Freshman Seminar",
+    "group": 10,
+    "details": "",
+    "id": "chem24"
+  },
+  {
+    "name": "CHEM 49",
+    "tooltip": "Supplementary Work in Lower Division Chemistry",
+    "group": 8,
+    "details": "",
+    "id": "chem49"
+  },
+  {
+    "name": "CHEM 96",
+    "tooltip": "Introduction to Research and Study in the College of Chemistry",
+    "group": 10,
+    "details": "Freshman standing in the College of Chemistry, or consent of instructor",
+    "id": "chem96"
+  },
+  {
+    "name": "CHEM 98",
+    "tooltip": "Supervised Group Study",
+    "group": 8,
+    "details": "Consent of instructor",
+    "id": "chem98"
+  },
+  {
+    "name": "CHEM 103",
+    "tooltip": "Inorganic Chemistry in Living Systems",
+    "group": 3,
+    "details": "Chemistry 3A or 112A. Chemistry majors can only count 2 of the 3 towards their Allied Subject requirement",
+    "id": "chem103"
+  },
+  {
+    "name": "CHEM 104A",
+    "tooltip": "Advanced Inorganic Chemistry",
+    "group": 3,
+    "details": "1B, 4B, or 3A; 104A is prerequisite to 104B",
+    "id": "chem104a"
+  },
+  {
+    "name": "CHEM 104B",
+    "tooltip": "Advanced Inorganic Chemistry",
+    "group": 3,
+    "details": "104A or consent of instructor. Chemical Biology majors can only count 2 of the 3 towards their Allied Subject requirement for 104B after taking 103",
+    "id": "chem104b"
+  },
+  {
+    "name": "CHEM 105",
+    "tooltip": "Instrumental Methods in Analytical Chemistry",
+    "group": 4,
+    "details": "4B; or 1B and 15; or 1B and a UC GPA of 3.3 or higher",
+    "id": "chem105"
+  },
+  {
+    "name": "CHEM 108",
+    "tooltip": "Inorganic Synthesis and Reactions",
+    "group": 4,
+    "details": "4B or 15; 104B with grade of C- or higher, or 103",
+    "id": "chem108"
+  },
+  {
+    "name": "CHEM C110L",
+    "tooltip": "General Biochemistry and Molecular Biology Laboratory",
+    "group": 4,
+    "details": "MCB 110 (may be taken concurrently)",
+    "id": "chemc110l"
+  },
+  {
+    "name": "CHEM 112A",
+    "tooltip": "",
+    "group": 5,
+    "details": "",
+    "id": "chem112a"
+  },
+  {
+    "name": "CHEM 112B",
+    "tooltip": "",
+    "group": 5,
+    "details": "",
+    "id": "chem112b"
+  },
+  {
+    "name": "CHEM 113",
+    "tooltip": "Advanced Mechanistic Organic Chemistry",
+    "group": 3,
+    "details": "3B or 112B with a minimum grade of B- or consent of instructor",
+    "id": "chem113"
+  },
+  {
+    "name": "CHEM 114",
+    "tooltip": "Advanced Synthetic Organic Chemistry",
+    "group": 3,
+    "details": "3B or 112B with a minimum grade of B- or consent of instructor",
+    "id": "chem114"
+  },
+  {
+    "name": "CHEM 115",
+    "tooltip": "Organic Chemistry--Advanced Laboratory Methods",
+    "group": 4,
+    "details": "112B with a grade of C- or higher",
+    "id": "chem115"
+  },
+  {
+    "name": "CHEM 120A",
+    "tooltip": "Physical Chemistry",
+    "group": 3,
+    "details": "4B or equivalent; Physics 7B or 8B; Mathematics 53; Mathematics 54 or consent of instructor",
+    "id": "chem120a"
+  },
+  {
+    "name": "CHEM 120B",
+    "tooltip": "Physical Chemistry",
+    "group": 3,
+    "details": "4B or equivalent; Mathematics 53; Mathematics 54 (may be taken concurrently); Physics 7B or 8B",
+    "id": "chem120b"
+  },
+  {
+    "name": "CHEM 122",
+    "tooltip": "Quantum Mechanics and Spectroscopy",
+    "group": 3,
+    "details": "120A",
+    "id": "chem122"
+  },
+  {
+    "name": "CHEM 125",
+    "tooltip": "Physical Chemistry Laboratory",
+    "group": 3,
+    "details": "Two of the following: 120A, 120B, C130, or 130B with grades of C- or higher (one of which may be taken concurrently)",
+    "id": "chem125"
+  },
+  {
+    "name": "CHEM 130B",
+    "tooltip": "Biophysical Chemistry",
+    "group": 3,
+    "details": "Chemistry C130 or Molecular and Cell Biology C100A, or consent of instructor. Chemistry and Chemical Biology majors can only count 2 of the 3 towards their Allied Subject requirement",
+    "id": "chem130b"
+  },
+  {
+    "name": "CHEM C130",
+    "tooltip": "Biophysical Chemistry: Physical Principles and the Molecules of Life",
+    "group": 4,
+    "details": "Chemistry 3A or 112A, Mathematics 1A, Biology 1A and 1AL; Chemistry 3B or 112B recommended",
+    "id": "chemc130"
+  },
+  {
+    "name": "CHEM 135",
+    "tooltip": "Chemical Biology",
+    "group": 3,
+    "details": "3B or 112B; Biology 1A; or consent of instructor",
+    "id": "chem135"
+  },
+  {
+    "name": "CHEM 143",
+    "tooltip": "Nuclear Chemistry",
+    "group": 2,
+    "details": "Physics 7B or equivalent",
+    "id": "chem143"
+  },
+  {
+    "name": "CHEM 146",
+    "tooltip": "Radiochemical Methods in Nuclear Technology and Forensics",
+    "group": 3,
+    "details": "4B or 15; 143 is recommended",
+    "id": "chem146"
+  },
+  {
+    "name": "CHEM 149",
+    "tooltip": "Supplementary Work in Upper Division Chemistry",
+    "group": 8,
+    "details": "",
+    "id": "chem149"
+  },
+  {
+    "name": "CHEM C150",
+    "tooltip": "Introduction to Materials Chemistry",
+    "group": 3,
+    "details": "104A; 104B is recommended",
+    "id": "chemc150"
+  },
+  {
+    "name": "CHEM C170L",
+    "tooltip": "Biochemical Engineering Laboratory",
+    "group": 3,
+    "details": "Chemical Engineering 170A (may be taken concurrently) or consent of instructor",
+    "id": "chemc170l"
+  },
+  {
+    "name": "CHEM C178",
+    "tooltip": "Polymer Science and Technology",
+    "group": 3,
+    "details": "Junior standing",
+    "id": "chemc178"
+  },
+  {
+    "name": "CHEM C182",
+    "tooltip": "Atmospheric Chemistry and Physics Laboratory",
+    "group": 3,
+    "details": "Earth and Planetary Science 50 and 102 with grades of C- or higher (one of which may be taken concurrently) or two of the following: Chemistry 120A, 120B, C130, or 130B with grades of C- or higher (one of which may be taken concurrently)",
+    "id": "chemc182"
+  },
+  {
+    "name": "CHEM C191",
+    "tooltip": "Quantum Information Science and Technology",
+    "group": 3,
+    "details": "",
+    "id": "chemc191"
+  },
+  {
+    "name": "CHEM 192",
+    "tooltip": "Individual Study for Advanced Undergraduates",
+    "group": 8,
+    "details": "Consent of instructor and adviser",
+    "id": "chem192"
+  },
+  {
+    "name": "CHEM H193",
+    "tooltip": "Senior Honors Thesis",
+    "group": 3,
+    "details": "Senior standing, approval of faculty research advisor, overall GPA of 3.4 or higher at Berkeley",
+    "id": "chemh193"
+  },
+  {
+    "name": "CHEM H194",
+    "tooltip": "Research for Advanced Undergraduates",
+    "group": 8,
+    "details": "Minimum GPA of 3.4 overall at Berkeley and consent of instructor and adviser",
+    "id": "chemh194"
+  },
+  {
+    "name": "CHEM 195",
+    "tooltip": "Special Topics",
+    "group": 3,
+    "details": "Consent of instructor",
+    "id": "chem195"
+  },
+  {
+    "name": "CHEM 196",
+    "tooltip": "Special Laboratory Study",
+    "group": 8,
+    "details": "Consent of instructor and adviser",
+    "id": "chem196"
+  },
+  {
+    "name": "CHEM 197",
+    "tooltip": "Field Study in Chemistry",
+    "group": 8,
+    "details": "Upper division standing and consent of instructor",
+    "id": "chem197"
+  },
+  {
+    "name": "CHEM 198",
+    "tooltip": "Directed Group Study",
+    "group": 8,
+    "details": "Completion of 60 units of undergraduate study and in good standing",
+    "id": "chem198"
+  },
+  {
+    "name": "CHEM 199",
+    "tooltip": "Supervised Independent Study and Research",
+    "group": 8,
+    "details": "",
+    "id": "chem199"
+  },
+  {
+    "name": "CHMENG 170A",
+    "tooltip": "",
+    "group": 10,
+    "details": "",
+    "id": "chmeng170a"
+  },
+  {
+    "name": "PHYSICS 7B",
+    "tooltip": "",
+    "group": 9,
+    "details": "",
+    "id": "physics7b"
+  },
+  {
+    "name": "PHYSICS 8B",
+    "tooltip": "",
+    "group": 9,
+    "details": "",
+    "id": "physics8b"
+  },
+  {
+    "name": "  BIO 1A",
+    "tooltip": "",
+    "group": 7,
+    "details": "",
+    "id": "bio1a"
+  },
+  {
+    "name": "  BIO 1AL",
+    "tooltip": "",
+    "group": 7,
+    "details": "",
+    "id": "bio1al"
+  },
+  {
+    "name": "MATH 1A",
+    "tooltip": "",
+    "group": 6,
+    "details": "",
+    "id": "math1a"
+  },
+  {
+    "name": "MATH 53",
+    "tooltip": "",
+    "group": 6,
+    "details": "",
+    "id": "math53"
+  },
+  {
+    "name": "MATH 54",
+    "tooltip": "",
+    "group": 6,
+    "details": "",
+    "id": "math54"
+  },
+  {
+    "name": "EPS 50",
+    "tooltip": "",
+    "group": 10,
+    "details": "",
+    "id": "eps50"
+  },
+  {
+    "name": "EPS 102",
+    "tooltip": "",
+    "group": 10,
+    "details": "",
+    "id": "eps102"
+  },
+  {
+    "name": "MCB C100A",
+    "tooltip": "",
+    "group": 10,
+    "details": "",
+    "id": "mcbc100a"
+  },
+  {
+    "name": "MCB 110",
+    "tooltip": "",
+    "group": 10,
+    "details": "",
+    "id": "mcb110"
+  }
+],
+"links": [
+  {
+    "target": "chem1a",
+    "source": "chem",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem1ad",
+    "source": "chem",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem1al",
+    "source": "chem1a",
+    "value": 64,
+    "id": 2
+  },
+  {
+    "target": "chem1a",
+    "source": "chem1al",
+    "value": 64,
+    "id": 2
+  },
+  {
+    "target": "chem1b",
+    "source": "chem1a",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem1b",
+    "source": "chem1al",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem3a",
+    "source": "chem1a",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem3al",
+    "source": "chem1a",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem3al",
+    "source": "chem1al",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem3a",
+    "source": "chem3al",
+    "value": 64,
+    "id": 2
+  },
+  {
+    "target": "chem3al",
+    "source": "chem3a",
+    "value": 64,
+    "id": 2
+  },
+  {
+    "target": "chem3b",
+    "source": "chem3a",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem3bl",
+    "source": "chem3al",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem3bl",
+    "source": "chem3b",
+    "value": 64,
+    "id": 2
+  },
+  {
+    "target": "chem3b",
+    "source": "chem3bl",
+    "value": 64,
+    "id": 2
+  },
+  {
+    "target": "chem3a",
+    "source": "chem3al",
+    "value": 64,
+    "id": 2
+  },
+  {
+    "target": "chem3al",
+    "source": "chem3a",
+    "value": 64,
+    "id": 2
+  },
+  {
+    "target": "chem4a",
+    "source": "chem",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem4a",
+    "source": "calc",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem4b",
+    "source": "chem",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem4b",
+    "source": "calc",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem12a",
+    "source": "chem1b",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem12a",
+    "source": "chem4b",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem12b",
+    "source": "chem1b",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem12b",
+    "source": "chem4b",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem15",
+    "source": "chem1a",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem15",
+    "source": "chem1al",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem103",
+    "source": "chem3a",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem103",
+    "source": "chem112a",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem104a",
+    "source": "chem1b",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem104a",
+    "source": "chem4b",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem104a",
+    "source": "chem3a",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem104b",
+    "source": "chem104a",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem105",
+    "source": "chem4b",
+    "value": 64,
+    "id": 4
+  },
+  {
+    "target": "chem105",
+    "source": "chem1b",
+    "value": 64,
+    "id": 4
+  },
+  {
+    "target": "chem105",
+    "source": "chem15",
+    "value": 64,
+    "id": 4
+  },
+  {
+    "target": "chem105",
+    "source": "chem103",
+    "value": 64,
+    "id": 4
+  },
+  {
+    "target": "chem108",
+    "source": "chem4b",
+    "value": 64,
+    "id": 4
+  },
+  {
+    "target": "chem108",
+    "source": "chem15",
+    "value": 64,
+    "id": 4
+  },
+  {
+    "target": "chem108",
+    "source": "chem104b",
+    "value": 64,
+    "id": 4
+  },
+  {
+    "target": "chem108",
+    "source": "chem103",
+    "value": 64,
+    "id": 4
+  },
+  {
+    "target": "chemc110l",
+    "source": "mcb110",
+    "value": 64,
+    "id": 2
+  },
+  {
+    "target": "chem113",
+    "source": "chem3b",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem113",
+    "source": "chem112b",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem114",
+    "source": "chem3b",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem114",
+    "source": "chem112b",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem115",
+    "source": "chem112b",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem120a",
+    "source": "chem4b",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem120a",
+    "source": "physics7b",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem120a",
+    "source": "physics8b",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem120a",
+    "source": "math53",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem120a",
+    "source": "math54",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem120b",
+    "source": "chem4b",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem120b",
+    "source": "physics7b",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem120b",
+    "source": "physics8b",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem120b",
+    "source": "math53",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem120b",
+    "source": "math54",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem122",
+    "source": "chem120a",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem130b",
+    "source": "chemc130",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem130b",
+    "source": "mcbc100a",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chemc130",
+    "source": "chem3a",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chemc130",
+    "source": "chem112a",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chemc130",
+    "source": "math1a",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chemc130",
+    "source": "bio1a",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chemc130",
+    "source": "bio1al",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chemc130",
+    "source": "chem3b",
+    "value": 64,
+    "id": 5
+  },
+  {
+    "target": "chemc130",
+    "source": "chem112b",
+    "value": 64,
+    "id": 5
+  },
+  {
+    "target": "chem135",
+    "source": "chem3a",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem135",
+    "source": "chem112a",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem135",
+    "source": "bio1a",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem143",
+    "source": "physics7b",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chem146",
+    "source": "chem4b",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem146",
+    "source": "chem15",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chem146",
+    "source": "chem143",
+    "value": 64,
+    "id": 5
+  },
+  {
+    "target": "chemc150",
+    "source": "chem104a",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chemc150",
+    "source": "chem104b",
+    "value": 64,
+    "id": 5
+  },
+  {
+    "target": "chemc170l",
+    "source": "chmeng170a",
+    "value": 64,
+    "id": 1
+  },
+  {
+    "target": "chemc182",
+    "source": "eps50",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chemc182",
+    "source": "eps102",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chemc182",
+    "source": "chem120a",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chemc182",
+    "source": "chem120b",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chemc182",
+    "source": "chemc130",
+    "value": 64,
+    "id": 3
+  },
+  {
+    "target": "chemc182",
+    "source": "chem130b",
+    "value": 64,
+    "id": 3
+  }
+ ]
+}

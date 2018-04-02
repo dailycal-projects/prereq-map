@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 <p> go bears </p>
+<h1> KEY </h1>
+<ul> dark blue: high school knowledge or equivalent </ul>
+<ul> light blue: 3 unit </ul>
+<ul> dark orange: 1 unit </ul>
+<ul> light orange: 4 unit </ul>
+<ul> dark green: 2 unit </ul>
+<ul> light green: 5 unit </ul>
+<ul> light purple, dark purple, pink: other dept/majors </ul>
+<ul> red: range of units ?? slightly unclear </ul>
 <style>
 
 /* Gray lines connecting the nodes. */
@@ -16,7 +25,7 @@
 }
 
 </style>
-<svg width="960" height="600"></svg>
+<svg width="1400" height="1200"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
@@ -64,10 +73,14 @@ var simulation = d3.forceSimulation()
     // If 'root' then the y-value is set to 10, else it's centered around middle
     .force("y", d3.forceY(function(d) {
       if (d.group === 1) {
-        d.fx = width / 2
+        if (d.id === "calc") {
+          d.fx = width * (2 / 5)
+        } else {
+          d.fx = width * (3 / 5)
+        }
         d.fy = 50
       } else {
-        return height / 1.5
+        return height / 1.1
       }
     }))
 
@@ -78,7 +91,7 @@ var simulation = d3.forceSimulation()
     .force("center", d3.forceCenter(width / 2, height / 2));
     
 // Get a JSON file
-d3.json("data.json", function(error, graph) {
+d3.json("chem.json", function(error, graph) {
   if (error) throw error;
 
   var link = svg.append("g")
@@ -87,6 +100,7 @@ d3.json("data.json", function(error, graph) {
     .data(graph.links)
     .enter().append("line")
       .attr("stroke-width", function(d) { return Math.sqrt(d.value); })
+      // .attr("stroke", function(d) { return color(d.group; )})
     .attr("marker-end", "url(#end)");
 
   var node = svg.append("g")
@@ -104,7 +118,7 @@ d3.json("data.json", function(error, graph) {
           .on("mouseout", fade(1));
 
   node.append("title")
-      .text(function(d) { return d.id; });
+      .text(function(d) { return d.tooltip; });
 
   // Create a selection label
   // D3 data-join to add text-elements and set label-text
@@ -116,7 +130,7 @@ d3.json("data.json", function(error, graph) {
       .style("text-anchor)", "middle")
       .style("fill", "#000")
       .style("font-family", "Arial")
-      .style("font-size", 12);
+      .style("font-size", 11.5);
 
   simulation
       .nodes(graph.nodes)
@@ -127,8 +141,8 @@ d3.json("data.json", function(error, graph) {
 
   function ticked() {
     node
-        .attr("cx", function(d) { return d.x; })
-        .attr("cy", function(d) { return d.y; });
+        .attr("cx", function(d) { return d.x = Math.max(node.attr("r"), Math.min(width - node.attr("r"), d.x)); })
+        .attr("cy", function(d) { return d.y = Math.max(node.attr("r"), Math.min(height - node.attr("r"), d.y)); });
 
     link
         .attr("x1", function(d) { return d.source.x; })
@@ -174,16 +188,17 @@ d3.json("data.json", function(error, graph) {
             link.style("stroke", function(o){
                 return o.source === d || o.target === d ? o.source.colour : "#ddd";
             });
-            // also style arrow accordingly
-            // arrow.style("stroke-opacity", function(o) {
-            //     return o.source === d || o.target === d ? 1 : opacity;
+            // // also style arrow accordingly
+            arrow.style("stroke-opacity", function(o) {
+                return o.source === d || o.target === d ? 1 : opacity;
+            });
+            arrow.style("stroke-opacity", function(o){
+                return o.source === d || o.target === d ? 1 : opacity;
+            });
+            // arrow.style("stroke", function(o){
+            //     return o.source === d || o.target === d ? o.source.colour : "#ddd";
             // });
-            arrow.style("fill", function(o){
-                return o.source === d || o.target === d ? o.source.colour : "#ddd";
-            });
-            arrow.style("fill-opacity", function(o){
-                return o.source === d || o.target === d ? o.source.colour : "#ddd";
-            });
+            
         };
     }
 

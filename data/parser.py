@@ -10,12 +10,13 @@ linkList = [] #entries within linklist have format {source: df['code'].str.strip
 for file in os.listdir('./parsed_data/'):
     reader = csv.DictReader(open('./parsed_data/' + file), fieldnames=['code','title','units','prereqs','offered','corrupt','prereqs_parsed'])
     for row in reader:
+        if row['code'] == 'code':
+            continue
         nodeDict = {"name": row['code'], "group": 1, "details": row['prereqs_parsed'], "id": row['code'].replace(" ", ""), "title": row['title']}
         print(nodeDict)
         nodeList.append(nodeDict)
         if row['prereqs_parsed']:
             prereqs = row['prereqs_parsed']
-            print(prereqs)
             reqs = re.split(r'[()|&]', prereqs)
             reqs = [r for r in reqs if r]
             for r in reqs:

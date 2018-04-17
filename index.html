@@ -25,6 +25,10 @@
 }
 
 </style>
+<body>
+<script src='vis.js'></script>
+</body>
+
 <svg width="1400" height="1200"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
@@ -34,22 +38,37 @@ var svg = d3.select("svg"),
     width = +svg.attr("width"),
     height = +svg.attr("height");
 
-// build the arrow.
-var arrow = svg.append("svg:defs").selectAll("marker")
-    .data(["end"])      // Different link/path types can be defined here
-  .enter().append("svg:marker")    // This section adds in the arrows
-    .attr("id", String)
-    .attr("viewBox", "0 -5 10 10")
-    .attr("refX", 19)
-    .attr("refY", 0)
-    .attr("markerWidth", 4)
-    .attr("markerHeight", 4)
-    .attr("xoverflow", "visible")
-    .attr("orient", "auto")
-  .append("svg:path")
-    .attr("d", "M0,-5L10,0L0,5")
-    .attr("fill", "#999")
-    .style("stroke", "none");
+// // build the arrow.
+// svg.append("defs").selectAll("marker")
+//     .data(["end"])      // Different link/path types can be defined here
+//   .enter().append("marker")    // This section adds in the arrows
+//     .attr("id", function(d) { return d; })
+//     .attr("viewBox", "0 -5 10 10")
+//     .attr("refX", 26)
+//     .attr("refY", 0)
+//     .attr("markerWidth", 4)
+//     .attr("markerHeight", 4)
+//     .attr("xoverflow", "visible")
+//     .attr("orient", "auto")
+//   .append("path")
+//     .attr("d", "M0,-5L10,0L0,5")
+//     .style("stroke", "none");
+
+
+svg.append("svg:defs").selectAll("marker")
+    .data([{ id: "end-arrow", opacity: 1 }, { id: "end-arrow-fade", opacity: 0.1 }])
+    .enter().append("marker")
+      .attr("id", d => d.id)
+      .attr("viewBox", "0 -5 10 10")
+      .attr("refX", 26)
+      .attr("refY", 0)
+      .attr("markerWidth", 4)
+      .attr("markerHeight", 4)
+      .attr("orient", "auto")
+      .append("svg:path")
+        .attr("d", "M0,-5L10,0L0,5")
+        .attr("fill", "#999")
+        .style("opacity", d => d.opacity);
 
 // Ordinal scale to map set of categories to set of colors
 // (Can use npm install d3-scale-chromatic to find color schemes that will work with d3-scale)
@@ -63,9 +82,10 @@ var simulation = d3.forceSimulation()
     // Pushes linked nodes according to desired link distance (like a spring force)
     // .id(function...) -> Returns a string to use named sources and targets
     .force("link", d3.forceLink().id(function(d) { return d.id; }))
+    .force('center', d3.forceCenter(width / 2, height / 2))
 
     // Applies mutually on all nodes, i.e. a charge force that repels
-    .force("charge", d3.forceManyBody())
+    // .force("charge", d3.forceManyBody())
 
     // Like this centers along the y-axis (?)
     // .force("xAxis",d3.forceX(width/2))
@@ -75,17 +95,19 @@ var simulation = d3.forceSimulation()
       if (d.group === 1) {
         if (d.id === "calc") {
           d.fx = width * (2 / 5)
+          d.fy = height * (1 / 8)
         } else {
           d.fx = width * (3 / 5)
+          d.fy = height * (1 / 8)
         }
         d.fy = 50
       } else {
-        return height / 1.1
+        return height / 4
       }
     }))
 
     // Treat nodes as circles with given radius, to prevent overlapping
-    .force("collide", d3.forceCollide().radius(70))
+    .force("collide", d3.forceCollide().radius(60))
 
     // Creates new centering force with specified x and y coordinates 
     .force("center", d3.forceCenter(width / 2, height / 2));
@@ -99,9 +121,10 @@ d3.json("chem.json", function(error, graph) {
     .selectAll("line")
     .data(graph.links)
     .enter().append("line")
-      .attr("stroke-width", function(d) { return Math.sqrt(d.value); })
+      .attr("stroke-width", function(d) { return (d.value); })
       // .attr("stroke", function(d) { return color(d.group; )})
-    .attr("marker-end", "url(#end)");
+    .attr('marker-end', 'url(#end-arrow)');
+
 
   var node = svg.append("g")
       .attr("class", "nodes")
@@ -115,10 +138,10 @@ d3.json("chem.json", function(error, graph) {
           .on("drag", dragged))
           // .on("end", dragended));
       .on("mouseover", fade(0.1))
-          .on("mouseout", fade(1));
+      .on("mouseout", fade(1));
 
   node.append("title")
-      .text(function(d) { return d.tooltip; });
+      .text(function(d) { return d.title; });
 
   // Create a selection label
   // D3 data-join to add text-elements and set label-text
@@ -167,6 +190,7 @@ d3.json("chem.json", function(error, graph) {
       return linkedByIndex[a.index + "," + b.index] || linkedByIndex[b.index + "," + a.index] || a.index == b.index;
   } 
 
+
   // Fade nodes on hover
     function fade(opacity) {
         return function(d) {
@@ -181,27 +205,11 @@ d3.json("chem.json", function(error, graph) {
                 thisOpacity = isConnected(d, o) ? 1 : opacity;
                 return thisOpacity;
             });
-            // also style link accordingly
-            link.style("stroke-opacity", function(o) {
-                return o.source === d || o.target === d ? 1 : opacity;
-            });
-            link.style("stroke", function(o){
-                return o.source === d || o.target === d ? o.source.colour : "#ddd";
-            });
-            // // also style arrow accordingly
-            arrow.style("stroke-opacity", function(o) {
-                return o.source === d || o.target === d ? 1 : opacity;
-            });
-            arrow.style("stroke-opacity", function(o){
-                return o.source === d || o.target === d ? 1 : opacity;
-            });
-            // arrow.style("stroke", function(o){
-            //     return o.source === d || o.target === d ? o.source.colour : "#ddd";
-            // });
-            
+            // also style link/arrow accordingly
+            link.style('stroke-opacity', o => (o.source === d || o.target === d ? 1 : opacity));
+            link.attr('marker-end', o => (opacity === 1 || o.source === d || o.target === d ? 'url(#end-arrow)' : 'url(#end-arrow-fade)'));
         };
     }
-
 });
 
 function dragstarted(d) {

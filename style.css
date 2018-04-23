@@ -1,0 +1,11 @@
+/* Gray lines connecting the nodes. */
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+/* The nodes have a circle of white around them for the aesthetics. */
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}

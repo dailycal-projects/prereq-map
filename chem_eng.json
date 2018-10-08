@@ -1,0 +1,645 @@
+{
+  "nodes": [
+  {
+    "name": "CHM ENG 40",
+    "title": "Introduction to Chemical Engineering Design",
+    "units": "2 Units",
+    "details": "Mathematics 1A, which may be taken concurrently",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015<br/> Design and analysis of processes involving chemical change. Strategies for design, such as creative thinking and (re)definition of the design goal. Methods for analyzing designs, such as mathematical modeling, empirical analysis by graphics, and dynamic scaling by dimensional analysis. Design choices in light of process efficiency, product quality, economics, safety, and environmental issues.",
+    "prereqs_parsed": "MATH1A",
+    "group": 2,
+    "id": "chmeng40"
+  },
+  {
+    "name": "CHM ENG 90",
+    "title": "Science and Engineering of Sustainable Energy",
+    "units": "3 Units",
+    "details": "Chemistry 1A or 4A",
+    "offered": "Terms offered: Spring 2018, Spring 2016, Spring 2015<br/> An introduction is given to the science and technologies of producing electricity and transportation fuels from renewable energy resources (biomass, geothermal, solar, wind, and wave). Students will be introduced to quantitative calculations and comparisions of energy technologies together with the economic and political factors affecting the transition from nonrenewable to sustainable energy resources. Mass and energy balances are used to",
+    "prereqs_parsed": "CHEM1A|CHEM4A",
+    "group": 3,
+    "id": "chmeng90"
+  },
+  {
+    "name": "CHM ENG 140",
+    "title": "Introduction to Chemical Process Analysis",
+    "units": "4 Units",
+    "details": "Chemistry 4B or 1B with a grade of C- or better; and Physics 7B (may be taken concurrently)",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015<br/> Material and energy balances applied to chemical process systems. Determination of thermodynamic properties needed for such calculations. Sources of data. Calculation procedures.",
+    "prereqs_parsed": "(CHEM4B|CHEM1B)&PHYSICS7B",
+    "group": 4,
+    "id": "chmeng140"
+  },
+  {
+    "name": "CHM ENG 141",
+    "title": "Chemical Engineering Thermodynamics",
+    "units": "4 Units",
+    "details": "140 with a grade of C- or higher; Engineering 7, which may be taken concurrently",
+    "offered": "Terms offered: Spring 2018, Spring 2016, Spring 2015<br/> Thermodynamic behavior of pure substances and mixtures. Properties of solutions, phase equilibria. Thermodynamic cycles. Chemical equilibria for homogeneous and heterogeneous systems.",
+    "prereqs_parsed": "CHMENG140&ENGIN7",
+    "group": 4,
+    "id": "chmeng141"
+  },
+  {
+    "name": "CHM ENG 142",
+    "title": "Chemical Kinetics and Reaction Engineering",
+    "units": "4 Units",
+    "details": "141 with a grade of C- or higher; 150B, which may be taken concurrently",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015<br/> Analysis and prediction of rates of chemical conversion in flow and nonflow processes involving homogeneous and heterogeneous systems.",
+    "prereqs_parsed": "CHMENG141&CHMENG150B",
+    "group": 4,
+    "id": "chmeng142"
+  },
+  {
+    "name": "CHM ENG 143",
+    "title": "Computational Methods in Chemical Engineering",
+    "units": "4 Units",
+    "details": "E7 and",
+    "offered": "Terms offered: Spring 2016<br/> The purpose of Chemical Engineering Modeling and Computations in Chemical Engineering is to teach students the methodologies used in setting up mathematical models of simple chemical processes and operations, and the numerical techniques used to simulate them. Included are techniques to obtain physical properties of mixtures/solutions using equations of state. This is followed by simple processes such as vapor liquid equilibrium, separation operations such as distillation",
+    "prereqs_parsed": "ENGIN7&CHMENG140",
+    "group": 4,
+    "id": "chmeng143"
+  },
+  {
+    "name": "CHM ENG 150A",
+    "title": "Transport Processes",
+    "units": "4 Units",
+    "details": "140 with a grade of C- or higher; Math 54, which may be taken concurrently",
+    "offered": "Terms offered: Spring 2018, Spring 2016, Spring 2015<br/> Principles of fluid mechanics and heat transfer with application to chemical processes. Laminar and turbulent flow in pipes and around submerged objects. Flow measurement. Heat conduction and convection; heat transfer coefficients.",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "chmeng150a"
+  },
+  {
+    "name": "CHM ENG 150B",
+    "title": "Transport and Separation Processes",
+    "units": "4 Units",
+    "details": "Chemical and Biomolecular Engineering 141 with a grade of C- or higher; Chemical and Biomolecular Engineering 150A with a grade of C- or higher; Engineering 7",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Summer 2016 8 Week Session<br/> Principles of mass transfer with application to chemical processes. Diffusion and convection. Simultaneous heat and mass transfer; mass transfer coefficients. Design of staged and continuous separations processes.",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "chmeng150b"
+  },
+  {
+    "name": "CHM ENG 154",
+    "title": "Chemical Engineering Laboratory",
+    "units": "4 Units",
+    "details": "Chemical and Biomolecular Engineering 141, 142, and 150B",
+    "offered": "Terms offered: Spring 2018, Fall 2017, Fall 2016<br/> Experiments in physical measurements, fluid mechanics, heat and mass transfer, kinetics, and separation processes. Emphasis on investigation of basic relationships important in engineering. Experimental design, analysis of results, and preparation of engineering reports are stressed.",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "chmeng154"
+  },
+  {
+    "name": "CHM ENG 160",
+    "title": "Chemical Process Design",
+    "units": "4 Units",
+    "details": "Chemical and Biomolecular Engineering 142, 150B, and 154. 154 can be taken concurrently",
+    "offered": "Terms offered: Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/> Design principles of chemical process equipment. Design of integrated chemical processes with emphasis upon economic considerations.",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "chmeng160"
+  },
+  {
+    "name": "CHM ENG 162",
+    "title": "Dynamics and Control of Chemical Processes",
+    "units": "4 Units",
+    "details": "Chemical and Biomolecular Engineering 142 and 150B; Mathematics 53 and 54",
+    "offered": "Terms offered: Spring 2018, Fall 2017, Fall 2016<br/> Analysis of the dynamic behavior of chemical processes and methods and theory of their control. Implementation of computer control systems on process simulations.",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "chmeng162"
+  },
+  {
+    "name": "CHM ENG 170A",
+    "title": "Biochemical Engineering",
+    "units": "3 Units",
+    "details": "Chemical and Biomolecular Engineering 142, 150B, or consent of instructor; Biology 1A",
+    "offered": "Terms offered: Fall 2016, Spring 2016, Fall 2015<br/> This course intends to introduce chemical engineers to the basic concepts of biochemical engineering. The course focuses on the use of chemical engineering skills and principles in the analysis and design of biologically-based processes. The main emphasis will be on biochemical kinetics, heat and mass transfer, thermodynamics, and transport phenomena as they apply to enzyme catalysis, microbial growth and metabolism, fermentation and bioreactor",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "chmeng170a"
+  },
+  {
+    "name": "CHM ENG C170L",
+    "title": "Biochemical Engineering Laboratory",
+    "units": "3 Units",
+    "details": "Chemical Engineering 170A (may be taken concurrently) or consent of instructor",
+    "offered": "Terms offered: Spring 2018, Spring 2014, Spring 2013, Spring 2012<br/> Laboratory techniques for the cultivation of microorganisms in batch and continuous reactions. Enzymatic conversion processes. Recovery of biological products.",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "chmengc170l"
+  },
+  {
+    "name": "CHM ENG 176",
+    "title": "Principles of Electrochemical Processes",
+    "units": "3 Units",
+    "details": "Chemical and Biomolecular Engineering 141, 142, and 150B",
+    "offered": "Terms offered: Spring 2018, Fall 2016, Fall 2014<br/> Principles and application of electrochemical equilibria, kinetics, and transport processes. Technical electrolysis and electrochemical energy conversion.",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "chmeng176"
+  },
+  {
+    "name": "CHM ENG 179",
+    "title": "Process Technology of Solid-State Materials Devices",
+    "units": "3 Units",
+    "details": "Engineering 45; one course in electronic circuits recommended; senior standing",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Spring 2016<br/> Chemical processing and properties of solid-state materials. Crystal growth and purification. Thin film technology. Application of chemical processing to the manufacture of semiconductors and solid-state devices.",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "chmeng179"
+  },
+  {
+    "name": "CHM ENG 180",
+    "title": "Chemical Engineering Economics",
+    "units": "3 Units",
+    "details": "Chemical and Biomolecular Engineering 142 and 150B. Consent of instructor",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015<br/> Optimal design of chemical processes and unit operations, emphasizing the interactions between technical and economic considerations. Analysis of process risks. Chemical and biomolecular process design in the presence of uncertainties. Interest rate determinants and their effects on chemical process feasibility and choices. Relationships between structure and behavior of firms in the chemical processing industries. Multivariable input-output a",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "chmeng180"
+  },
+  {
+    "name": "CHM ENG 230",
+    "title": "Mathematical Methods in Chemical Engineering",
+    "units": "3 Units",
+    "details": "Math 53 and 54 or equivalent; open to seniors with consent of instructor",
+    "offered": "Terms offered: Fall 2017, Fall 2014, Fall 2010<br/> The course aims to introduce a variety of mathematical and computational methods useful in solving research problems pertaining to chemical and biomolecular systems. The course covers a wide range of topics from linear algebra and matrices, differential equations, and stochastic methods. Even though the focus is primarily on analytical methods, most of the concepts will be demonstrated with computations and applications. The goal of the course",
+    "prereqs_parsed": "indetails",
+    "group": 3,
+    "id": "chmeng230"
+  },
+  {
+    "name": "CHM ENG 240",
+    "title": "Thermodynamics for Chemical Product and Process Design",
+    "units": "3 Units",
+    "details": "Math 53 and 54 or equivalent; 141 or equivalent; open to seniors with consent of instructor",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015<br/> Topics covered include molecular thermodynamics of pure substances and mixtures, interfacial thermodynamics, statistical mechanics, and computer simulations.",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "chmeng240"
+  },
+  {
+    "name": "CHM ENG 244",
+    "title": "Kinetics and Reaction Engineering",
+    "units": "3 Units",
+    "details": "142 or equivalent; open to seniors with consent of instructor",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015<br/> Molecular processes in chemical systems, kinetics and catalysis. Interaction of mass and heat transfer in chemical processes. Performance of systems with chemical reactors.",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "chmeng244"
+  },
+  {
+    "name": "CHM ENG 245",
+    "title": "Catalysis",
+    "units": "3 Units",
+    "details": "244 or Chemistry 223, or consent of instructor",
+    "offered": "Terms offered: Spring 2018, Spring 2016, Spring 2015<br/> Adsorption and kinetics of surface reactions; catalyst preparation and characterization; poisoning, selectivity, and empirical activity patterns in catalysis; surface chemistry, catalytic mechanisms and modern experimental techniques in catalytic research; descriptive examples of industrial catalytic systems.",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "chmeng245"
+  },
+  {
+    "name": "CHM ENG 250",
+    "title": "Transport Processes",
+    "units": "3 Units",
+    "details": "Chemical & Biomolecular Engineering 150A, 150B; Mathematics 53 and 54, or equivalent; open to seniors with consent of instructor",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015<br/> Basic differential relations of mass, momentum, and energy including creeping, laminar, and turbulent flow, boundary layers, convective-diffusion in heat and mass transfer, and simultaneous multicomponent mass and energy transport. Analytic mathematical solution of the equations of change using classical techniques including: separation of variables, similarity solutions, and Laplace and Fourier transforms.",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "chmeng250"
+  },
+  {
+    "name": "CHM ENG 256",
+    "title": "Advanced Transport Phenomena",
+    "units": "3 Units",
+    "details": "230",
+    "offered": "Terms offered: Fall 2016, Spring 2009<br/> Formulation and rigorous analysis of the laws governing the transport of momentum, heat, and mass, with special emphasis on chemical engineering applications. Detailed investigation of laminar flows complemented by treatments of turbulent flow systems and hydrodynamic stability.",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "chmeng256"
+  },
+  {
+    "name": "CHM ENG C268",
+    "title": "Physicochemical Hydrodynamics",
+    "units": "3 Units",
+    "details": "A first graduate course in fluid mechanics sucs as 260A-260B",
+    "offered": "Terms offered: Spring 2017, Fall 2013, Fall 2011, Spring 2011<br/> An introduction to the hydrodynamics of capillarity and wetting. Balance laws and short-range forces. Dimensionless numbers, scaling and lubrication approximation. Rayleigh instability. Marangoni effect. The moving contact line. Wetting and short-range forces. The dynamic contact angle. Dewetting. Coating flows. Effect of surfactants and electric fields. Wetting of rough or porous surfaces. Contact angles for evaporating systems",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "chmengc268"
+  },
+  {
+    "name": "CHM ENG C294A",
+    "title": "Mechanics and Physics of Lipid Bilayers",
+    "units": "3 Units",
+    "details": "Mechanical Engineering 185 or equivalent",
+    "offered": "Terms offered: Fall 2017<br/> Lipid bilayers constitute the membrane that encloses every animal cell and many of its interior structures, including the nuclear envelope, the organelles and the endoplasmic reticulum. This is a unique course devoted to modern developments in this exceptionally active field of research, ranging from models based on continuum theory to recent developments based on statistical mechanics.",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "chmengc294a"
+  },
+  {
+    "name": "CHM ENG C295Z",
+    "title": "Energy Solutions: Carbon Capture and Sequestration",
+    "units": "3 Units",
+    "details": "Chemistry 4B or 1B, Mathematics 1B, and Physics 7B, or equivalents",
+    "offered": "Terms offered: Spring 2017, Spring 2015, Spring 2014, Spring 2013<br/> After a brief overview of the chemistry of carbon dioxide in the land, ocean, and atmosphere, the course will survey the capture and sequestration of CO2 from anthropogenic sources. Emphasis will be placed on the integration of materials synthesis and unit operation design, including the chemistry and engineering aspects of sequestration. The course primarily addresses scientific and engineering challenges and aims to engage",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "chmengc295z"
+  },
+  {
+    "name": "CHM ENG 295P",
+    "title": "Special Topics in Chemical Engineering: Introduction to New Product Development",
+    "units": "3 Units",
+    "details": "Graduate standing or consent of instructor",
+    "offered": "Terms offered: Fall 2016, Fall 2015, Fall 2014<br/> This course is part of the product development initative sponsored by the department of chemical engineering. It focuses on real-life practices and challenges of translating scientific discovery into commercial products. Its scope is limited in most circumstances to situations where some knowledge of chemical engineering, chemistry, and related disciplines might prove to be particularly useful. The course primarily uses case studies of real-world",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "chmeng295p"
+  },
+  {
+    "name": "CHM ENG 295Q",
+    "title": "Special Topics in Chemical Engineering: Advanced Topics in New Product Development",
+    "units": "3 Units",
+    "details": "Graduate standing or consent of instructor. 295P recommended",
+    "offered": "Terms offered: Spring 2018, Spring 2016, Spring 2015<br/> This course is a part of the product development initiative sponsored by the department of chemical engineering. The course builds on the coverage in 295P of real-life practices of translating scientific discovery into commercial products. We will cover a wide range of advanced product development concepts including technology road maps, decision analysis, six sigma, product portfolio optimization, and best practices for field project ma",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "chmeng295q"
+  },
+  {
+    "name": "MATH 1A",
+    "title": "Calculus",
+    "units": "4 Units",
+    "details": "",
+    "offered": "",
+    "prereqs_parsed": "",
+    "group": 5,
+    "id": "math1a"
+  },
+  {
+    "name": "MATH 1B",
+    "title": "Calculus",
+    "units": "4 Units",
+    "details": "",
+    "offered": "",
+    "prereqs_parsed": "",
+    "group": 5,
+    "id": "math1b"
+  },
+  {
+    "name": "MATH 53",
+    "title": "Multivariable Calculus",
+    "units": "4 Units",
+    "details": "",
+    "offered": "",
+    "prereqs_parsed": "",
+    "group": 5,
+    "id": "math53"
+  },
+  {
+    "name": "MATH 54",
+    "title": "Linear Algebra and Differential Equations",
+    "units": "4 Units",
+    "details": "",
+    "offered": "",
+    "prereqs_parsed": "",
+    "group": 5,
+    "id": "math54"
+  },
+  {
+    "name": "CHEM 1A",
+    "title": "",
+    "units": "4 Units",
+    "details": "",
+    "offered": "",
+    "prereqs_parsed": "",
+    "group": 10,
+    "id": "chem1a"
+  },
+  {
+    "name": "CHEM 4A",
+    "title": "",
+    "units": "4 Units",
+    "details": "",
+    "offered": "",
+    "prereqs_parsed": "",
+    "group": 10,
+    "id": "chem4a"
+  },
+  {
+    "name": "CHEM 1B",
+    "title": "",
+    "units": "4 Units",
+    "details": "",
+    "offered": "",
+    "prereqs_parsed": "",
+    "group": 10,
+    "id": "chem1b"
+  },
+  {
+    "name": "CHEM 4B",
+    "title": "",
+    "units": "4 Units",
+    "details": "",
+    "offered": "",
+    "prereqs_parsed": "",
+    "group": 10,
+    "id": "chem4b"
+  },
+  {
+    "name": "BIO 1A",
+    "title": "",
+    "units": "4 Units",
+    "details": "",
+    "offered": "",
+    "prereqs_parsed": "",
+    "group": 6,
+    "id": "bio1a"
+  },
+  {
+    "name": "PHYSICS 7B",
+    "title": "",
+    "units": "4 Units",
+    "details": "",
+    "offered": "",
+    "prereqs_parsed": "",
+    "group": 7,
+    "id": "physics7b"
+  },
+  {
+    "name": "ENGIN 7",
+    "title": "",
+    "units": "4 Units",
+    "details": "",
+    "offered": "",
+    "prereqs_parsed": "",
+    "group": 8,
+    "id": "e7"
+  },
+  {
+    "name": "ENGIN 45",
+    "title": "",
+    "units": "4 Units",
+    "details": "",
+    "offered": "",
+    "prereqs_parsed": "",
+    "group": 8,
+    "id": "e45"
+  },
+  {
+    "name": "MEC ENG 185",
+    "title": "",
+    "units": "4 Units",
+    "details": "",
+    "offered": "",
+    "prereqs_parsed": "",
+    "group": 9,
+    "id": "meche185"
+  },
+  {
+    "name": "MEC ENG 260A",
+    "title": "",
+    "units": "4 Units",
+    "details": "",
+    "offered": "",
+    "prereqs_parsed": "",
+    "group": 9,
+    "id": "meche260a"
+  },
+  {
+    "name": "MEC ENG 260B",
+    "title": "",
+    "units": "4 Units",
+    "details": "",
+    "offered": "",
+    "prereqs_parsed": "",
+    "group": 9,
+    "id": "meche260b"
+  }
+],
+"links": [
+  {
+    "target": "chmeng40",
+    "source": "math1a"
+  },
+  {
+    "target": "chmeng90",
+    "source": "chem1a"
+  },
+  {
+    "target": "chmeng90",
+    "source": "chem4a"
+  },
+  {
+    "target": "chmeng140",
+    "source": "chem4b"
+  },
+  {
+    "target": "chmeng140",
+    "source": "chem1b"
+  },
+  {
+    "target": "chmeng140",
+    "source": "physics7b"
+  },
+  {
+    "target": "chmeng141",
+    "source": "chmeng140"
+  },
+  {
+    "target": "chmeng141",
+    "source": "e7"
+  },
+  {
+    "target": "chmeng142",
+    "source": "chmeng141"
+  },
+  {
+    "target": "chmeng142",
+    "source": "chmeng150b"
+  },
+  {
+    "target": "chmeng143",
+    "source": "e7"
+  },
+  {
+    "target": "chmeng150a",
+    "source": "chmeng140"
+  },
+  {
+    "target": "chmeng150a",
+    "source": "math54"
+  },
+  {
+    "target": "chmeng150b",
+    "source": "chmeng141"
+  },
+  {
+    "target": "chmeng150b",
+    "source": "chmeng150a"
+  },
+  {
+    "target": "chmeng154",
+    "source": "chmeng141"
+  },
+  {
+    "target": "chmeng154",
+    "source": "chmeng142"
+  },
+  {
+    "target": "chmeng154",
+    "source": "chmeng150b"
+  },
+  {
+    "target": "chmeng160",
+    "source": "chmeng142"
+  },
+  {
+    "target": "chmeng160",
+    "source": "chmeng150b"
+  },
+  {
+    "target": "chmeng160",
+    "source": "chmeng154"
+  },
+  {
+    "target": "chmeng162",
+    "source": "chmeng142"
+  },
+  {
+    "target": "chmeng162",
+    "source": "chmeng150b"
+  },
+  {
+    "target": "chmeng162",
+    "source": "math53"
+  },
+  {
+    "target": "chmeng162",
+    "source": "math54"
+  },
+  {
+    "target": "chmeng170a",
+    "source": "chmeng142"
+  },
+  {
+    "target": "chmeng170a",
+    "source": "chmeng150b"
+  },
+  {
+    "target": "chmeng170a",
+    "source": "bio1a"
+  },
+  {
+    "target": "chmengc170l",
+    "source": "chmeng170a"
+  },
+  {
+    "target": "chmeng176",
+    "source": "chmeng141"
+  },
+  {
+    "target": "chmeng176",
+    "source": "chmeng142"
+  },
+  {
+    "target": "chmeng176",
+    "source": "chmeng150b"
+  },
+  {
+    "target": "chmeng179",
+    "source": "e45"
+  },{
+    "target": "chmeng180",
+    "source": "chmeng142"
+  },
+  {
+    "target": "chmeng180",
+    "source": "chmeng150b"
+  },
+  {
+    "target": "chmeng230",
+    "source": "math53"
+  },
+  {
+    "target": "chmeng230",
+    "source": "math54"
+  },
+  {
+    "target": "chmeng240",
+    "source": "math53"
+  },
+  {
+    "target": "chmeng240",
+    "source": "math53"
+  },
+  {
+    "target": "chmeng240",
+    "source": "chmeng141"
+  },
+  {
+    "target": "chmeng244",
+    "source": "chmeng142"
+  },
+  {
+    "target": "chmeng245",
+    "source": "chmeng244"
+  },
+  {
+    "target": "chmeng250",
+    "source": "chmeng150a"
+  },
+  {
+    "target": "chmeng250",
+    "source": "chmeng150b"
+  },
+  {
+    "target": "chmeng250",
+    "source": "math53"
+  },
+  {
+    "target": "chmeng250",
+    "source": "math54"
+  },
+  {
+    "target": "chmeng256",
+    "source": "chmeng230"
+  },
+  {
+    "target": "chmengc268",
+    "source": "meche260a"
+  },
+  {
+    "target": "chmengc268",
+    "source": "meche260b"
+  },
+  {
+    "target": "chmengc294a",
+    "source": "meche185"
+  },
+  {
+    "target": "chmengc295z",
+    "source": "chem4b"
+  },
+  {
+    "target": "chmengc295z",
+    "source": "chem1b"
+  },
+  {
+    "target": "chmengc295z",
+    "source": "math1b"
+  },
+  {
+    "target": "chmengc295z",
+    "source": "physics7b"
+  },
+  {
+    "target": "chmeng295q",
+    "source": "chmeng295p"
+  }
+ ]
+}

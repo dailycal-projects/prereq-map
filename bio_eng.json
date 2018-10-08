@@ -1,0 +1,1625 @@
+{
+  "nodes": [
+  {
+    "name": "BIO ENG 10",
+    "title": "Introduction to Biomedicine for Engineers",
+    "units": "4 Units",
+    "prereqs": "",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015",
+    "details": "This course is intended for lower division students interested in acquiring a foundation in biomedicine with topics ranging from evolutionary biology to human physiology. The emphasis is on the integration of engineering applications to biology and health. The goal is for undergraduate engineering students to gain sufficient biology and human physiology fundamentals so that they are better prepared to study specialized topics, e.g., biomechanics",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "bioeng10"
+  },
+  {
+    "name": "BIO ENG 11",
+    "title": "Engineering Molecules 1",
+    "units": "3 Units",
+    "prereqs": "Chemistry 3A",
+    "offered": "Terms offered: Spring 2018, Spring 2017, Spring 2016",
+    "details": "This course focuses on providing students with a foundation in organic chemistry and biochemistry needed to understand contemporary problems in synthetic biology, biomaterials and computational biology.",
+    "prereqs_parsed": "CHEM3A",
+    "group": 3,
+    "id": "bioeng11"
+  },
+  {
+    "name": "BIO ENG 101",
+    "title": "Instrumentation in Biology and Medicine",
+    "units": "4 Units",
+    "prereqs": "El Eng 16A & 16B, Math 53, 54, Physics 7A-7B, or consent of instructor",
+    "offered": "Terms offered: Spring 2018, Spring 2017, Spring 2016",
+    "details": "This course teaches the fundamental principles underlying modern sensing and control instrumentation used in biology and medicine. The course takes an integrative analytic and hands-on approach to measurement theory and practice by presenting and analyzing example instruments currently used for biology and medical research, including EEG, ECG, pulsed oximeters, Complete Blood Count (CBC), etc.",
+    "prereqs_parsed": "ELENG16A&ELENG16B&MATH53&MATH54&PHYSICS7A&PHYSICS7B",
+    "group": 4,
+    "id": "bioeng101"
+  },
+  {
+    "name": "BIO ENG 102",
+    "title": "Biomechanics: Analysis and Design",
+    "units": "4 Units",
+    "prereqs": "Math 53, 54; Physics 7A",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015",
+    "details": "This course introduces, develops and applies the methods of continuum mechanics to biomechanical phenomena abundant in biology and medicine. It is intended for upper level undergraduate students who have been exposed to vectors, differential equations, and undergraduate course(s) in physics and certain aspects of modern biology.<br/>",
+    "prereqs_parsed": "MATH53&MATH54&PHYSICS7A",
+    "group": 4,
+    "id": "bioeng102"
+  },
+  {
+    "name": "BIO ENG 103",
+    "title": "Engineering Molecules 2",
+    "units": "4 Units",
+    "prereqs": "Bio1ogy 1A or Bioengineering 11, Physics 7A-7B, Math 1A, 1B, 53, 54",
+    "offered": "Terms offered: Fall 2017, Fall 2016",
+    "details": "Thermodynamic and kinetic concepts applied to understanding the chemistry and structure of biomolecules (proteins, membranes, DNA, and RNA) and their thermodynamic and kinetic features in the crowded cellular environment. Topics include entropy, bioenergetics, free energy, chemical potential, reaction kinetics, enzyme kinetics, diffusion and transport, non-equilibrium systems, and their connections to the cellular environment.",
+    "prereqs_parsed": "(BIOLOGY1A|BIOENG11)&PHYSICS7A&PHYSICS7B&MATH1A&MATH1B&MATH53&MATH54",
+    "group": 4,
+    "id": "bioeng103"
+  },
+  {
+    "name": "BIO ENG 104",
+    "title": "Biological Transport Phenomena",
+    "units": "4 Units",
+    "prereqs": "Mathematics 53, 54, and Physics 7A",
+    "offered": "Terms offered: Spring 2018, Spring 2017, Spring 2016",
+    "details": "The transport of mass, momentum, and energy are critical to the function of living systems and the design of medical devices. Biological transport phenomena are present at a wide range of length scales: molecular, cellular, organ (whole and by functional unit), and organism. This course develops and applies scaling laws and the methods of continuum mechanics to biological transport phenomena over a range of length and time scales. The course",
+    "prereqs_parsed": "MATH53&MATH54&PHYSICS7A",
+    "group": 4,
+    "id": "bioeng104"
+  },
+  {
+    "name": "BIO ENG C106A",
+    "title": "Introduction to Robotics",
+    "units": "4 Units",
+    "prereqs": "Electrical Engineering 120 or equivalent, consent of instructor",
+    "offered": "Terms offered: Fall 2017",
+    "details": "An introduction to the kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course covers forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics, and control. It presents elementary principles on proximity, tactile, and force sensing, vision sensors, camera calibration, stereo construction, and motion detection. The course concludes with current applications of robotics in",
+    "prereqs_parsed": "ELENG120",
+    "group": 4,
+    "id": "bioengc106a"
+  },
+  {
+    "name": "BIO ENG C106B",
+    "title": "Robotic Manipulation and Interaction",
+    "units": "4 Units",
+    "prereqs": "Electrical Engineering and Computer Science C106A/Bioengineering C106A or consent of the instructor",
+    "offered": "Terms offered: Spring 2018",
+    "details": "This course is a sequel to <a class=\"bubblelink code\" href=\"/search/?P=EECS%20C106A\" onclick=\"return showCourse(this, 'EECS C106A');\" title=\"EECS C106A\">EECS C106A</a>/Bioengineering C106A, which covers kinematics, dynamics and control of a single robot. This course will cover dynamics and control of groups of robotic manipulators coordinating with each other and interacting with the environment. Concepts will include an introduction to grasping and the constrained manipulation, contacts and force control for interaction with the environment. We will also cover active perception guided manipulation",
+    "prereqs_parsed": "EECSC106A|BIOENGC106A",
+    "group": 4,
+    "id": "bioengc106b"
+  },
+  {
+    "name": "BIO ENG 110",
+    "title": "Biomedical Physiology for Engineers",
+    "units": "4 Units",
+    "prereqs": "BioE 10, BioE 11 or Biology 1A; Math 54 recommended",
+    "offered": "Terms offered: Spring 2018, Spring 2017, Spring 2016",
+    "details": "This course introduces students to the physiology of human organ systems, with an emphasis on quantitative problem solving, engineering-style modeling, and applications to clinical medicine.",
+    "prereqs_parsed": "BIOENG10&(BIOENG11|BIOLOGY1A)&MATH54",
+    "group": 4,
+    "id": "bioeng110"
+  },
+  {
+    "name": "BIO ENG 111",
+    "title": "Functional Biomaterials Development and Characterization",
+    "units": "4 Units",
+    "prereqs": "Chemistry 1A or 4A, Bio Eng 11 or Biology 1A; Bio Eng 103 or equivalent",
+    "offered": "Terms offered: Spring 2018, Spring 2017, Spring 2016",
+    "details": "This course is intended for upper level engineering undergraduate students interested in the development of novel functional proteins and peptide motifs and characterization of their physical and biological properties using various instrumentation tools in quantitative manners. The emphasis of the class is how to develop novel proteins and peptide motifs, and to characterize their physical and biological functions using various analytical",
+    "prereqs_parsed": "(CHEM1A|CHEM4A)&(BIOENG11&BIOLOGY1A)&BIOENG103",
+    "group": 4,
+    "id": "bioeng111"
+  },
+  {
+    "name": "BIO ENG C112",
+    "title": "Molecular Biomechanics and Mechanobiology of the Cell",
+    "units": "4 Units",
+    "prereqs": "Math 54; Physics 7A; BioE102 or MEC85 or instructor’s consent",
+    "offered": "Terms offered: Spring 2016, Spring 2015, Spring 2014",
+    "details": "This course applies methods of statistical continuum mechanics to subcellar biomechanical phenomena ranging from nanoscale (molecular) to microscale (whole cell and cell population) biological processes at the interface of mechanics, biology, and chemistry.",
+    "prereqs_parsed": "MATH54&PHYSICS7A&(BIOENG102|MECENGC85)",
+    "group": 4,
+    "id": "bioengc112"
+  },
+  {
+    "name": "BIO ENG 114",
+    "title": "Cell Engineering",
+    "units": "4 Units",
+    "prereqs": "Bio1A or Bio Eng 11; or consent of instructor",
+    "offered": "Terms offered: Fall 2017, Fall 2016",
+    "details": "This course will teach the main concepts and current views on key attributes of animal cells (somatic, embryonic, pluripotent, germ-line; with the focus on mammalian cells), will introduce theory of the regulation of cell function, methods for deliberate control of cell properties and resulting biomedical technologies. Techniques for primary cell-line derivation, propagation characterization and therapeutic use (transplantation and drug-screening) will be",
+    "prereqs_parsed": "BIOLOGY1A|BIOENG11",
+    "group": 4,
+    "id": "bioeng114"
+  },
+  {
+    "name": "BIO ENG 115",
+    "title": "Cell Biology for Engineers",
+    "units": "4 Units",
+    "prereqs": "Bioengineering 103 or equivalent, Bioengineering 114 recommended (can be taken concurrently)",
+    "offered": "Terms offered: Spring 2018, Fall 2017, Spring 2017",
+    "details": "This course aims to provide a practical understanding of the nature of cell and tissue biology research. Students will be introduced to cell biology techniques as applied to cells and tissues including immunofluorescence, image analysis, protein quantification, protein expression, gene expression, and cell culture. The course culminates with a group project which synthesizes literature review, experimental design, implementation, troubleshooting",
+    "prereqs_parsed": "BIOENG103&BIOENG114",
+    "group": 4,
+    "id": "bioeng115"
+  },
+  {
+    "name": "BIO ENG 116",
+    "title": "Cell and Tissue Engineering",
+    "units": "4 Units",
+    "prereqs": "BioE 103 or equivalent, BioE 104",
+    "offered": "Terms offered: Spring 2016, Spring 2015, Spring 2014",
+    "details": "The goal of tissue engineering is to fabricate substitutes to restore tissue structure and functions. Understanding cell function in response to environmental cues will help us to establish design criteria and develop engineering tools for tissue fabrication. This course will introduce the basic concepts and approaches in the field, and train students to design and engineer biological substitutes.",
+    "prereqs_parsed": "BIOENG103&BIOENG104",
+    "group": 4,
+    "id": "bioeng116"
+  },
+  {
+    "name": "BIO ENG C117",
+    "title": "Structural Aspects of Biomaterials",
+    "units": "4 Units",
+    "prereqs": "Biology 1A, Engineering 45, Civil and Environmental Engineering 130 or 130N or Bioengineering 102, and Engineering 190",
+    "offered": "Terms offered: Spring 2018, Spring 2016, Fall 2013",
+    "details": "This course covers the structure and mechanical functions of load bearing tissues and their replacements. Natural and synthetic load-bearing biomaterials for clinical applications are reviewed. Biocompatibility of biomaterials and host response to structural implants are examined. Quantitative treatment of biomechanical issues and constitutive relationships of tissues are covered in order to design biomaterial replacements for structural function.",
+    "prereqs_parsed": "BIOLOGY1A&ENGIN45&(CIVENG130|BIOENG102)&ENGIN190",
+    "group": 4,
+    "id": "bioengc117"
+  },
+  {
+    "name": "BIO ENG C118",
+    "title": "Biological Performance of Materials",
+    "units": "4 Units",
+    "prereqs": "Engin 45; BioE 103 or equivalent; BioE 102 and BioE 104 recommended",
+    "offered": "Terms offered: Fall 2017, Fall 2015, Fall 2014",
+    "details": "This course is intended to give students the opportunity to expand their knowledge of topics related to biomedical materials selection and design. Structure-property relationships of biomedical materials and their interaction with biological systems will be addressed. Applications of the concepts developed include blood-materials compatibility, biomimetic materials, hard and soft tissue-materials interactions, drug delivery, tissue engineering",
+    "prereqs_parsed": "ENGIN45&BIOENG103&BIOENG102&BIOENG104",
+    "group": 4,
+    "id": "bioengc118"
+  },
+  {
+    "name": "BIO ENG C119",
+    "title": "Orthopedic Biomechanics",
+    "units": "4 Units",
+    "prereqs": "Mechanical Engineering C85, Civil Engineering C30, or Bioengineering 102, or equivalent; concurrent enrollment OK. Proficiency in MatLab or equivalent. Prior knowledge of biology or anatomy is not assumed",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015",
+    "details": "Statics, dynamics, optimization theory, composite beam theory, beam-on-elastic foundation theory, Hertz contact theory, and materials behavior. Forces and moments acting on human joints; composition and mechanical behavior of orthopedic biomaterials; design/analysis of artificial joint, spine, and fracture fixation prostheses; musculoskeletal tissues including bone, cartilage, tendon, ligament, and muscle; osteoporosis and fracture-risk predication",
+    "prereqs_parsed": "MECENGC85|CIVENGC30|BIOENG102",
+    "group": 4,
+    "id": "bioengc119"
+  },
+  {
+    "name": "BIO ENG 121",
+    "title": "BioMEMS and Medical Devices",
+    "units": "4 Units",
+    "prereqs": "Chemistry 3A; Physics 7A and 7B",
+    "offered": "Terms offered: Spring 2018, Spring 2017, Spring 2016",
+    "details": "Biophysical and chemical principles of biomedical devices, bionanotechnology, bionanophotonics, and biomedical microelectromechanical systems (BioMEMS). Topics include basics of nano- and microfabrication, soft-lithography, DNA arrays, protein arrays, electrokinetics, electrochemical, transducers, microfluidic devices, biosensor, point of care diagnostics, lab-on-a-chip, drug delivery microsystems, clinical lab-on-a-chip, advanced biomolecular",
+    "prereqs_parsed": "CHEM3A&PHYSICS7A&PHYSICS7B",
+    "group": 4,
+    "id": "bioeng121"
+  },
+  {
+    "name": "BIO ENG 121L",
+    "title": "BioMems and BioNanotechnology Laboratory",
+    "units": "4 Units",
+    "prereqs": "BioE 103 or equivalent, BioE 104",
+    "offered": "Terms offered: Fall 2016, Fall 2015, Spring 2015",
+    "details": "Students will become familiar with BioMEMS and Lab-on-a-Chip research. Students will design and fabricate their own novel micro- or nano-scale device to address a specific problem in biotechnology using the latest micro- and nano-technological tools and fabrication techniques. This will involve an intensive primary literature review, experimental design, and quantitative data analysis. Results will be presented during class presentations and",
+    "prereqs_parsed": "BIOENG103&BIOENG104",
+    "group": 4,
+    "id": "bioeng121l"
+  },
+  {
+    "name": "BIO ENG 124",
+    "title": "Basic Principles of Drug Delivery",
+    "units": "3 Units",
+    "prereqs": "BioE 103 or equivalent",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015",
+    "details": "This course focuses on providing students with the foundations needed to understand contemporary literature in drug delivery. Concepts in organic chemistry, biochemistry, and physical chemistry needed to understand current problems in drug delivery are emphasized.",
+    "prereqs_parsed": "BIOENG103",
+    "group": 3,
+    "id": "bioeng124"
+  },
+  {
+    "name": "BIO ENG C125",
+    "title": "Introduction to Robotics",
+    "units": "4 Units",
+    "prereqs": "EE 120 or equivalent, consent of instructor",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015",
+    "details": "An introduction to the kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course covers forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics, and control. It presents elementary principles on proximity, tactile, and force sensing, vision sensors, camera calibration, stereo construction, and motion detection. The course concludes with current applications",
+    "prereqs_parsed": "ELENG120",
+    "group": 4,
+    "id": "bioengc125"
+  },
+  {
+    "name": "BIO ENG C125B",
+    "title": "Robotic Manipulation and Interaction",
+    "units": "4 Units",
+    "prereqs": "Electrical Engineering C106A/Bioengineering C125 or consent of the instructor",
+    "offered": "Terms offered: Spring 2017, Spring 2016",
+    "details": "This course is a sequel to Electrical Engineering C106A/Bioengineering C125, which covers kinematics, dynamics and control of a single robot. This course will cover dynamics and control of groups of robotic manipulators coordinating with each other and interacting with the environment. Concepts will include an introduction to grasping and the constrained manipulation, contacts and force control for interaction with the environment. We will also cover",
+    "prereqs_parsed": "ELENGC106A|BIOENGC125",
+    "group": 4,
+    "id": "bioengc125b"
+  },
+  {
+    "name": "BIO ENG 131",
+    "title": "Introduction to Computational Molecular and Cell Biology",
+    "units": "4 Units",
+    "prereqs": "BioE 11 or Bio 1A (may be taken concurrently), Math 53",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015",
+    "details": "Topics include computational approaches and techniques to gene structure and genome annotation, sequence alignment using dynamic programming, protein domain analysis, RNA folding and structure prediction, RNA sequence design for synthetic biology, genetic and biochemical pathways and networks, UNIX and scripting languages, basic probability and information theory. Various \"case studies\" in these areas are reviewed; web-based computational",
+    "prereqs_parsed": "MATH53&(BIOENG11|BIOLOGY1A)",
+    "group": 4,
+    "id": "bioeng131"
+  },
+  {
+    "name": "BIO ENG 132",
+    "title": "Genetic Devices",
+    "units": "4 Units",
+    "prereqs": "Engineering 7 or Computer Science 61A, Mathematics 54, Chemistry 3A, and BioE 103 or equivalent",
+    "offered": "Terms offered: Spring 2018, Fall 2014, Fall 2013",
+    "details": "This senior-level course is a comprehensive survey of genetic devices. These DNA-based constructs are comprised of multiple \"parts\" that together encode a higher-level biological behavior and perform useful human-defined functions. Such constructs are the engineering target for most projects in synthetic biology. Included within this class of constructs are genetic circuits, sensors, biosynthetic pathways, and microbiological funct",
+    "prereqs_parsed": "MATH54&CHEM3A&BIOENG103&(ENGIN7|COMPSCI61A)",
+    "group": 4,
+    "id": "bioeng132"
+  },
+  {
+    "name": "BIO ENG 134",
+    "title": "Genetic Design Automation",
+    "units": "4 Units",
+    "prereqs": "CS61B; BioEng 103 or equivalent",
+    "offered": "Terms offered: Fall 2017",
+    "details": "Genetic Design Automation is the use of software to design and manage genetics experiments. This course introduces the interface between object-oriented programming and wetlab synthetic biology in a hands-on manner. Through a series of programming assignments, each student will build a computer program that automatically designs experiments starting from a formal specification. They will then independently build a new software module of their own design to augment the",
+    "prereqs_parsed": "COMPSCI61B&BIOENG103",
+    "group": 4,
+    "id": "bioeng134"
+  },
+  {
+    "name": "BIO ENG 135",
+    "title": "Frontiers in Microbial Systems Biology",
+    "units": "4 Units",
+    "prereqs": "Upper division standing with background in differential equations and probability. Coursework in molecular and cell biology or biochemistry recommended",
+    "offered": "Terms offered: Spring 2017, Fall 2009",
+    "details": "This course is aimed at graduate and advanced undergraduate students from the (bio) engineering and chemo-physical sciences interested in a research-oriented introduction to current topics in systems biology. Focusing mainly on two well studied microbiological model systems--the chemotaxis network and Lambda bacteriophage infection--the class systematically introduces key concepts and techniques for biological network deduction, modelling, analysis, evolution",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "bioeng135"
+  },
+  {
+    "name": "BIO ENG C137",
+    "title": "Designing for the Human Body",
+    "units": "3 Units",
+    "prereqs": "Proficiency in MatLab or equivalent. Prior knowledge of biology or anatomy is not assumed. Physics 7A, Math 1A and 1B",
+    "offered": "Terms offered: Fall 2017",
+    "details": "The course provides project-based learning experience in understanding product design, with a focus on the human body as a mechanical machine. Students will learn the design of external devices used to aid or protect the body. Topics will include forces acting on internal materials (e.g., muscles and total replacement devices), forces acting on external materials (e.g., prothetics and crash pads), design/analysis of devices aimed to improve or fix the human body, muscle",
+    "prereqs_parsed": "PHYSICS7A&MATH1A&MATH1B",
+    "group": 3,
+    "id": "bioengc137"
+  },
+  {
+    "name": "BIO ENG 145",
+    "title": "Intro to Machine Learning in Computational Biology",
+    "units": "4 Units",
+    "prereqs": "CS61B, CS70 or Math 55; CS170 or STAT 132 or",
+    "offered": "Terms offered: Fall 2017",
+    "details": "This course will review the fundamentals of Data Science and data mining techniques. We will begin by reviewing Data Science across the disciplines, including guest lectures from data scientists on campus. As the semester progresses, we will focus increasingly on data science techniques in computational biology and bioinformatics, illustrating major methods and issues from these fields. Finally, we will discuss ethical issues related to data from biomedical research",
+    "prereqs_parsed": "COMPSCI61B&(COMPSCI70|MATH55)&(CS170|STAT132|STAT133)&BIOENG144",
+    "group": 4,
+    "id": "bioeng145"
+  },
+  {
+    "name": "BIO ENG 147",
+    "title": "Principles of Synthetic Biology",
+    "units": "4 Units",
+    "prereqs": "Math 53 and 54; BioE 103 or equivalent or consent of instructor",
+    "offered": "Terms offered: Fall 2016, Fall 2015, Fall 2014",
+    "details": "The field of synthetic biology is quickly emerging as potentially one of the most important and profound ways by which we can understand and manipulate our physical world for desired purposes. In this course, the field and its natural scientific and engineering basis are introduced. Relevant topics in cellular and molecular biology and biophysics, dynamical and engineering systems, and design and operation of natural and synthetic circuits are",
+    "prereqs_parsed": "MATH53&MATH54&BIOENG103",
+    "group": 4,
+    "id": "bioeng147"
+  },
+  {
+    "name": "BIO ENG 148",
+    "title": "Bioenergy and Sustainable Chemical Synthesis: Metabolic Engineering and Synthetic Biology Approaches",
+    "units": "3 Units",
+    "prereqs": "Chem 3A, BioE 103 or equivalent",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015",
+    "details": "This course will cover metabolic engineering and the various synthetic biology approaches for optimizing pathway performance. Use of metabolic engineering to produce biofuels and general \"green technology\" will be emphasized since these aims are currently pushing these fields. The course is meant to be a practical guide for metabolic engineering and the related advances in synthetic biology as well the related industrial research and",
+    "prereqs_parsed": "CHEM3A&BIOENG103",
+    "group": 3,
+    "id": "bioeng148"
+  },
+  {
+    "name": "BIO ENG 150",
+    "title": "Introduction of Bionanoscience and Bionanotechnology",
+    "units": "4 Units",
+    "prereqs": "BioE 11 or Biology 1A, Chem 1A",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015",
+    "details": "This course is intended for the bioengineering or engineering undergraduate students interested in acquiring a background in recent development of bio-nanomaterials and bio-nanotechnology. The emphasis of the class is to understand the properties of biological basis building blocks, their assembly principles in nature, and their application to build functional materials and devices.",
+    "prereqs_parsed": "CHEM1A&(BIOENG11|BIOLOGY1A)",
+    "group": 4,
+    "id": "bioeng150"
+  },
+  {
+    "name": "BIO ENG 163",
+    "title": "Principles of Molecular and Cellular Biophotonics",
+    "units": "4 Units",
+    "prereqs": "102 or consent of instructor, Chemistry 3A, and Physics 7B",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015",
+    "details": "This course provides undergraduate and graduate bioengineering students with an opportunity to increase their knowledge of topics in the emerging field of biophotonics with an emphasis on fluorescence spectroscopy, biosensors and devices for optical imaging and detection of biomolecules. This course will cover the photophysics and photochemistry of organic molecules, the design and characterization of biosensors and their applications within diverse",
+    "prereqs_parsed": "BIOENG102&CHEM3A&PHYSICS7B",
+    "group": 4,
+    "id": "bioeng163"
+  },
+  {
+    "name": "BIO ENG 163L",
+    "title": "Molecular and Cellular Biophotonics Laboratory",
+    "units": "4 Units",
+    "prereqs": "Bioengineering 163 and ok to take concurrently",
+    "offered": "Terms offered: Spring 2018, Spring 2017, Spring 2015",
+    "details": "This course provides undergraduate and graduate bioengineering students with an opportunity to acquire essential experimental skills in fluorescence spectroscopy and the design, evaluation, and optimization of optical biosensors for quantitative measurements of proteins and their targets. Groups of students will be responsible for the research, design, and development of a biosensor or diagnostic device for the detection, diagnosis, and monitoring",
+    "prereqs_parsed": "BIOENG163",
+    "group": 4,
+    "id": "bioeng163l"
+  },
+  {
+    "name": "BIO ENG C165",
+    "title": "Medical Imaging Signals and Systems",
+    "units": "4 Units",
+    "prereqs": "Electrical Engineering 16A and 16B",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015",
+    "details": "Biomedical imaging is a clinically important application of engineering, applied mathematics, physics, and medicine. In this course, we apply linear systems theory and basic physics to analyze X-ray imaging, computerized tomography, nuclear medicine, and MRI. We cover the basic physics and instrumentation that characterizes medical image as an ideal perfect-resolution image blurred by an impulse response. This material could prepare the student",
+    "prereqs_parsed": "ELENG16A&ELENG16B",
+    "group": 4,
+    "id": "bioengc165"
+  },
+  {
+    "name": "BIO ENG C208",
+    "title": "Biological Performance of Materials",
+    "units": "4 Units",
+    "prereqs": "Engineering 45; Chemistry C130/Molecular and Cell Biology C100A or Engineering 115 or equivalent; Bioengineering 102 and 104 recommended",
+    "offered": "Terms offered: Fall 2017, Fall 2015",
+    "details": "This course is intended to give students the opportunity to expand their knowledge of topics related to biomedical materials selection and design. Structure-property relationships of biomedical materials and their interaction with biological systems will be addressed. Applications of the concepts developed include blood-materials compatibility, biomimetic materials, hard and soft tissue-materials interactions, drug delivery, tissue engineering, and biote",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "bioengc208"
+  },
+  {
+    "name": "BIO ENG C209",
+    "title": "Advanced Orthopedic Biomechanics",
+    "units": "4 Units",
+    "prereqs": "ME C85/CE C30 or Bio Eng 102; concurrent enrollment OK. Proficiency in MatLab or equivalent. Prior knowledge of biology or anatomy is not assumed",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015",
+    "details": "Students will learn the application of engineering concepts including statics, dynamics, optimization theory, composite beam theory, beam-on-elastic foundation theory, Hertz contact theory, and materials behavior. Topics will include forces and moments acting on human joints; composition and mechanical behavior of orthopedic biomaterials; design/analysis of artificial joint, spine, and fracture fixation prostheses; musculoskeletal tissues including",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "bioengc209"
+  },
+  {
+    "name": "BIO ENG C213",
+    "title": "Fluid Mechanics of Biological Systems",
+    "units": "3 Units",
+    "prereqs": "106 or equivalent; 265A or consent of instructor",
+    "offered": "Terms offered: Spring 2016, Spring 2014, Spring 2011",
+    "details": "Fluid mechanical aspects of various physiological systems, the circulatory, respiratory, and renal systems. Motion in large and small blood vessels. Pulsatile and peristaltic flows. Other biofluidmechanical flows: the ear, eye, etc. Instrumentation for fluid measurements in biological systems and for medical diagnosis and applications. Artificial devices for replacement of organs and/or functions, e.g. blood oxygenators, kidney dialysis machines",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "bioengc213"
+  },
+  {
+    "name": "BIO ENG C215",
+    "title": "Molecular Biomechanics and Mechanobiology of the Cell",
+    "units": "4 Units",
+    "prereqs": "Math 54; Physics 7A; BioE 102 or ME C85 or instructor’s consent",
+    "offered": "Terms offered: Spring 2016, Spring 2015, Spring 2014",
+    "details": "This course develops and applies scaling laws and the methods of continuum and statistical mechanics to understand micro- and nano-scale mechanobiological phenomena involved in the living cell with particular attention the nucleus and the cytoskelton as well as the interactions of the cell with the extracellular matrix and how these interactions may cause changes in cell architecture and biology, consequently leading to functional adaptation",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "bioengc215"
+  },
+  {
+    "name": "BIO ENG C216",
+    "title": "Macromolecular Science in Biotechnology and Medicine",
+    "units": "4 Units",
+    "prereqs": "Bioengineering 115 or equivalent; open to seniors with consent of instructor",
+    "offered": "Terms offered: Spring 2018, Spring 2017, Spring 2015, Spring 2014",
+    "details": "Overview of the problems associated with the selection and function of polymers used in biotechnology and medicine. Principles of polymer science, polymer synthesis, and structure-property-performance relationships of polymers. Particular emphasis is placed on the performance of polymers in biological environments. Interactions between macromolecular and biological systems for therapy and diagnosis. Specific applications will",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "bioengc216"
+  },
+  {
+    "name": "BIO ENG 221",
+    "title": "Advanced BioMEMS and Bionanotechnology",
+    "units": "4 Units",
+    "prereqs": "Chemistry 3A, Physics 7A and 7B, Electrical Engineering 143 or equivalent",
+    "offered": "Terms offered: Spring 2018, Spring 2017, Fall 2016",
+    "details": "Biophysical and chemical principles of biomedical devices, bionanotechnology, bionanophotonics, and biomedical microelectromechanical systems (BioMEMS). Topics include basics of nano-& microfabrication, soft-lithography, DNA arrays, protein arrays, electrokinetics, electrochemical transducers, microfluidic devices, biosensor, point of care diagnostics, lab-on-a-chip, drug delivery microsystems, clinical lab-on-a-chip, advanced biomolecular",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "bioeng221"
+  },
+  {
+    "name": "BIO ENG 221L",
+    "title": "BioMEMS and BioNanotechnology Laboratory",
+    "units": "4 Units",
+    "prereqs": "BioE 103 or equivalent, BioE 104",
+    "offered": "Terms offered: Fall 2016, Spring 2015, Spring 2014",
+    "details": "Students will become familiar with BioMEMS and Lab-on-a-Chip research. Students will design and fabricate their own novel micro- or nano-scale device to address a specific problem in biotechnology using the latest micro- and nano-technological tools and fabrication techniques. This will involve an intensive primary literature review, experimental design, and quantitative data analysis. Results will be presented during class presentations and",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "bioeng221l"
+  },
+  {
+    "name": "BIO ENG C223",
+    "title": "Polymer Engineering",
+    "units": "3 Units",
+    "prereqs": "Civil Engineering 130, Engineering 45",
+    "offered": "Terms offered: Fall 2017, Fall 2015, Fall 2014",
+    "details": "A survey of the structure and mechanical properties of advanced engineering polymers. Topics include rubber elasticity, viscoelasticity, mechanical properties, yielding, deformation, and fracture mechanisms of various classes of polymers. The course will discuss degradation schemes of polymers and long-term performance issues. The class will include polymer applications in bioengineering and medicine.",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "bioengc223"
+  },
+  {
+    "name": "BIO ENG 224",
+    "title": "Basic Principles of Drug Delivery",
+    "units": "3 Units",
+    "prereqs": "BioE 103 or equivalent",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015",
+    "details": "This course focuses on providing students with the foundations needed to understand contemporary literature in drug delivery. Concepts in organic chemistry, biochemistry, and physical chemistry needed to understand current problems in drug delivery are emphasized.<br/>",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "bioeng224"
+  },
+  {
+    "name": "BIO ENG 232",
+    "title": "Genetic Devices",
+    "units": "4 Units",
+    "prereqs": "Engineering 7 or Computer Science 61A, Mathematics 54, Chemistry 3A, and BioE103 or equivalent",
+    "offered": "Terms offered: Spring 2018, Fall 2014, Fall 2013",
+    "details": "This graduate-level course is a comprehensive survey of genetic devices. These DNA-based constructs are comprised of multiple \"parts\" that together encode a higher-level biological behavior and perform useful human-defined functions. Such constructs are the engineering target for most projects in synthetic biology. Included within this class of constructs are genetic circuits, sensors, biosynthetic pathways, and microbiological fun",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "bioeng232"
+  },
+  {
+    "name": "BIO ENG 235",
+    "title": "Frontiers in Microbial Systems Biology",
+    "units": "4 Units",
+    "prereqs": "Designed for graduates with background in differential equations and probability. Course work in molecular cell biology or biochemistry helpful",
+    "offered": "Terms offered: Spring 2017, Fall 2009",
+    "details": "This course is aimed at graduate and advanced undergraduate students from the (bio) engineering and chemo-physical sciences interested in a research-oriented introduction to current topics in systems biology. Focusing mainly on two well studied microbiological model systems--the chemotaxis network and Lambda bacteriophage infection--the class systematically introduces key concepts and techniques for biological network deduction, modelling, analysis, evolution",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "bioeng235"
+  },
+  {
+    "name": "BIO ENG C237",
+    "title": "Adv Designing for the Human Body",
+    "units": "3 Units",
+    "prereqs": "Proficiency in MatLab or equivalent. Prior knowledge of biology or anatomy is not assumed",
+    "offered": "Terms offered: Fall 2017",
+    "details": "The course provides project-based learning experience in understanding product design, with a focus on the human body as a mechanical machine. Students will learn the design of external devices used to aid or protect the body. Topics will include forces acting on internal materials (e.g., muscles and total replacement devices), forces acting on external materials (e.g., prothetics and crash pads), design/analysis of devices aimed to improve or fix the human body, muscle",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "bioengc237"
+  },
+  {
+    "name": "BIO ENG 241",
+    "title": "Probabilistic Modeling in Computational Biology",
+    "units": "4 Units",
+    "prereqs": "Recommended preparation: <BR/>Math 53: multivariable calculus (or equivalent) <BR/>Math 54: linear algebra (or equivalent), <BR/>Math 126: partial differential equations (or equivalent)<BR/>or consent of instructor",
+    "offered": "Terms offered: Spring 2018, Spring 2017, Spring 2016",
+    "details": "This course covers applications of probabilistic modeling to topics in bioinformatics, with an emphasis on literature study and novel tool development. Areas covered vary from year to year but typically include finite-state Markov models as models of point substitution processes; graphical models and dynamic programming; basic coalescent theory; grammar theory; birth-death processes and the Thorne-Kishino-Felsenstein model of indels; general",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "bioeng241"
+  },
+  {
+    "name": "BIO ENG 244",
+    "title": "Introduction to Protein Informatics",
+    "units": "4 Units",
+    "prereqs": "Prior coursework in algorithms (e.g., CS 170) is highly recommended. The class does not include programming, and no prior programming experience is required, although students need to be comfortable reading and writing pseudocode (precise text descriptions of algorithms",
+    "offered": "Terms offered: Spring 2017, Fall 2008, Fall 2007",
+    "details": "This course will introduce students to the bioinformatics algorithms used by biologists to identify homologs, construct multiple sequence alignments, predict protein structure, estimate phylogenetic trees, identify orthologs, predict protein-protein interaction, and build hidden Markov models. The focus is on the algorithms used, and on the sources of various types of errors in these methods. This class includes no programming, and no programming",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "bioeng244"
+  },
+  {
+    "name": "BIO ENG 245",
+    "title": "Intro to Machine Learning in Computational Biology",
+    "units": "4 Units",
+    "prereqs": "CS61B, CS70 or Math 55; CS170 or STAT 132 or",
+    "offered": "Terms offered: Fall 2017",
+    "details": "This course will review the fundamentals of Data Science and data mining techniques. We will begin by reviewing Data Science across the disciplines, including guest lectures from data scientists on campus. As the semester progresses, we will focus increasingly on data science techniques in computational biology and bioinformatics, illustrating major methods and issues from these fields. Finally, we will discuss ethical issues related to data from biomedical research",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "bioeng245"
+  },
+  {
+    "name": "BIO ENG 247",
+    "title": "Principles of Synthetic Biology",
+    "units": "4 Units",
+    "prereqs": "Math 53/54, BioE 103 or equivalent, or consent of instructor",
+    "offered": "Terms offered: Fall 2016, Fall 2015, Fall 2014",
+    "details": "The field of synthetic biology is quickly emerging as potentially one of the most important and profound ways by which we can understand and manipulate our physical world for desired purposes. In this course, the field and its natural scientific and engineering basis are introduced. Relevant topics in cellular and molecular biology and biophysics, dynamical and engineering systems, and design and operation of natural and synthetic circuits are",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "bioeng247"
+  },
+  {
+    "name": "BIO ENG 248",
+    "title": "Bioenergy and Sustainable Chemical Synthesis: Metabolic Engineering and Synthetic Biology Approaches",
+    "units": "3 Units",
+    "prereqs": "Chemistry 3A and Molecular and Cell Biology C100A/Chemistry C130A or equivalent",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015",
+    "details": "This course will cover metabolic engineering and the various synthetic biology approaches for optimizing pathway performance. Use of metabolic engineering to produce biofuels and general \"green technology\" will be emphasized since these aims are currently pushing these fields. The course is meant to be a practical guide for metabolic engineering and the related advances in synthetic biology as well the related industrial research and",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "bioeng248"
+  },
+  {
+    "name": "BIO ENG C261",
+    "title": "Medical Imaging Signals and Systems",
+    "units": "4 Units",
+    "prereqs": "El Eng 20N and Engineering 7 or equivalent. Knowledge of Matlab or linear algebra assumed",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015",
+    "details": "Biomedical imaging is a clinically important application of engineering, applied mathematics, physics, and medicine. In this course, we apply linear systems theory and basic physics to analyze X-ray imaging, computerized tomography, nuclear medicine, and MRI. We cover the basic physics and instrumentation that characterizes medical image as an ideal perfect-resolution image blurred by an impulse response. This material could prepare the student",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "bioengc261"
+  },
+  {
+    "name": "BIO ENG 263",
+    "title": "Principles of Molecular and Cellular Biophotonics",
+    "units": "4 Units",
+    "prereqs": "102 or consent of instructor, and Chemistry 3A and Physics 7B",
+    "offered": "Terms offered: Fall 2017, Fall 2016, Fall 2015",
+    "details": "Topics in the emerging field of biophotonics with an emphasis on fluorescence spectroscopy, biosensors, and devices for optical imaging and detection of biomolecules. The course will cover the photophysics and photochemistry of organic molecules, the design and characterization of biosensors, and their applications within diverse environments, ranging from the detection of single molecules in vitro and in cells to studies of detection, diagnosis",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "bioeng263"
+  },
+  {
+    "name": "BIO ENG 263L",
+    "title": "Molecular and Cellular Biophotonics Laboratory",
+    "units": "4 Units",
+    "prereqs": "263; experience in a research lab and consent of instructor",
+    "offered": "Terms offered: Spring 2018, Spring 2017, Spring 2015",
+    "details": "This course provides undergraduate and graduate bioengineering students with an opportunity to acquire essential experimental skills in fluorescence spectroscopy and the design, evaluation, and optimization of optical biosensors for quantitative measurements of proteins and their targets. Groups of students will be responsible for the research, design, and development of a biosensor or diagnostic device for the detection, diagnosis, and monitoring",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "bioeng263l"
+  },
+  {
+    "name": "BIO ENG C265",
+    "title": "Principles of Magnetic Resonance Imaging",
+    "units": "4 Units",
+    "prereqs": "Either Electrical Engineering 120 or Bioengineering C165/Electrical Engineering C145B or consent of instructor",
+    "offered": "Terms offered: Spring 2018, Spring 2017, Spring 2016, Spring 2015",
+    "details": "Fundamentals of MRI including signal-to-noise ratio, resolution, and contrast as dictated by physics, pulse sequences, and instrumentation. Image reconstruction via 2D FFT methods. Fast imaging reconstruction via convolution-back projection and gridding methods and FFTs. Hardware for modern MRI scanners including main field, gradient fields, RF coils, and shim supplies. Software for MRI including imaging methods such as 2D FT",
+    "prereqs_parsed": "",
+    "group": 4,
+    "id": "bioengc265"
+  },
+  {
+    "name": "BIO ENG 282",
+    "title": "Model-Based Design of Clinical Therapies",
+    "units": "3 Units",
+    "prereqs": "Calculus (Math 54); Bio Eng 104 or equivalent (preferred but not required) and or consent of instructor",
+    "offered": "Terms offered: Spring 2018",
+    "details": "Students will learn how to translate a clinically relevant physical system into a governing equation with boundary conditions, and how to use this mathematical model to test and improve the design of medical devices and therapies. Problems of mass, heat, and momentum transport; the interaction of electromagnetic fields with materials (including tissue); and the mechanics of fluids and solids will be explored.",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "bioeng282"
+  },
+  {
+    "name": "BIO ENG 295",
+    "title": "Bringing Biomedical Devices to Market",
+    "units": "3 Units",
+    "prereqs": "Engineering 271 or equivalent recommended",
+    "offered": "Terms offered: Spring 2017",
+    "details": "Engineering design is the process by which an idea is generated, developed, constructed, tested, and managed. Typical bioengineering courses often focus on idea conception and construction. True engineering design integrates not only these two essential elements, but also the process of evaluating, planning, and testing a product. This course highlights the context and value of product development: the formalized process bridging the gap between device proof-of-concept",
+    "prereqs_parsed": "",
+    "group": 3,
+    "id": "bioeng295"
+  },
+  {
+    "name": "CHEM 3A",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 1,
+    "id": "chem3a"
+  },
+  {
+    "name": "CHEM 1A",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 1,
+    "id": "chem1a"
+  },
+  {
+    "name": "CHEM 4A",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 1,
+    "id": "chem4a"
+  },
+  {
+    "name": "MCB C100A",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 1,
+    "id": "mcbc100a"
+  },
+  {
+    "name": "EL ENG 16A",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 5,
+    "id": "ee16a"
+  },
+  {
+    "name": "EL ENG 16B",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 5,
+    "id": "ee16b"
+  },
+  {
+    "name": "EL ENG 120",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 5,
+    "id": "ee120"
+  },
+  {
+    "name": "EL ENG C106A",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 5,
+    "id": "eec106a"
+  },
+  {
+    "name": "EL ENG 20",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 5,
+    "id": "ee20"
+  },
+  {
+    "name": "EL ENG 143",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 5,
+    "id": "ee143"
+  },
+  {
+    "name": "MATH 53",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 6,
+    "id": "math53"
+  },
+  {
+    "name": "MATH 54",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 6,
+    "id": "math54"
+  },
+  {
+    "name": "MATH 1A",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 6,
+    "id": "math1a"
+  },
+  {
+    "name": "MATH 1B",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 6,
+    "id": "math1b"
+  },
+  {
+    "name": "MATH 126",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 6,
+    "id": "math126"
+  },
+  {
+    "name": "MATH 55",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 6,
+    "id": "math55"
+  },
+  {
+    "name": "PHYSICS 7A",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 7,
+    "id": "physics7a"
+  },
+  {
+    "name": "PHYSICS 7B",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 7,
+    "id": "physics7b"
+  },
+  {
+    "name": "BIO 1A",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 1,
+    "id": "bio1a"
+  },
+  {
+    "name": "MEC ENG C85",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 8,
+    "id": "mecengc85"
+  },
+  {
+    "name": "ENGIN 45",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 9,
+    "id": "e45"
+  },
+  {
+    "name": "ENGIN 7",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 9,
+    "id": "e7"
+  },
+  {
+    "name": "ENGIN 190",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 9,
+    "id": "e190"
+  },
+  {
+    "name": "ENGIN 115",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 9,
+    "id": "e115"
+  },
+  {
+    "name": "ENGIN 271",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 9,
+    "id": "e271"
+  },
+  {
+    "name": "CIV ENG 130",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 10,
+    "id": "civeng130"
+  },
+  {
+    "name": "CIV ENG C30",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 10,
+    "id": "civengc30"
+  },
+  {
+    "name": "COMP SCI 61A",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 2,
+    "id": "cs61a"
+  },
+   {
+    "name": "COMP SCI 61B",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 2,
+    "id": "cs61b"
+  },
+   {
+    "name": "COMP SCI 70",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 2,
+    "id": "cs70"
+  },
+   {
+    "name": "COMP SCI 170",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 2,
+    "id": "cs170"
+  },
+  {
+    "name": "STAT 132",
+    "title": "",
+    "units": "",
+    "prereqs": "",
+    "offered": "",
+    "details": "",
+    "prereqs_parsed": "",
+    "group": 6,
+    "id": "stat132"
+  }
+],
+"links": [
+  {
+    "target": "bioeng11",
+    "source": "chem3a"
+  },
+  {
+    "target": "bioeng101",
+    "source": "ee16a"
+  },
+  {
+    "target": "bioeng101",
+    "source": "ee16b"
+  },
+  {
+    "target": "bioeng101",
+    "source": "math53"
+  },
+  {
+    "target": "bioeng101",
+    "source": "math54"
+  },
+  {
+    "target": "bioeng101",
+    "source": "physics7a"
+  },
+  {
+    "target": "bioeng101",
+    "source": "physics7b"
+  },
+  {
+    "target": "bioeng102",
+    "source": "math53"
+  },
+  {
+    "target": "bioeng102",
+    "source": "math54"
+  },
+  {
+    "target": "bioeng102",
+    "source": "physics7a"
+  },
+  {
+    "target": "bioeng103",
+    "source": "bio1a"
+  },
+  {
+    "target": "bioeng103",
+    "source": "bioeng11"
+  },
+  {
+    "target": "bioeng103",
+    "source": "physics7a"
+  },
+  {
+    "target": "bioeng103",
+    "source": "physics7b"
+  },
+  {
+    "target": "bioeng103",
+    "source": "math53"
+  },
+  {
+    "target": "bioeng103",
+    "source": "math54"
+  },
+  {
+    "target": "bioeng104",
+    "source": "math53"
+  },
+  {
+    "target": "bioeng104",
+    "source": "math54"
+  },
+  {
+    "target": "bioeng104",
+    "source": "physics7a"
+  },
+  {
+    "target": "bioengc106a",
+    "source": "ee120"
+  },
+  {
+    "target": "bioengc106b",
+    "source": "bioengc106a"
+  },
+  {
+    "target": "bioeng110",
+    "source": "bioeng10"
+  },
+  {
+    "target": "bioeng110",
+    "source": "bioeng11"
+  },
+  {
+    "target": "bioeng110",
+    "source": "bio1a"
+  },
+  {
+    "target": "bioeng110",
+    "source": "math54"
+  },
+  {
+    "target": "bioeng111",
+    "source": "chem1a"
+  },
+  {
+    "target": "bioeng111",
+    "source": "chem4a"
+  },
+  {
+    "target": "bioeng111",
+    "source": "bioeng11"
+  },
+  {
+    "target": "bioeng111",
+    "source": "bio1a"
+  },
+  {
+    "target": "bioeng111",
+    "source": "bioeng103"
+  },
+  {
+    "target": "bioengc112",
+    "source": "math54"
+  },
+  {
+    "target": "bioengc112",
+    "source": "physics7a"
+  },
+  {
+    "target": "bioengc112",
+    "source": "bioeng102"
+  },
+  {
+    "target": "bioengc112",
+    "source": "mecengc85"
+  },
+  {
+    "target": "bioeng114",
+    "source": "bio1a"
+  },
+  {
+    "target": "bioeng114",
+    "source": "bioeng11"
+  },
+  {
+    "target": "bioeng114",
+    "source": "bio1a"
+  },
+  {
+    "target": "bioeng115",
+    "source": "bioeng103"
+  },
+  {
+    "target": "bioeng115",
+    "source": "bioeng114"
+  },
+  {
+    "target": "bioeng116",
+    "source": "bioeng103"
+  },
+  {
+    "target": "bioeng116",
+    "source": "bioeng104"
+  },
+  {
+    "target": "bioengc117",
+    "source": "bio1a"
+  },
+  {
+    "target": "bioengc117",
+    "source": "e45"
+  },
+  {
+    "target": "bioengc117",
+    "source": "civeng130"
+  },
+  {
+    "target": "bioengc117",
+    "source": "bioeng102"
+  },
+  {
+    "target": "bioengc117",
+    "source": "e190"
+  },
+  {
+    "target": "bioengc118",
+    "source": "e45"
+  },
+  {
+    "target": "bioengc118",
+    "source": "bioeng103"
+  },
+  {
+    "target": "bioengc118",
+    "source": "bioeng102"
+  },
+  {
+    "target": "bioengc118",
+    "source": "bioeng104"
+  },
+  {
+    "target": "bioengc119",
+    "source": "mecengc85"
+  },
+  {
+    "target": "bioengc119",
+    "source": "civengc30"
+  },
+  {
+    "target": "bioengc119",
+    "source": "bioeng102"
+  },
+  {
+    "target": "bioengc119",
+    "source": "e7"
+  },
+  {
+    "target": "bioeng121",
+    "source": "chem3a"
+  },
+  {
+    "target": "bioeng121",
+    "source": "physics7a"
+  },
+  {
+    "target": "bioeng121",
+    "source": "physics7b"
+  },
+  {
+    "target": "bioeng121l",
+    "source": "bioeng103"
+  },
+  {
+    "target": "bioeng121l",
+    "source": "bioeng104"
+  },
+  {
+    "target": "bioeng124",
+    "source": "bioeng103"
+  },
+  {
+    "target": "bioengc125",
+    "source": "ee120"
+  },
+  {
+    "target": "bioengc125b",
+    "source": "eec106a"
+  },
+  {
+    "target": "bioengc125b",
+    "source": "bioengc125"
+  },
+  {
+    "target": "bioeng131",
+    "source": "bioeng11"
+  },
+  {
+    "target": "bioeng131",
+    "source": "bio1a"
+  },
+  {
+    "target": "bioeng131",
+    "source": "math53"
+  },
+  {
+    "target": "bioeng132",
+    "source": "e7"
+  },
+  {
+    "target": "bioeng132",
+    "source": "cs61a"
+  },
+  {
+    "target": "bioeng132",
+    "source": "math54"
+  },
+  {
+    "target": "bioeng132",
+    "source": "chem3a"
+  },
+  {
+    "target": "bioeng132",
+    "source": "bioeng103"
+  },
+  {
+    "target": "bioeng134",
+    "source": "cs61b"
+  },
+  {
+    "target": "bioeng134",
+    "source": "bioeng103"
+  },
+  {
+    "target": "bioeng135",
+    "source": "math54"
+  },
+  {
+    "target": "bioengc137",
+    "source": "e7"
+  },
+  {
+    "target": "bioengc137",
+    "source": "physics7a"
+  },
+  {
+    "target": "bioengc137",
+    "source": "math1a"
+  },
+  {
+    "target": "bioengc137",
+    "source": "math1b"
+  },
+  {
+    "target": "bioengc137",
+    "source": "math1b"
+  },
+  {
+    "target": "bioeng145",
+    "source": "cs61b"
+  },  
+  {
+    "target": "bioeng145",
+    "source": "cs70"
+  }, 
+  {
+    "target": "bioeng145",
+    "source": "math55"
+  },
+  {
+    "target": "bioeng145",
+    "source": "cs170"
+  },  
+  {
+    "target": "bioeng145",
+    "source": "stat132"
+  },  
+  {
+    "target": "bioeng147",
+    "source": "math53"
+  }, 
+  {
+    "target": "bioeng147",
+    "source": "math54"
+  },   
+  {
+    "target": "bioeng147",
+    "source": "bioeng103"
+  },  
+  {
+    "target": "bioeng148",
+    "source": "chem3a"
+  },   
+  {
+    "target": "bioeng148",
+    "source": "bioeng103"
+  },   
+  {
+    "target": "bioeng150",
+    "source": "bioeng11"
+  },   
+  {
+    "target": "bioeng150",
+    "source": "bio1a"
+  },  
+  {
+    "target": "bioeng150",
+    "source": "chem1a"
+  },  
+  {
+    "target": "bioeng163",
+    "source": "bioeng102"
+  }, 
+  {
+    "target": "bioeng163",
+    "source": "chem3a"
+  }, 
+  {
+    "target": "bioeng163",
+    "source": "physics7b"
+  }, 
+  {
+    "target": "bioeng163l",
+    "source": "bioeng163"
+  },
+  {
+    "target": "bioengc165",
+    "source": "ee16a"
+  },
+  {
+    "target": "bioengc165",
+    "source": "ee16b"
+  },
+  {
+    "target": "bioengc208",
+    "source": "e45"
+  },
+  {
+    "target": "bioengc208",
+    "source": "mcbc100a"
+  },
+  {
+    "target": "bioengc208",
+    "source": "e115"
+  },
+  {
+    "target": "bioengc208",
+    "source": "bioeng102"
+  },
+  {
+    "target": "bioengc208",
+    "source": "bioeng104"
+  },
+  {
+    "target": "bioengc209",
+    "source": "mecengc85"
+  },
+  {
+    "target": "bioengc209",
+    "source": "civengc30"
+  },
+  {
+    "target": "bioengc209",
+    "source": "bioeng102"
+  },
+  {
+    "target": "bioengc209",
+    "source": "e7"
+  },
+  {
+    "target": "bioengc213",
+    "source": "bioengc106a"
+  },
+  {
+    "target": "bioengc213",
+    "source": "bioengc106b"
+  },
+  {
+    "target": "bioengc213",
+    "source": "bioengc265"
+  },
+  {
+    "target": "bioengc215",
+    "source": "math54"
+  },
+  {
+    "target": "bioengc215",
+    "source": "physics7a"
+  },
+  {
+    "target": "bioengc215",
+    "source": "bioeng102"
+  },
+  {
+    "target": "bioengc215",
+    "source": "mecengc85"
+  },
+  {
+    "target": "bioengc216",
+    "source": "bioeng115"
+  },
+  {
+    "target": "bioeng221",
+    "source": "chem3a"
+  },
+  {
+    "target": "bioeng221",
+    "source": "physics7a"
+  },
+  {
+    "target": "bioeng221",
+    "source": "physics7b"
+  },
+  {
+    "target": "bioeng221",
+    "source": "ee143"
+  },
+  {
+    "target": "bioeng221l",
+    "source": "bioeng103"
+  },
+  {
+    "target": "bioeng221l",
+    "source": "bioeng104"
+  },
+  {
+    "target": "bioengc223",
+    "source": "civeng130"
+  },
+  {
+    "target": "bioengc223",
+    "source": "e45"
+  },
+  {
+    "target": "bioeng224",
+    "source": "bioeng103"
+  },
+  {
+    "target": "bioeng232",
+    "source": "e7"
+  },
+  {
+    "target": "bioeng232",
+    "source": "cs61a"
+  },
+  {
+    "target": "bioeng232",
+    "source": "math54"
+  },
+  {
+    "target": "bioeng232",
+    "source": "chem3a"
+  },
+  {
+    "target": "bioeng232",
+    "source": "bioeng103"
+  },
+  {
+    "target": "bioeng235",
+    "source": "math54"
+  },
+  {
+    "target": "bioengc237",
+    "source": "e7"
+  },
+  {
+    "target": "bioeng241",
+    "source": "math53"
+  },
+  {
+    "target": "bioeng241",
+    "source": "math54"
+  },
+  {
+    "target": "bioeng241",
+    "source": "math126"
+  },
+  {
+    "target": "bioeng244",
+    "source": "cs170"
+  },
+  {
+    "target": "bioeng245",
+    "source": "cs61b"
+  },
+  {
+    "target": "bioeng245",
+    "source": "cs70"
+  },
+  {
+    "target": "bioeng245",
+    "source": "math55"
+  },
+  {
+    "target": "bioeng245",
+    "source": "cs170"
+  },
+  {
+    "target": "bioeng245",
+    "source": "stat132"
+  },
+  {
+    "target": "bioeng247",
+    "source": "math53"
+  },
+  {
+    "target": "bioeng247",
+    "source": "math54"
+  },
+  {
+    "target": "bioeng247",
+    "source": "bioeng103"
+  },
+  {
+    "target": "bioeng248",
+    "source": "chem3a"
+  },
+  {
+    "target": "bioeng248",
+    "source": "mcbc100a"
+  },
+  {
+    "target": "bioengc261",
+    "source": "ee20"
+  },
+  {
+    "target": "bioengc261",
+    "source": "e7"
+  },
+  {
+    "target": "bioeng263",
+    "source": "bioeng102"
+  },
+  {
+    "target": "bioeng263",
+    "source": "chem3a"
+  },
+  {
+    "target": "bioeng263",
+    "source": "physics7b"
+  },
+  {
+    "target": "bioeng263l",
+    "source": "bioeng263"
+  },
+  {
+    "target": "bioengc265",
+    "source": "ee120"
+  },
+  {
+    "target": "bioengc265",
+    "source": "bioengc165"
+  },
+  {
+    "target": "bioeng282",
+    "source": "math54"
+  },
+  {
+    "target": "bioeng282",
+    "source": "bioeng104"
+  },
+  {
+    "target": "bioeng295",
+    "source": "e271"
+  },
+  {
+    "target": "math53",
+    "source": "math1a"
+  },
+  {
+    "target": "math53",
+    "source": "math1b"
+  },
+  {
+    "target": "math54",
+    "source": "math1a"
+  },
+  {
+    "target": "math54",
+    "source": "math1b"
+  }
+ ]
+}

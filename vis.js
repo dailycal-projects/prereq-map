@@ -36,16 +36,12 @@ var simulation = d3.forceSimulation()
     // .force("xAxis",d3.forceX(width/2))
     // If 'root' then the y-value is set to 10, else it's centered around middle
     .force("y", d3.forceY(function(d) {
-      if (d.group === 1) {
-        if (d.id === "calc") {
-          d.fx = width * (2 / 5)
-        } else {
-          d.fx = width * (3 / 5)
-        }
-        d.fy = 50
-      } else {
-        return height / 1.1
-      }
+      return height / 1.1
+      // if (d.group === 1) {
+      //   d.fy = 50
+      // } else {
+      //   return height / 1.1
+      // }
     }))
     // Treat nodes as circles with given radius, to prevent overlapping
     .force("collide", d3.forceCollide().radius(70))
@@ -61,7 +57,7 @@ d3.json("chem.json", function(error, graph) {
     .selectAll("line")
     .data(graph.links)
     .enter().append("line")
-      .attr("stroke-width", function(d) { return (d.value); })
+      .attr("stroke-width", function(d) { return 5; })
       // .attr("stroke", function(d) { return color(d.group; )})
     .attr('marker-end', 'url(#end-arrow)');
 
@@ -75,8 +71,8 @@ d3.json("chem.json", function(error, graph) {
       .attr("fill", function(d) { return color(d.group); })
       .call(d3.drag()
           .on("start", dragstarted)
-          .on("drag", dragged))
-          // .on("end", dragended));
+          .on("drag", dragged)
+          .on("end", dragended))
       .on("mouseover", fade(0.1))
       .on("mouseout", fade(1));
 
@@ -94,6 +90,31 @@ d3.json("chem.json", function(error, graph) {
       .style("fill", "#000")
       .style("font-family", "Arial")
       .style("font-size", 11.5);
+
+  var tip;
+    svg.on("click", function(){
+      if (tip) tip.remove();
+    });
+    node.on("click", function(d){
+      d3.event.stopPropagation(); 
+    
+      if (tip) tip.remove();
+      
+      tip  = svg.append("g")
+        .attr("transform", "translate(" + 0  + "," + 0 + ")");
+        
+      var rect = tip.append("rect")
+        .style("fill", "white");
+
+      tip.append("text")
+        .text("Prerequisites: " + d.details)
+        .attr("dy", "10em")
+        .attr("x", 5);
+      
+      var bbox = tip.node().getBBox();
+      rect.attr("width", bbox.width + 15)
+          .attr("height", bbox.height + 15)
+    });
 
   simulation
       .nodes(graph.nodes)

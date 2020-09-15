@@ -5,7 +5,7 @@
  Visualization to do: use D3 to dynamically generate separate 'search result' graphs, instead of visualizing on top of the whole department graph. On click or on search, create this 'new graph' 
 | Title | prereq-map |
 |-|-|
-| Developer    | []() |
+| Developer    | [Purva Kapshikar](mailto:pkkapshikar@berkeley.edu), [Alex Gao]() |
 | Link | [http://projects.dailycal.org/2018/prereq-map/](http://projects.dailycal.org/2018/prereq-map/) |
 
 
